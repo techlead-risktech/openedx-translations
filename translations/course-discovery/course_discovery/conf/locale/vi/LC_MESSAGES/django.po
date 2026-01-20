@@ -507,7 +507,7 @@ msgstr "Đã nghỉ hưu"
 #. similar to a normal university course.
 #: apps/course_metadata/choices.py:30
 msgid "Instructor-paced"
-msgstr "Theo nhịp độ của giảng viên"
+msgstr "Theo tiến độ của người hướng dẫn"
 
 #. Translators: Self-paced refers to course runs that operate on the student's
 #. schedule.
@@ -517,7 +517,7 @@ msgstr "Tự chủ"
 
 #: apps/course_metadata/choices.py:37 apps/learner_pathway/choices.py:6
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Đang hoạt động"
 
 #: apps/course_metadata/choices.py:39
 msgid "Deleted"
@@ -780,7 +780,7 @@ msgstr "Điền lại CourseType và CourseRunType kiểu mới nếu có thể.
 
 #: apps/course_metadata/management/commands/backpopulate_course_type.py:15
 msgid "CODE"
-msgstr "MÃ SỐ"
+msgstr "Mã"
 
 #: apps/course_metadata/management/commands/backpopulate_course_type.py:16
 #: apps/course_metadata/management/commands/delete_person_dups.py:33
@@ -911,7 +911,7 @@ msgstr "Chương trình"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:89
 msgid "Course Runs"
-msgstr "Khóa học chạy"
+msgstr "Đợt chạy khóa học"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:90
 msgid "Target"
@@ -1979,7 +1979,7 @@ msgstr "Không thể liên kết trường hợp nhận xét cho {}"
 
 #: apps/course_metadata/templates/admin/course_metadata/course_run.html:24
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: apps/course_metadata/templates/admin/course_metadata/course_run.html:27
 msgid "Back to Program"
@@ -2057,7 +2057,7 @@ msgid ""
 "has been published. No further action is necessary."
 msgstr ""
 "Trang Giới thiệu về khóa học %(course_run_number)s của %(course_name)s đã "
-"được xuất bản. Không có hành động hơn nữa là cần thiết."
+"được xuất bản. Không có thao tác hơn nữa là cần thiết."
 
 #: apps/course_metadata/templates/course_metadata/email/go_live.html:24
 #, python-brace-format
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: apps/course_metadata/utils.py:390
 msgid "Special characters not allowed in Course Number."
-msgstr "Ký tự đặc biệt không được phép trong Mã số khóa học."
+msgstr "Ký tự đặc biệt không được phép trong Mã khóa học."
 
 #: apps/course_metadata/validators.py:30
 #, python-brace-format

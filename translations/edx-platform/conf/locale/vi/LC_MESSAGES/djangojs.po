@@ -123,7 +123,7 @@ msgstr "Xóa \"<%- signatoryName %>\" khỏi danh sách người ký?"
 #: cms/static/js/certificates/views/signatory_editor.js:137
 #: cms/static/js/views/course_info_update.js:238
 msgid "This action cannot be undone."
-msgstr "Hành động này không thể được hoàn tác."
+msgstr "Thao tác này không thể được hoàn tác."
 
 #: cms/static/js/certificates/views/signatory_editor.js:140
 #: cms/static/js/views/asset.js:57 cms/static/js/views/list_item.js:60
@@ -157,7 +157,7 @@ msgstr "Hành động này không thể được hoàn tác."
 #: cms/templates/js/xblock-outline.underscore:33
 #: common/static/common/templates/discussion/templates.underscore:842
 msgid "Delete"
-msgstr "Xóa bỏ"
+msgstr "Xóa"
 
 #: cms/static/js/certificates/views/signatory_editor.js:143
 #: cms/static/js/views/course_info_update.js:249
@@ -209,7 +209,7 @@ msgstr "Đang xóa"
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:151
 #: lms/templates/learner_dashboard/verification_popover.underscore:10
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: cms/static/js/certificates/views/signatory_editor.js:177
 msgid "Upload signature image."
@@ -323,7 +323,7 @@ msgstr "Quá trình nhập của bạn không thành công."
 #: cms/static/js/features/import/views/import.js:66
 msgid "Your import is in progress; navigating away will abort it."
 msgstr ""
-"Quá trình nhập của bạn đang được tiến hành; điều hướng đi sẽ hủy bỏ nó."
+"Quá trình nhập của bạn đang được tiến hành; điều hướng đi sẽ hủy nó."
 
 #: cms/static/js/features/import/views/import.js:253
 msgid "Error importing course"
@@ -375,7 +375,7 @@ msgstr "Bạn phải chỉ định một tên"
 
 #: cms/static/js/models/course_update.js:12
 msgid "Action required: Enter a valid date."
-msgstr "Hành động bắt buộc: Nhập ngày hợp lệ."
+msgstr "Thao tác bắt buộc: Nhập ngày hợp lệ."
 
 #: cms/static/js/models/group.js:41
 msgid "Group name is required"
@@ -483,7 +483,7 @@ msgstr "Không thể đặt điểm đậu xuống dưới %(minimum_grade_cutof
 
 #: cms/static/js/models/textbook.js:62
 msgid "Textbook name is required"
-msgstr "Tên sách giáo khoa là bắt buộc"
+msgstr "Tên sách giáo trình là bắt buộc"
 
 #: cms/static/js/models/textbook.js:68
 msgid "Please add at least one chapter"
@@ -510,7 +510,7 @@ msgstr "hoặc"
 
 #: cms/static/js/models/xblock_validation.js:23
 msgid "This unit has validation issues."
-msgstr "Đơn vị này có vấn đề xác nhận."
+msgstr "Mục này có vấn đề xác nhận."
 
 #: cms/static/js/models/xblock_validation.js:25
 msgid "This component has validation issues."
@@ -763,7 +763,7 @@ msgstr "Xem tập tin"
 #: cms/static/js/views/pages/container.js:447
 #: cms/static/js/views/utils/xblock_utils.js:134
 msgid "Dismiss"
-msgstr "Loại bỏ"
+msgstr "Bỏ qua"
 
 #: cms/static/js/views/course_rerun.js:53
 msgid "Create Re-run"
@@ -1144,7 +1144,7 @@ msgstr "Xuất bản tất cả các thay đổi chưa được xuất bản cho
 #: cms/templates/js/course-outline.underscore:185
 #: cms/templates/js/publish-xblock.underscore:121
 msgid "Publish"
-msgstr "Công bố"
+msgstr "Xuất bản"
 
 #: cms/static/js/views/modals/course_outline_modals.js:239
 msgid "Highlights for {display_name}"
@@ -1209,7 +1209,7 @@ msgstr "bổ sung"
 #: lms/templates/ccx/schedule.underscore:13
 #: lms/templates/ccx/schedule.underscore:83
 msgid "Unit"
-msgstr "Đơn vị"
+msgstr "Mục"
 
 #: cms/static/js/views/modals/edit_xblock.js:161
 #: cms/static/js/views/modals/preview_v2_library_changes.js:78
@@ -1287,7 +1287,7 @@ msgstr "tiểu mục"
 
 #: cms/static/js/views/move_xblock_list.js:35
 msgid "Units"
-msgstr "Các đơn vị"
+msgstr "Các mục"
 
 #: cms/static/js/views/move_xblock_list.js:36
 msgid "Components"
@@ -1306,7 +1306,7 @@ msgstr "{parentCategory} này không có {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Dàn bài khóa học"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -1336,7 +1336,7 @@ msgid ""
 "You cannot undo this action."
 msgstr ""
 "Bạn có chắc chắn muốn quay lại phiên bản được xuất bản gần đây nhất của "
-"thiết bị không? Bạn không thể hoàn tác hành động này."
+"thiết bị không? Bạn không thể hoàn tác thao tác này."
 
 #: cms/static/js/views/pages/container_subviews.js:235
 msgid "Discarding Changes"
@@ -1537,7 +1537,7 @@ msgid ""
 "Deleting a textbook cannot be undone and once deleted any reference to it in"
 " your courseware's navigation will also be removed."
 msgstr ""
-"Việc xóa sách giáo khoa không thể hoàn tác được và sau khi xóa, mọi tham "
+"Việc xóa sách giáo trình không thể hoàn tác được và sau khi xóa, mọi tham "
 "chiếu đến nó trong điều hướng chương trình học của bạn cũng sẽ bị xóa."
 
 #: cms/static/js/views/tabs.js:160
@@ -1548,7 +1548,7 @@ msgstr "Xóa xác nhận trang"
 msgid ""
 "Are you sure you want to delete this page? This action cannot be undone."
 msgstr ""
-"Bạn có chắc chắn muốn xóa trang này? Hành động này không thể được hoàn tác."
+"Bạn có chắc chắn muốn xóa trang này? Thao tác này không thể được hoàn tác."
 
 #: cms/static/js/views/uploads.js:30
 #: cms/templates/js/metadata-file-uploader-item.underscore:1
@@ -1565,7 +1565,7 @@ msgid ""
 "The combined length of the organization, course number, and course run "
 "fields cannot be more than <%- limit %> characters."
 msgstr ""
-"Độ dài kết hợp của tổ chức, mã số khóa học và các trường chạy khóa học không"
+"Độ dài kết hợp của tổ chức, Mã khóa học và các trường chạy khóa học không"
 " thể nhiều hơn <%- limit %> ký tự."
 
 #: cms/static/js/views/utils/create_library_utils.js:9
@@ -1585,7 +1585,7 @@ msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Di chuyển bị hủy bỏ. &quot; {sourceDisplayName} &quot; đã được di chuyển trở"
+"Di chuyển bị hủy. &quot; {sourceDisplayName} &quot; đã được di chuyển trở"
 " lại vị trí ban đầu."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -1644,7 +1644,7 @@ msgstr "tiểu mục"
 #: cms/static/js/views/utils/xblock_utils.js:353
 #: cms/templates/js/container-access.underscore:7
 msgid "unit"
-msgstr "đơn vị"
+msgstr "mục"
 
 #: cms/static/js/views/validation.js:22
 msgid "You've made some changes"
@@ -3104,7 +3104,7 @@ msgstr "Tất cả các tiểu mục"
 
 #: lms/static/js/ccx/schedule.js:86
 msgid "All units"
-msgstr "Tất cả các đơn vị"
+msgstr "Tất cả các mục"
 
 #: lms/static/js/ccx/schedule.js:185 lms/static/js/ccx/schedule.js:188
 #: lms/templates/ccx/schedule.underscore:38
@@ -4699,7 +4699,7 @@ msgid ""
 "{platformName}.{strongEnd}"
 msgstr ""
 "{strongStart} Cảnh báo: Việc xóa tài khoản là vĩnh viễn. {strongEnd} Vui "
-"lòng đọc kỹ phần trên trước khi tiếp tục. Đây là hành động không thể thay "
+"lòng đọc kỹ phần trên trước khi tiếp tục. Đây là thao tác không thể thay "
 "đổi và {strongStart} bạn sẽ không thể sử dụng cùng một email trên "
 "{platformName} nữa. {strongEnd}"
 
@@ -5266,7 +5266,7 @@ msgstr ""
 
 #: xmodule/js/src/capa/display.js:458
 msgid "Could not grade your answer. The submission was aborted."
-msgstr "Không thể chấm điểm câu trả lời của bạn. Việc gửi đã bị hủy bỏ."
+msgstr "Không thể chấm điểm câu trả lời của bạn. Việc gửi đã bị hủy."
 
 #: xmodule/js/src/capa/display.js:522
 msgid ""
@@ -5274,7 +5274,7 @@ msgid ""
 "you can, please use Chrome or Safari which have been verified to support "
 "file uploads."
 msgstr ""
-"Quá trình gửi bị hủy bỏ! Rất tiếc, trình duyệt của bạn không hỗ trợ tải tập "
+"Quá trình gửi bị hủy! Rất tiếc, trình duyệt của bạn không hỗ trợ tải tập "
 "tin lên. Nếu có thể, vui lòng sử dụng Chrome hoặc Safari đã được xác minh để"
 " hỗ trợ tải tệp lên."
 
@@ -5519,7 +5519,7 @@ msgstr "Khối mã"
 #: xmodule/js/src/html/edit.js:380
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:3
 msgid "Code"
-msgstr "Mã số"
+msgstr "Mã"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -6957,7 +6957,7 @@ msgstr "Hiển thị tất cả"
 #: cms/templates/js/course-outline.underscore:203
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:6
 msgid "Actions"
-msgstr "hành động"
+msgstr "thao tác"
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "You haven't added any assets to this course yet."
@@ -7022,7 +7022,7 @@ msgstr "Ghi đè tiêu đề khóa học"
 
 #: cms/templates/js/certificate-details.underscore:36
 msgid "Course Number"
-msgstr "Số của khóa học"
+msgstr "Mã khóa học"
 
 #: cms/templates/js/certificate-details.underscore:42
 msgid "Course Number Override"
@@ -7122,7 +7122,7 @@ msgid ""
 "Caution: The last published version of this unit is live. By publishing "
 "changes you will change the student experience."
 msgstr ""
-"Thận trọng: Phiên bản được xuất bản cuối cùng của đơn vị này đang hoạt động."
+"Thận trọng: Phiên bản được xuất bản cuối cùng của mục này đang hoạt động."
 " Bằng cách xuất bản những thay đổi, bạn sẽ thay đổi trải nghiệm của sinh "
 "viên."
 
@@ -7140,12 +7140,12 @@ msgstr "Đây là tên của nhóm"
 
 #: cms/templates/js/content-group-editor.underscore:25
 msgid "This content group is used in one or more units."
-msgstr "Nhóm nội dung này được sử dụng ở một hoặc nhiều đơn vị."
+msgstr "Nhóm nội dung này được sử dụng ở một hoặc nhiều mục."
 
 #: cms/templates/js/content-group-editor.underscore:40
 #: cms/templates/js/partition-group-details.underscore:35
 msgid "Cannot delete when in use by a unit"
-msgstr "Không thể xóa khi đơn vị đang sử dụng"
+msgstr "Không thể xóa khi mục đang sử dụng"
 
 #: cms/templates/js/content-visibility-editor.underscore:2
 msgid "Subsection Visibility"
@@ -7201,7 +7201,7 @@ msgid ""
 "Learners do not see the subsection in the course outline. The subsection is "
 "not included in grade calculations."
 msgstr ""
-"Người học không nhìn thấy tiểu mục trong đề cương khóa học. Tiểu mục này "
+"Người học không nhìn thấy tiểu mục trong dàn bài khóa học. Tiểu mục này "
 "không được bao gồm trong tính toán điểm."
 
 #: cms/templates/js/content-visibility-editor.underscore:42
@@ -7320,7 +7320,7 @@ msgid ""
 "Hidden in the course outline, but sections are accessible for your learners "
 "through their separate link."
 msgstr ""
-"Bị ẩn trong đề cương khóa học, nhưng người học có thể truy cập các phần "
+"Bị ẩn trong dàn bài khóa học, nhưng người học có thể truy cập các phần "
 "thông qua liên kết riêng của họ."
 
 #: cms/templates/js/course-outline.underscore:63
@@ -7337,7 +7337,7 @@ msgstr "Những thay đổi chưa được xuất bản đối với nội dung 
 
 #: cms/templates/js/course-outline.underscore:73
 msgid "Unpublished units will not be released"
-msgstr "Các đơn vị chưa được xuất bản sẽ không được phát hành"
+msgstr "Các mục chưa được xuất bản sẽ không được phát hành"
 
 #: cms/templates/js/course-outline.underscore:75
 msgid "Unpublished changes to content that will release in the future"
@@ -7391,7 +7391,7 @@ msgstr "Tên hiển thị"
 
 #: cms/templates/js/course-outline.underscore:169
 msgid "Discussions enabled"
-msgstr "Đã bật thảo luận"
+msgstr "Thảo luận được bật"
 
 #: cms/templates/js/course-outline.underscore:176
 #: cms/templates/js/course-outline.underscore:177
@@ -7450,7 +7450,7 @@ msgstr "Không có lịch trình"
 #: cms/templates/js/course-outline.underscore:311
 #: cms/templates/js/highlights-editor.underscore:2
 msgid "Section Highlights"
-msgstr "Phần nổi bật"
+msgstr "Điểm nổi bật của phần"
 
 #: cms/templates/js/course-outline.underscore:318
 #: cms/templates/js/course-outline.underscore:351
@@ -7713,7 +7713,7 @@ msgstr "Bưu kiện"
 #: cms/templates/js/discussion-editor.underscore:3
 #: common/static/common/templates/discussion/templates.underscore:727
 msgid "Discussion"
-msgstr "Cuộc thảo luận"
+msgstr "Thảo luận"
 
 #: cms/templates/js/discussion-editor.underscore:8
 msgid "Enable discussion"
@@ -7721,11 +7721,11 @@ msgstr "Bật thảo luận"
 
 #: cms/templates/js/discussion-editor.underscore:12
 msgid "Topics for unpublished units would not be created"
-msgstr "Chủ đề cho các đơn vị chưa được xuất bản sẽ không được tạo"
+msgstr "Chủ đề cho các mục chưa được xuất bản sẽ không được tạo"
 
 #: cms/templates/js/discussion-editor.underscore:16
 msgid "Please enable discussions for graded units from the"
-msgstr "Vui lòng kích hoạt thảo luận cho các đơn vị được xếp loại từ"
+msgstr "Vui lòng kích hoạt thảo luận cho các mục được xếp loại từ"
 
 #: cms/templates/js/discussion-editor.underscore:24
 msgid "Discussion Configuration"
@@ -7780,11 +7780,11 @@ msgstr "xóa chương"
 
 #: cms/templates/js/edit-textbook.underscore:10
 msgid "Textbook information"
-msgstr "Thông tin sách giáo khoa"
+msgstr "Thông tin sách giáo trình"
 
 #: cms/templates/js/edit-textbook.underscore:12
 msgid "Textbook Name"
-msgstr "Tên sách giáo khoa"
+msgstr "Tên sách giáo trình"
 
 #: cms/templates/js/edit-textbook.underscore:13
 msgid "Introduction to Cookie Baking"
@@ -7795,7 +7795,7 @@ msgid ""
 "provide the title/name of the text book as you would like your students to "
 "see it"
 msgstr ""
-"cung cấp tiêu đề/tên của sách giáo khoa như bạn muốn học sinh nhìn thấy"
+"cung cấp tiêu đề/tên của sách giáo trình như bạn muốn học sinh nhìn thấy"
 
 #: cms/templates/js/edit-textbook.underscore:18
 msgid "Chapter information"
@@ -7863,7 +7863,7 @@ msgid ""
 " to any Unit via the {linkStart}Course Outline{linkEnd}."
 msgstr ""
 "Cấu hình nhóm này không được sử dụng. Bắt đầu bằng cách thêm thử nghiệm nội "
-"dung vào bất kỳ Bài học nào thông qua {linkStart} Đề cương khóa học "
+"dung vào bất kỳ Bài học nào thông qua {linkStart} Dàn bài khóa học "
 "{linkEnd} ."
 
 #: cms/templates/js/group-configuration-editor.underscore:9
@@ -8030,11 +8030,11 @@ msgstr "Hiện đã được chọn"
 
 #: cms/templates/js/no-textbooks.underscore:2
 msgid "You haven't added any textbooks to this course yet."
-msgstr "Bạn chưa thêm bất kỳ sách giáo khoa nào vào khóa học này."
+msgstr "Bạn chưa thêm bất kỳ sách giáo trình nào vào khóa học này."
 
 #: cms/templates/js/no-textbooks.underscore:2
 msgid "Add your first textbook"
-msgstr "Thêm sách giáo khoa đầu tiên của bạn"
+msgstr "Thêm sách giáo trình đầu tiên của bạn"
 
 #: cms/templates/js/paging-header.underscore:7
 #: common/static/common/templates/components/paging-footer.underscore:2
@@ -8052,7 +8052,7 @@ msgid ""
 "In the {linkStart}Course Outline{linkEnd}, use this group to control access "
 "to a component."
 msgstr ""
-"Trong {linkStart} Đề cương khóa học {linkEnd} , hãy sử dụng nhóm này để kiểm"
+"Trong {linkStart} Dàn bài khóa học {linkEnd} , hãy sử dụng nhóm này để kiểm"
 " soát quyền truy cập vào một thành phần."
 
 #: cms/templates/js/previous-video-upload-list.underscore:2
@@ -8128,7 +8128,7 @@ msgstr "Đã xuất bản (chưa phát hành)"
 
 #: cms/templates/js/publish-xblock.underscore:10
 msgid "Draft (Unpublished changes)"
-msgstr "Bản nháp (Những thay đổi chưa được công bố)"
+msgstr "Bản nháp (Những thay đổi chưa được Xuất bản)"
 
 #: cms/templates/js/publish-xblock.underscore:13
 msgid "Release:"
@@ -8193,7 +8193,7 @@ msgstr "Lưu ý: Không ẩn bài tập đã chấm điểm sau khi đã phát h
 
 #: cms/templates/js/publish-xblock.underscore:137
 msgid "Copy Unit"
-msgstr "Sao chép đơn vị"
+msgstr "Sao chép mục"
 
 #: cms/templates/js/release-date-editor.underscore:1
 msgid "Release Date and Time"
@@ -8365,7 +8365,7 @@ msgstr "Tải lên hình ảnh chữ ký"
 
 #: cms/templates/js/staff-lock-editor.underscore:4
 msgid "Unit Visibility"
-msgstr "Hiển thị đơn vị"
+msgstr "Hiển thị mục"
 
 #: cms/templates/js/staff-lock-editor.underscore:6
 msgid "Section Visibility"
@@ -8384,7 +8384,7 @@ msgstr ""
 
 #: cms/templates/js/staff-lock-editor.underscore:22
 msgid "Hide in Course Outline, accessible via Link"
-msgstr "Ẩn trong Đề cương khóa học, có thể truy cập qua Liên kết"
+msgstr "Ẩn trong Dàn bài khóa học, có thể truy cập qua Liên kết"
 
 #: cms/templates/js/staff-lock-editor.underscore:24
 msgid ""
@@ -8434,7 +8434,7 @@ msgstr ""
 
 #: cms/templates/js/summary-configuration-editor.underscore:3
 msgid "Xpert unit summaries"
-msgstr "Tóm tắt đơn vị Xpert"
+msgstr "Tóm tắt mục Xpert"
 
 #: cms/templates/js/summary-configuration-editor.underscore:8
 msgid "Enable summaries"
@@ -8626,7 +8626,7 @@ msgstr "Tài khoản"
 msgid ""
 "This action updates the {provider} information for your entire organization."
 msgstr ""
-"Hành động này cập nhật thông tin {provider} cho toàn bộ tổ chức của bạn."
+"Thao tác này cập nhật thông tin {provider} cho toàn bộ tổ chức của bạn."
 
 #: cms/templates/js/transcript-organization-credentials.underscore:7
 msgid "Enter the account information for your organization."
@@ -8642,7 +8642,7 @@ msgstr "Bí mật API"
 
 #: cms/templates/js/unit-access-editor.underscore:8
 msgid "Unit Access"
-msgstr "Truy cập đơn vị"
+msgstr "Truy cập mục"
 
 #: cms/templates/js/unit-access-editor.underscore:11
 msgid "Restrict access to:"
@@ -8666,7 +8666,7 @@ msgid ""
 "to this unit."
 msgstr ""
 "Nhóm này không còn tồn tại. Chọn một nhóm khác hoặc không hạn chế quyền truy"
-" cập vào đơn vị này."
+" cập vào mục này."
 
 #: cms/templates/js/upload-dialog.underscore:25
 msgid "File upload succeeded"
@@ -9101,7 +9101,7 @@ msgstr "Cập nhật nhận xét"
 
 #: common/static/common/templates/discussion/templates.underscore:305
 msgid "discussion"
-msgstr "cuộc thảo luận"
+msgstr "thảo luận"
 
 #: common/static/common/templates/discussion/templates.underscore:309
 msgid "answered question"
@@ -9465,7 +9465,7 @@ msgstr "Sửa đổi lần cuối bởi"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:30
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Đang hoạt động"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:45
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:46
@@ -9674,7 +9674,7 @@ msgstr "Xóa tiểu mục %(subsectionDisplayName)s"
 #: lms/templates/ccx/schedule.underscore:108
 #, python-format
 msgid "Remove unit %(unitName)s"
-msgstr "Loại bỏ đơn vị %(unitName)s"
+msgstr "Loại bỏ mục %(unitName)s"
 
 #: lms/templates/courseware/proctored-exam-controls.underscore:3
 msgid "Mark Exam As Completed"
@@ -9737,7 +9737,7 @@ msgstr "Bắt đầu"
 
 #: lms/templates/discovery/filter_bar.underscore:3
 msgid "Clear All"
-msgstr "Làm sạch tất cả"
+msgstr "Xóa tất cả"
 
 #: lms/templates/edxnotes/note-item.underscore:3
 msgid "Highlighted text"

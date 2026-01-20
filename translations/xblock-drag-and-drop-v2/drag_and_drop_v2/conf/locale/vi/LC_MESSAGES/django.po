@@ -83,7 +83,7 @@ msgstr "Tất nhiên là nó đi tới đây! Nó đi bất cứ đâu!"
 
 #: default_data.py:29
 msgid "Goes to the top"
-msgstr "Đi lên đầu"
+msgstr "Di chuyển lên đầu"
 
 #: default_data.py:30
 msgid "Goes to the middle"
@@ -517,7 +517,7 @@ msgstr "Lưu"
 
 #: templates/html/drag_and_drop_edit.html:296
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: utils.py:121
 #, python-brace-format

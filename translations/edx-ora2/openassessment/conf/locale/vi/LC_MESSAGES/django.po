@@ -179,7 +179,7 @@ msgstr "Lưu"
 
 #: templates/legacy/edit/oa_edit.html:32
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: templates/legacy/edit/oa_edit_assessment_steps.html:6
 msgid ""
@@ -2097,7 +2097,7 @@ msgstr "Bước vấn đề"
 
 #: templates/legacy/staff_area/oa_staff_area.html:95
 msgid "Active Learners in Step"
-msgstr "Người học tích cực trong từng bước"
+msgstr "Người học Đang hoạt động trong từng bước"
 
 #: templates/legacy/staff_area/oa_staff_area.html:113
 msgid "Dates"
@@ -2400,7 +2400,7 @@ msgstr "Xóa bài nộp của nhóm khỏi việc chấm điểm"
 
 #: templates/legacy/staff_area/oa_student_info.html:242
 msgid "Caution: This Action Cannot Be Undone"
-msgstr "Thận trọng: Hành động này không thể hoàn tác"
+msgstr "Thận trọng: Thao tác này không thể hoàn tác"
 
 #: templates/legacy/staff_area/oa_student_info.html:244
 msgid ""

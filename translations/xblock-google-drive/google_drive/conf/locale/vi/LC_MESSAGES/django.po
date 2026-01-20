@@ -114,7 +114,7 @@ msgstr "Lưu"
 #: templates/html/google_calendar_edit.html:64
 #: templates/html/google_docs_edit.html:51
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: templates/html/google_docs_edit.html:9
 msgid "Invalid Google Document"

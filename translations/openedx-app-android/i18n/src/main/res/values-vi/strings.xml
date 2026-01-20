@@ -46,19 +46,19 @@
 	<!-- Accessibility -->
 	<string name="discovery.discovery_accessibility_play_video">Phát video</string>
 
-	<string name="course.course_outline">Tom tăt nội dung chương trinh</string>
+	<string name="course.course_outline">Dàn bài khóa học</string>
 	<string name="course.course_content">Nội dung khóa học</string>
-	<string name="course.course_units">Đơn vị khóa học</string>
+	<string name="course.course_units">Mục khóa học</string>
 	<string name="course.course_subsections">Tiểu mục khóa học</string>
 	<string name="course.course_videos">Video</string>
 	<string name="course.course_you_earned_certificate">Xin chúc mừng, bạn đã đạt được chứng chỉ khóa học này trong &amp;quot; %s &amp;quot;.</string>
 	<string name="course.course_view_certificate">Xem chứng chỉ</string>
 	<string name="course.course_navigation_prev">Trước đó</string>
-	<string name="course.course_navigation_prev_unit">Đơn vị trước đó</string>
+	<string name="course.course_navigation_prev_unit">Mục trước đó</string>
 	<string name="course.course_navigation_next">Tiếp theo</string>
-	<string name="course.course_navigation_next_unit">Đơn vị tiếp theo</string>
+	<string name="course.course_navigation_next_unit">Mục tiếp theo</string>
 	<string name="course.course_navigation_finish">Hoàn thành</string>
-	<string name="course.course_resume_unit_title">Đơn vị cuối cùng:</string>
+	<string name="course.course_resume_unit_title">Mục cuối cùng:</string>
 	<string name="course.course_resume_unit_btn">Bản tóm tắt</string>
 	<string name="course.course_discussion">Cuộc thảo luận</string>
 	<string name="course.course_handouts">Tài liệu phát tay</string>
@@ -121,7 +121,7 @@
 	<string name="profile.profile_delete_account">Xóa tài khoản</string>
 	<string name="profile.profile_you_want_to">Bạn có chắc chắn muốn</string>
 	<string name="profile.profile_delete_your_account">Xóa tài khoản của bạn\?</string>
-	<string name="profile.profile_confirm_action">Để xác nhận hành động này, vui lòng nhập mật khẩu tài khoản của bạn.</string>
+	<string name="profile.profile_confirm_action">Để xác nhận thao tác này, vui lòng nhập mật khẩu tài khoản của bạn.</string>
 	<string name="profile.profile_yes_delete_account">Có, xóa tài khoản</string>
 	<string name="profile.profile_password_is_incorrect">Mật khẩu không đúng. Vui lòng thử lại.</string>
 	<string name="profile.profile_invalid_password">Mật khẩu quá ngắn</string>
@@ -246,7 +246,7 @@
 	<string name="core.core_privacy_policy">Chính sách bảo mật</string>
 	<string name="core.core_terms_of_use">Điều khoản sử dụng</string>
 	<string name="core.core_profile">Hồ sơ</string>
-	<string name="core.core_cancel">Hủy bỏ</string>
+	<string name="core.core_cancel">Hủy</string>
 	<string name="core.core_search">Tìm kiếm</string>
 	<string name="core.core_select_value">Chọn giá trị</string>
 	<string name="core.core_label_starting">Bắt đầu %1$s</string>
@@ -259,7 +259,7 @@
 	<string name="core.core_assessment_soon">Sớm</string>
 	<string name="core.core_offline">Ngoại tuyến</string>
 	<string name="core.core_warning">Cảnh báo</string>
-	<string name="core.core_delete">Xóa bỏ</string>
+	<string name="core.core_delete">Xóa</string>
 	<string name="core.core_confirm">Xác nhận</string>
 	<string name="core.core_dismiss">Loại bỏ</string>
 	<string name="core.core_reload">Tải lại</string>

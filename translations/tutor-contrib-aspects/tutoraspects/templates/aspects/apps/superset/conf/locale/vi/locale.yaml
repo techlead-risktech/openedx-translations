@@ -16,12 +16,12 @@ en:
     <dd> Tỷ lệ phần trăm trung bình các câu trả lời đúng trong lần đầu tiên học sinh làm bài toán.</dd>
     </dl>
   Action: Hoạt động
-  Action Count: Số lượng hành động
-  Action Date: Ngày hành động
-  Active: Tích cực
+  Action Count: Số lượng thao tác
+  Action Date: Ngày thao tác
+  Active: Đang hoạt động
   Active Courses: Các khóa học đang hoạt động
   Active Learner: Người học đang hoạt động
-  Active Learners: Người học tích cực
+  Active Learners: Người học Đang hoạt động
   Active Users Per Organization: Người dùng đang hoạt động trên mỗi tổ chức
   Active Within Last 7 Days: Hoạt động trong vòng 7 ngày qua
   Actor ID: ID diễn viên
@@ -46,8 +46,8 @@ en:
   COUNT(*): ĐẾM(*)
   Changed By Fk: Được thay đổi bởi Fk
   Changed On: Đã thay đổi
-  Chart showing the number of Superset actions taken on each chart in the selected time period.: Biểu đồ hiển thị số lượng hành động Superset được thực hiện trên mỗi biểu đồ trong khoảng thời gian đã chọn.
-  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Biểu đồ hiển thị số lượng hành động Superset được thực hiện trên mỗi trang tổng quan trong khoảng thời gian đã chọn.
+  Chart showing the number of Superset actions taken on each chart in the selected time period.: Biểu đồ hiển thị số lượng thao tác Superset được thực hiện trên mỗi biểu đồ trong khoảng thời gian đã chọn.
+  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Biểu đồ hiển thị số lượng thao tác Superset được thực hiện trên mỗi trang tổng quan trong khoảng thời gian đã chọn.
   Chart showing the number of registered users over the selected time period.: Biểu đồ hiển thị số lượng người dùng đã đăng ký trong khoảng thời gian đã chọn.
   ClickHouse: ClickHouse
   ClickHouse metrics: Số liệu ClickHouse
@@ -57,8 +57,8 @@ en:
   Correct Attempts by Selected Learner: Số lần cố gắng đúng của người học được chọn
   Count: Đếm
   Count of Passing Grades: Số điểm đạt yêu cầu
-  Count of unique users who performed an action in Superset over the selected time period.: Số lượng người dùng duy nhất đã thực hiện một hành động trong Superset trong khoảng thời gian đã chọn.
-  Count over time of unique users who performed an action in Superset over the selected time period.: Đếm theo thời gian số người dùng duy nhất đã thực hiện một hành động trong Superset trong khoảng thời gian đã chọn.
+  Count of unique users who performed an action in Superset over the selected time period.: Số lượng người dùng duy nhất đã thực hiện một thao tác trong Superset trong khoảng thời gian đã chọn.
+  Count over time of unique users who performed an action in Superset over the selected time period.: Đếm theo thời gian số người dùng duy nhất đã thực hiện một thao tác trong Superset trong khoảng thời gian đã chọn.
   Course Comparison Dashboard: Bảng so sánh khóa học
   Course Dashboard: Trang tổng quan khóa học
   Course Data JSON: Dữ liệu khóa học JSON
@@ -80,7 +80,7 @@ en:
   Course Tag: Thẻ khóa học
   Course grade: Điểm khóa học
   Course name: Tên khóa học
-  Course run: Khóa học chạy
+  Course run: Đợt chạy khóa học
   Courses: Khóa học
   Courses Cnt: Khóa học Cnt
   Courses Per Organization: Khóa học cho mỗi tổ chức
@@ -285,7 +285,7 @@ en:
   Video Engagement per Subsection: Tương tác video trên mỗi tiểu mục
   Video Event: Sự kiện video
   Video ID: Mã video
-  Video Id: Mã số Video
+  Video Id: Mã Video
   Video Link: Liên kêt video
   Video Location and Name: Vị trí và tên video
   Video Name: Tên Video

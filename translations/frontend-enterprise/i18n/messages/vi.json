@@ -1,5 +1,5 @@
 {
-  "search.facetFilters.clearAll.button": "Làm sạch tất cả",
+  "search.facetFilters.clearAll.button": "Xóa tất cả",
   "search.facetFilters.removeFilter.button": "Xóa bộ lọc {filterTitle}",
   "search.facetFilters.showAll.button": "Hiển thị tất cả các bộ lọc {activeRefinementsCount}",
   "search.facetFilters.showLess.button": "hiện ít hơn",

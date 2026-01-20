@@ -426,7 +426,7 @@ msgid ""
 "The score kept in the xblock KVS -- duplicate of the published score in "
 "django DB"
 msgstr ""
-"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được công bố trong "
+"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được Xuất bản trong "
 "django DB"
 
 #: lti_xblock.py:545
@@ -759,7 +759,7 @@ msgstr "Trở lại bài thi."
 
 #: static/js/xblock_lti_consumer.js:143
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: static/js/xblock_lti_consumer.js:145
 msgid "OK"

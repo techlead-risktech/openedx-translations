@@ -82,7 +82,7 @@
   "ora-grading.ReviewModal.gradeNotSubmitted.heading": "Điểm chưa được gửi",
   "ora-grading.ReviewModal.gradeNotSubmitted.Content": "Rất tiếc, đã xảy ra lỗi khi chúng tôi cố gắng gửi điểm này. Vui lòng thử lại.",
   "ora-grading.ReviewModal.resubmitGrade": "Gửi lại lưới",
-  "ora-grading.ReviewModal.dismiss": "Loại bỏ",
+  "ora-grading.ReviewModal.dismiss": "Bỏ qua",
   "ora-grading.ReviewModal.errorSubmittingGrade.Heading": "Lỗi gửi điểm",
   "ora-grading.ReviewModal.errorSubmittingGrade.Content": "Có vẻ như có người khác đã đến đây trước! Điểm bạn nộp đã bị từ chối",
   "ora-grading.ReviewModal.errorLockContestedHeading": "Khóa thuộc sở hữu của người dùng khác",

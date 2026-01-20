@@ -305,4 +305,4 @@ msgstr "Lưu"
 
 #: templates/html/studio_view.html:126
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"

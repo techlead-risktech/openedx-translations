@@ -34,4 +34,4 @@ msgstr "Lưu"
 
 #: templates/html/audio_edit.html:14
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"

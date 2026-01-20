@@ -2,7 +2,7 @@
   "catalogPage.askXpert.title": "chuyên gia",
   "catalogPage.askXpert.description": "Sử dụng AI để thu hẹp tìm kiếm của bạn.",
   "catalogPage.askXpert.loadingMessage": "Xpert đang suy nghĩ! Hãy đợi chúng tôi trong khi chúng tôi tạo danh mục cho <b>“ {query} ”...</b>",
-  "catalogPage.askXpert.cancel": "Hủy bỏ",
+  "catalogPage.askXpert.cancel": "Hủy",
   "catalogPage.askXpert.poweredBy": "Được hỗ trợ bởi OpenAI",
   "catalogInfoModal.relatedSkillsHeading": "Các kỹ năng liên quan",
   "catalogInfoModal.moreInfoButton": "Xem chi tiết khóa học",

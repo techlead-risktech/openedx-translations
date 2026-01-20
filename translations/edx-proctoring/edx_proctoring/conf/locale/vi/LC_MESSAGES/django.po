@@ -36,11 +36,11 @@ msgstr "Tất cả các lỗi chưa được xem xét"
 
 #: admin.py:142
 msgid "active proctored exams"
-msgstr "các kỳ thi giám sát tích cực"
+msgstr "các kỳ thi giám sát Đang hoạt động"
 
 #: admin.py:197
 msgid "courses with active proctored exams"
-msgstr "các khóa học với các kỳ thi giám sát tích cực"
+msgstr "các khóa học với các kỳ thi giám sát Đang hoạt động"
 
 #: admin.py:354
 msgid "Course Id"

@@ -55,16 +55,16 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/admin.py:51
 msgid "Regenerate selected course outlines"
-msgstr "Tạo lại đề cương khóa học đã chọn"
+msgstr "Tạo lại dàn bài khóa học đã chọn"
 
 #: cms/djangoapps/contentstore/admin.py:59
 msgid "All course outline regenerations successfully requested."
 msgstr ""
-"Tất cả các yêu cầu tái tạo đề cương khóa học đã được yêu cầu thành công."
+"Tất cả các yêu cầu tái tạo dàn bài khóa học đã được yêu cầu thành công."
 
 #: cms/djangoapps/contentstore/admin.py:60
 msgid "Regenerate *all* course outlines"
-msgstr "Tạo lại *tất cả* đề cương khóa học"
+msgstr "Tạo lại *tất cả* dàn bài khóa học"
 
 #: cms/djangoapps/contentstore/asset_storage_handlers.py:548
 msgid "Upload completed"
@@ -269,7 +269,7 @@ msgstr "tiểu mục"
 #: lms/templates/ccx/schedule.html:94 lms/templates/seq_block.html:89
 #: lms/templates/seq_block.html:97
 msgid "Unit"
-msgstr "Đơn vị"
+msgstr "Mục"
 
 #: cms/djangoapps/contentstore/helpers.py:218
 #: cms/djangoapps/contentstore/views/component.py:283
@@ -663,7 +663,7 @@ msgstr "{platform_name} Mức hỗ trợ:"
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr "Cuộc thảo luận"
+msgstr "Thảo luận"
 
 #: cms/djangoapps/contentstore/views/component.py:284
 #: lms/templates/video.html:57
@@ -717,7 +717,7 @@ msgid ""
 "There is already a course defined with the same organization and course "
 "number. Please change either organization or course number to be unique."
 msgstr ""
-"Đã có một khóa học được xác định với cùng tổ chức và mã số khóa học. Vui "
+"Đã có một khóa học được xác định với cùng tổ chức và Mã khóa học. Vui "
 "lòng thay đổi tổ chức hoặc số khóa học thành duy nhất."
 
 #: cms/djangoapps/contentstore/views/course.py:925
@@ -1220,7 +1220,7 @@ msgid ""
 "ecommerce service.  Leave this blank if the course has not yet been migrated"
 " to the ecommerce service."
 msgstr ""
-"TÙY CHỌN: Đây là SKU (đơn vị lưu giữ hàng tồn kho) của chế độ này trong dịch"
+"TÙY CHỌN: Đây là SKU (mục lưu giữ hàng tồn kho) của chế độ này trong dịch"
 " vụ thương mại điện tử bên ngoài. Để trống phần này nếu khóa học chưa được "
 "di chuyển sang dịch vụ thương mại điện tử."
 
@@ -1249,7 +1249,7 @@ msgid ""
 "This is the bulk SKU (stock keeping unit) of this mode in the external "
 "ecommerce service."
 msgstr ""
-"Đây là SKU (đơn vị lưu kho) số lượng lớn của chế độ này trong dịch vụ thương"
+"Đây là SKU (mục lưu kho) số lượng lớn của chế độ này trong dịch vụ thương"
 " mại điện tử bên ngoài."
 
 #: common/djangoapps/course_modes/models.py:249
@@ -1670,7 +1670,7 @@ msgstr "Chứng chỉ của bạn khiến bạn không thể hủy ghi danh khó
 
 #: common/djangoapps/student/views/management.py:469
 msgid "Enrollment action is invalid"
-msgstr "Hành động ghi danh không hợp lệ"
+msgstr "Thao tác ghi danh không hợp lệ"
 
 #: common/djangoapps/student/views/management.py:512
 msgid "Please enter a username"
@@ -2604,7 +2604,7 @@ msgstr ""
 #: common/templates/student/edx_ace/accountactivation/email/subject.txt:3
 #, python-format
 msgid "Action Required: Activate your %(platform_name)s account"
-msgstr "Hành động bắt buộc: Kích hoạt tài khoản %(platform_name)s của bạn"
+msgstr "Thao tác bắt buộc: Kích hoạt tài khoản %(platform_name)s của bạn"
 
 #: common/templates/student/edx_ace/accountrecovery/email/body.html:10
 #: common/templates/student/edx_ace/accountrecovery/email/body.html:39
@@ -4113,13 +4113,13 @@ msgstr "Giữ người học tham gia và đi đúng hướng trong suốt khóa
 #: cms/templates/textbooks.html:64 cms/templates/textbooks.html:70
 #: cms/templates/widgets/header.html:145
 msgid "Textbooks"
-msgstr "Sách giáo khoa"
+msgstr "Sách giáo trình"
 
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
 "Create and manage a library of course readings, textbooks, and chapters."
 msgstr ""
-"Tạo và quản lý thư viện các bài đọc, sách giáo khoa và chương của khóa học."
+"Tạo và quản lý thư viện các bài đọc, sách giáo trình và chương của khóa học."
 
 #: lms/djangoapps/courseware/plugins.py:125
 msgid "Calculator"
@@ -5097,7 +5097,7 @@ msgstr ""
 msgid ""
 "Successfully removed invalid due date extension (unit has no due date)."
 msgstr ""
-"Đã xóa thành công phần gia hạn ngày đến hạn không hợp lệ (đơn vị không có "
+"Đã xóa thành công phần gia hạn ngày đến hạn không hợp lệ (mục không có "
 "ngày đến hạn)."
 
 #: lms/djangoapps/instructor/views/api.py:3165
@@ -5408,7 +5408,7 @@ msgstr "Không thể tìm thấy thông tin ghi danh của sinh viên trong khó
 #: lms/djangoapps/instructor/views/tools.py:199
 #, python-brace-format
 msgid "Unit {0} has no due date to extend."
-msgstr "Đơn vị {0} chưa đến hạn gia hạn."
+msgstr "Mục {0} chưa đến hạn gia hạn."
 
 #: lms/djangoapps/instructor/views/tools.py:201
 msgid "An extended due date must be later than the original due date."
@@ -5762,7 +5762,7 @@ msgid ""
 "This unit's access settings refer to deleted or invalid group "
 "configurations."
 msgstr ""
-"Cài đặt quyền truy cập của đơn vị này đề cập đến cấu hình nhóm đã bị xóa "
+"Cài đặt quyền truy cập của mục này đề cập đến cấu hình nhóm đã bị xóa "
 "hoặc không hợp lệ."
 
 #: lms/djangoapps/lms_xblock/mixin.py:29
@@ -5774,7 +5774,7 @@ msgstr ""
 #: lms/djangoapps/lms_xblock/mixin.py:31
 msgid "This unit's access settings refer to deleted or invalid groups."
 msgstr ""
-"Cài đặt quyền truy cập của đơn vị này đề cập đến các nhóm đã bị xóa hoặc "
+"Cài đặt quyền truy cập của mục này đề cập đến các nhóm đã bị xóa hoặc "
 "không hợp lệ."
 
 #: lms/djangoapps/lms_xblock/mixin.py:32
@@ -6820,7 +6820,7 @@ msgstr ""
 #: cms/templates/manage_users_lib.html:69
 #: cms/templates/videos_index_pagination.html:15
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: lms/templates/oauth2_provider/authorize.html:48
 msgid "Allow"
@@ -7045,7 +7045,7 @@ msgstr "Xóa bài viết"
 #: wiki/templates/wiki/delete.html:7 cms/templates/component.html:32
 #: cms/templates/studio_xblock_wrapper.html:202
 msgid "Delete"
-msgstr "Xóa bỏ"
+msgstr "Xóa"
 
 #: lms/templates/wiki/delete.html:11 wiki/templates/wiki/delete.html:10
 msgid "You cannot delete a root article."
@@ -8061,7 +8061,7 @@ msgstr ""
 "\n"
 "Loại nội dung nào được dàn dựng. Chỉ hỗ trợ nội dung OLX và\n"
 " trường này phải giống với thẻ gốc của OLX.\n"
-" ví dụ: &quot;video&quot; nếu video được dàn dựng hoặc &quot;dọc&quot; cho một đơn vị.\n"
+" ví dụ: &quot;video&quot; nếu video được dàn dựng hoặc &quot;dọc&quot; cho một mục.\n"
 "        "
 
 #: openedx/core/djangoapps/content_staging/models.py:71
@@ -8135,7 +8135,7 @@ msgstr "Đúng, nếu thông tin xác thực LTI được tổ chức cung cấp
 #: openedx/core/djangoapps/course_live/plugins.py:25
 #: openedx/core/djangoapps/course_live/tab.py:47
 msgid "Live"
-msgstr "Sống"
+msgstr "Trực tiếp"
 
 #: openedx/core/djangoapps/course_live/plugins.py:26
 msgid "Enable in-platform video conferencing by configuring live"
@@ -8404,13 +8404,13 @@ msgid ""
 msgstr ""
 "Nếu được bật, các Chủ đề thảo luận sẽ được tạo cho từng bài học không được "
 "chấm điểm trong khóa học. Giao diện người dùng cho các cuộc thảo luận sẽ "
-"hiển thị với từng đơn vị."
+"hiển thị với từng mục."
 
 #: openedx/core/djangoapps/discussions/models.py:453
 msgid ""
 "If enabled, discussion topics will be created for graded units as well."
 msgstr ""
-"Nếu được bật, các Chủ đề thảo luận cũng sẽ được tạo cho các đơn vị được xếp "
+"Nếu được bật, các Chủ đề thảo luận cũng sẽ được tạo cho các mục được xếp "
 "loại."
 
 #: openedx/core/djangoapps/discussions/models.py:457
@@ -8418,7 +8418,7 @@ msgid ""
 "If enabled, discussions will need to be manually enabled for each unit."
 msgstr ""
 "Nếu được bật, các cuộc thảo luận sẽ cần được bật theo cách thủ công cho từng"
-" đơn vị."
+" mục."
 
 #: openedx/core/djangoapps/discussions/models.py:462
 msgid "The plugin configuration data for this context/provider."
@@ -8814,7 +8814,7 @@ msgid ""
 "does not meet these requirements. To reset your password, go to to "
 "{anchor_tag_open}Account Settings{anchor_tag_close}."
 msgstr ""
-"{strong_tag_open} Hành động bắt buộc: Vui lòng cập nhật mật khẩu của bạn "
+"{strong_tag_open} Thao tác bắt buộc: Vui lòng cập nhật mật khẩu của bạn "
 "{strong_tag_close} {break_line_tag} Kể từ {deadline} , {platform_name} sẽ "
 "yêu cầu tất cả người học phải có mật khẩu phức tạp. Mật khẩu hiện tại của "
 "bạn không đáp ứng được các yêu cầu này. Để đặt lại mật khẩu của bạn, hãy "
@@ -8919,7 +8919,7 @@ msgstr "Lịch trình"
 
 #: openedx/core/djangoapps/schedules/models.py:23
 msgid "Indicates if this schedule is actively used"
-msgstr "Cho biết liệu lịch trình này có được sử dụng tích cực hay không"
+msgstr "Cho biết liệu lịch trình này có được sử dụng Đang hoạt động hay không"
 
 #: openedx/core/djangoapps/schedules/models.py:27
 msgid "Date this schedule went into effect"
@@ -9461,7 +9461,7 @@ msgstr "Thành công"
 #: cms/templates/studio_xblock_wrapper.html:164
 #: lms/templates/staff_problem_info.html:66
 msgid "Actions"
-msgstr "hành động"
+msgstr "thao tác"
 
 #: openedx/core/djangoapps/user_api/models.py:437
 msgid ""
@@ -10132,7 +10132,7 @@ msgstr "{header_open} {title} {header_close}"
 #: cms/templates/course_outline.html:61 cms/templates/course_outline.html:99
 #: cms/templates/index.html:319
 msgid "Dismiss"
-msgstr "Loại bỏ"
+msgstr "Bỏ qua"
 
 #: openedx/core/djangoapps/video_pipeline/models.py:33
 msgid "Oauth client name of VEM service."
@@ -10736,7 +10736,7 @@ msgstr ""
 #, python-brace-format
 msgid "No response from Xqueue within {xqueue_timeout} seconds. Aborted."
 msgstr ""
-"Không có phản hồi từ Xqueue trong vòng {xqueue_timeout} giây. Đã hủy bỏ."
+"Không có phản hồi từ Xqueue trong vòng {xqueue_timeout} giây. Đã hủy."
 
 #: xmodule/capa/inputtypes.py:940
 msgid "Error running code."
@@ -11625,7 +11625,7 @@ msgstr ""
 msgid ""
 "List of Textbook objects with (title, url) for textbooks used in this course"
 msgstr ""
-"Danh sách các đối tượng Sách giáo khoa có (tiêu đề, url) cho các sách giáo "
+"Danh sách các đối tượng Sách giáo trình có (tiêu đề, url) cho các sách giáo "
 "khoa được sử dụng trong khóa học này"
 
 #: xmodule/course_block.py:336
@@ -11848,7 +11848,7 @@ msgstr "Nhập đúng hoặc sai. Nếu đúng, học sinh không thể xem bi�
 
 #: xmodule/course_block.py:490
 msgid "PDF Textbooks"
-msgstr "Sách giáo khoa PDF"
+msgstr "Sách giáo trình PDF"
 
 #: xmodule/course_block.py:491
 msgid "List of dictionaries containing pdf_textbook configuration"
@@ -11856,7 +11856,7 @@ msgstr "Danh sách từ điển chứa cấu hình pdf_textbook"
 
 #: xmodule/course_block.py:494
 msgid "HTML Textbooks"
-msgstr "Sách giáo khoa HTML"
+msgstr "Sách giáo trình HTML"
 
 #: xmodule/course_block.py:496
 msgid ""
@@ -11864,7 +11864,7 @@ msgid ""
 "name of the tab (usually the title of the book) as well as the URLs and "
 "titles of each chapter in the book."
 msgstr ""
-"Đối với sách giáo khoa HTML xuất hiện dưới dạng các tab riêng biệt trong "
+"Đối với sách giáo trình HTML xuất hiện dưới dạng các tab riêng biệt trong "
 "khóa học, hãy nhập tên của tab (thường là tên sách) cũng như URL và tiêu đề "
 "của từng chương trong sách."
 
@@ -12172,7 +12172,7 @@ msgid ""
 "null."
 msgstr ""
 "Nhập số khóa học mà bạn muốn xuất hiện trong khóa học. Cài đặt này sẽ ghi đè"
-" số khóa học mà bạn đã nhập khi tạo khóa học. Để sử dụng mã số khóa học bạn "
+" số khóa học mà bạn đã nhập khi tạo khóa học. Để sử dụng Mã khóa học bạn "
 "đã nhập khi tạo khóa học, hãy nhập null."
 
 #: xmodule/course_block.py:730
@@ -12726,13 +12726,13 @@ msgid ""
 "The problem bank has been configured to show {count} problems. Please "
 "specify a positive number of problems, or specify -1 to show all problems."
 msgstr ""
-"Ngân hàng vấn đề đã được cấu hình để hiển thị các vấn đề {count} . Vui lòng "
+"Ngân hàng câu hỏi đã được cấu hình để hiển thị các vấn đề {count} . Vui lòng "
 "chỉ định số lượng vấn đề dương hoặc chỉ định -1 để hiển thị tất cả các vấn "
 "đề."
 
 #: xmodule/item_bank_block.py:478 xmodule/item_bank_block.py:490
 msgid "Edit the problem bank configuration."
-msgstr "Chỉnh sửa cấu hình ngân hàng vấn đề."
+msgstr "Chỉnh sửa cấu hình ngân hàng câu hỏi."
 
 #: xmodule/item_bank_block.py:486
 #, python-brace-format
@@ -12740,7 +12740,7 @@ msgid ""
 "The problem bank has been configured to show {count} problems, but only "
 "{actual} have been selected."
 msgstr ""
-"Ngân hàng vấn đề đã được cấu hình để hiển thị các vấn đề {count} , nhưng chỉ"
+"Ngân hàng câu hỏi đã được cấu hình để hiển thị các vấn đề {count} , nhưng chỉ"
 " có {actual} được chọn."
 
 #: xmodule/library_content_block.py:51
@@ -12967,7 +12967,7 @@ msgid ""
 "The score kept in the xblock KVS -- duplicate of the published score in "
 "django DB"
 msgstr ""
-"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được công bố trong "
+"Điểm được lưu trong xblock KVS -- trùng lặp với điểm được Xuất bản trong "
 "django DB"
 
 #: xmodule/lti_block.py:214
@@ -13583,11 +13583,11 @@ msgstr "Thảo luận bên ngoài"
 
 #: xmodule/vertical_block.py:45
 msgid "Enable in-context discussions for the Unit"
-msgstr "Cho phép thảo luận theo ngữ cảnh cho Đơn vị"
+msgstr "Cho phép thảo luận theo ngữ cảnh cho Mục"
 
 #: xmodule/vertical_block.py:46
 msgid "Add discussion for the Unit."
-msgstr "Thêm thảo luận cho Đơn vị."
+msgstr "Thêm thảo luận cho Mục."
 
 #: xmodule/video_block/sharing_sites.py:77
 #, python-brace-format
@@ -15004,7 +15004,7 @@ msgid ""
 "slugs by clicking the below button. This action cannot be undone."
 msgstr ""
 "Bạn có thể xóa bài viết này và bất kỳ đứa trẻ nào vĩnh viễn và giải phóng "
-"sên của chúng bằng cách nhấp vào nút bên dưới. Hành động này không thể được "
+"sên của chúng bằng cách nhấp vào nút bên dưới. Thao tác này không thể được "
 "hoàn tác."
 
 #: wiki/templates/wiki/dir.html:4
@@ -15552,7 +15552,7 @@ msgstr "Kéo để sắp xếp lại"
 #: cms/templates/textbooks.html:75 cms/templates/videos_index.html:62
 #: cms/templates/videos_index.html:63
 msgid "Page Actions"
-msgstr "Hành động trên trang"
+msgstr "Thao tác trên trang"
 
 #: cms/templates/container.html:188
 msgid "Open the courseware in the LMS"
@@ -15636,7 +15636,7 @@ msgstr "Tìm hiểu thêm về vùng chứa thành phần"
 
 #: cms/templates/container.html:262
 msgid "Unit Location"
-msgstr "Vị trí đơn vị"
+msgstr "Vị trí mục"
 
 #: cms/templates/container.html:264
 msgid "Location ID"
@@ -15676,7 +15676,7 @@ msgid ""
 "Note: Together, the organization, course number, and course run must "
 "uniquely identify this new course instance."
 msgstr ""
-"Lưu ý: Tổ chức, mã số khóa học và thời gian tổ chức khóa học phải nhận dạng "
+"Lưu ý: Tổ chức, Mã khóa học và thời gian tổ chức khóa học phải nhận dạng "
 "duy nhất phiên bản khóa học mới này."
 
 #: cms/templates/course-create-rerun.html:72
@@ -15729,7 +15729,7 @@ msgstr "Lưu ý: Không được phép có khoảng trắng hoặc ký tự đ�
 #: cms/templates/settings.html:78
 #: lms/templates/courseware/course_about.html:164
 msgid "Course Number"
-msgstr "Số của khóa học"
+msgstr "Mã khóa học"
 
 #. Translators: This is an example for the number used to identify a course,
 #. seen when filling out the form to create a new course. The number here is
@@ -15786,7 +15786,7 @@ msgid ""
 "course. All problems, videos, announcements, and other files are duplicated "
 "to the new course."
 msgstr ""
-"Khóa học mới có đề cương và nội dung khóa học giống như khóa học ban đầu. "
+"Khóa học mới có dàn bài và nội dung khóa học giống như khóa học ban đầu. "
 "Tất cả các vấn đề, video, thông báo và các tệp khác đều được sao chép vào "
 "khóa học mới."
 
@@ -15830,7 +15830,7 @@ msgstr ""
 #: cms/templates/course_outline.html:15 cms/templates/course_outline.html:205
 #: cms/templates/course_outline.html:288
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Dàn bài khóa học"
 
 #: cms/templates/course_outline.html:52
 msgid ""
@@ -15976,14 +15976,14 @@ msgstr "Tạo tổ chức khóa học của bạn"
 
 #: cms/templates/course_outline.html:299
 msgid "You add sections, subsections, and units directly in the outline."
-msgstr "Bạn thêm trực tiếp các phần, tiểu mục và đơn vị vào dàn ý."
+msgstr "Bạn thêm trực tiếp các phần, tiểu mục và mục vào dàn ý."
 
 #: cms/templates/course_outline.html:300
 msgid ""
 "Create a section, then add subsections and units. Open a unit to add course "
 "components."
 msgstr ""
-"Tạo một phần, sau đó thêm các phần phụ và đơn vị. Mở một bài học để thêm các"
+"Tạo một phần, sau đó thêm các phần phụ và mục. Mở một bài học để thêm các"
 " thành phần khóa học."
 
 #: cms/templates/course_outline.html:303
@@ -15992,11 +15992,11 @@ msgstr "Tổ chức lại khóa học của bạn"
 
 #: cms/templates/course_outline.html:304
 msgid "Drag sections, subsections, and units to new locations in the outline."
-msgstr "Kéo các phần, phần phụ và đơn vị tới vị trí mới trong đường viền."
+msgstr "Kéo các phần, phần phụ và mục tới vị trí mới trong đường viền."
 
 #: cms/templates/course_outline.html:306
 msgid "Learn more about the course outline"
-msgstr "Tìm hiểu thêm về đề cương khóa học"
+msgstr "Tìm hiểu thêm về dàn bài khóa học"
 
 #: cms/templates/course_outline.html:310
 msgid "Setting release dates and grading policies"
@@ -16026,7 +16026,7 @@ msgid ""
 " or unit."
 msgstr ""
 "Để xuất bản nội dung dự thảo, chọn biểu tượng Xuất bản cho một phần, tiểu "
-"mục hoặc đơn vị."
+"mục hoặc mục."
 
 #: cms/templates/course_outline.html:319
 #, python-brace-format
@@ -16038,7 +16038,7 @@ msgid ""
 msgstr ""
 "Để làm cho một phần, tiểu mục hoặc bài học không khả dụng với người học, hãy"
 " chọn biểu tượng Cấu hình cho cấp độ đó, sau đó chọn tùy chọn {em_start} Ẩn "
-"{em_end} thích hợp. Điểm cho các phần, tiểu mục và đơn vị ẩn không được đưa "
+"{em_end} thích hợp. Điểm cho các phần, tiểu mục và mục ẩn không được đưa "
 "vào tính toán điểm."
 
 #: cms/templates/course_outline.html:320
@@ -16116,7 +16116,7 @@ msgid ""
 msgstr ""
 "Các trang được liệt kê theo chiều ngang ở đầu khóa học của bạn. Các trang "
 "mặc định (Trang chủ, Khóa học, Thảo luận, Wiki và Tiến trình) được theo sau "
-"bởi sách giáo khoa và các trang tùy chỉnh mà bạn tạo."
+"bởi sách giáo trình và các trang tùy chỉnh mà bạn tạo."
 
 #: cms/templates/edit-tabs.html:178
 msgid ""
@@ -16188,7 +16188,7 @@ msgid ""
 msgstr ""
 "Các trang xuất hiện trong thanh điều hướng trên cùng của khóa học của bạn. "
 "Các trang mặc định (Trang chủ, Khóa học, Thảo luận, Wiki và Tiến trình) được"
-" theo sau bởi sách giáo khoa và các trang tùy chỉnh."
+" theo sau bởi sách giáo trình và các trang tùy chỉnh."
 
 #: cms/templates/edit-tabs.html:210 cms/templates/howitworks.html:185
 #: cms/templates/howitworks.html:198 cms/templates/howitworks.html:211
@@ -16372,7 +16372,7 @@ msgstr ""
 
 #: cms/templates/export.html:198
 msgid "Course Content (all Sections, Sub-sections, and Units)"
-msgstr "Nội dung khóa học (tất cả các Phần, Tiểu mục và Đơn vị)"
+msgstr "Nội dung khóa học (tất cả các Phần, Tiểu mục và Mục)"
 
 #: cms/templates/export.html:199
 msgid "Course Structure"
@@ -16601,7 +16601,7 @@ msgid ""
 "On unit pages in the course outline, you can restrict access to components "
 "to learners based on their enrollment track."
 msgstr ""
-"Trên các trang đơn vị trong đề cương khóa học, bạn có thể hạn chế quyền truy"
+"Trên các trang mục trong dàn bài khóa học, bạn có thể hạn chế quyền truy"
 " cập vào các thành phần của người học dựa trên quá trình ghi danh của họ."
 
 #: cms/templates/group_configurations.html:89
@@ -16651,7 +16651,7 @@ msgstr ""
 "Bấm vào {em_start} Nhóm nội dung mới {em_end} để thêm nhóm nội dung mới. Để "
 "chỉnh sửa tên nhóm nội dung, hãy di chuột qua hộp của nhóm nội dung đó và "
 "nhấp vào {em_start} Chỉnh sửa {em_end} . Bạn chỉ có thể xóa một nhóm nội "
-"dung nếu đơn vị đó không sử dụng. Để xóa một nhóm nội dung, hãy di chuột qua"
+"dung nếu mục đó không sử dụng. Để xóa một nhóm nội dung, hãy di chuột qua"
 " hộp của nhóm đó và nhấp vào biểu tượng xóa."
 
 #: cms/templates/group_configurations.html:107
@@ -17376,12 +17376,12 @@ msgstr "Tổ chức:"
 #: cms/templates/index.html:244 cms/templates/index.html:290
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:88
 msgid "Course Number:"
-msgstr "Số của khóa học:"
+msgstr "Mã khóa học:"
 
 #: cms/templates/index.html:248 cms/templates/index.html:294
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:83
 msgid "Course Run:"
-msgstr "Khóa học chạy:"
+msgstr "Đợt chạy khóa học:"
 
 #: cms/templates/index.html:254
 msgid "This course run is currently being created."
@@ -17969,7 +17969,7 @@ msgid ""
 "instructions provided by your Program Manager."
 msgstr ""
 "Trang tóm tắt khóa học của bạn sẽ không thể xem được cho đến khi khóa học "
-"của bạn được công bố. Để cung cấp nội dung cho trang và xem trước trang đó, "
+"của bạn được Xuất bản. Để cung cấp nội dung cho trang và xem trước trang đó, "
 "hãy làm theo hướng dẫn do Người quản lý chương trình của bạn cung cấp."
 
 #: cms/templates/settings.html:129
@@ -18487,7 +18487,7 @@ msgid ""
 "{link_start}Course Outline{link_end}."
 msgstr ""
 "Bây giờ, bạn có thể xem và soạn bài kiểm tra đầu vào khóa học của mình từ "
-"{link_start} Đề cương khóa học {link_end} ."
+"{link_start} Dàn bài khóa học {link_end} ."
 
 #: cms/templates/settings.html:656
 msgid "Grade Requirements"
@@ -18771,11 +18771,11 @@ msgstr "Khối này chứa nhiều thành phần."
 
 #: cms/templates/textbooks.html:78
 msgid "New Textbook"
-msgstr "Sách giáo khoa mới"
+msgstr "Sách giáo trình mới"
 
 #: cms/templates/textbooks.html:90
 msgid "Why should I break my textbook into chapters?"
-msgstr "Tại sao tôi nên chia sách giáo khoa của mình thành các chương?"
+msgstr "Tại sao tôi nên chia sách giáo trình của mình thành các chương?"
 
 #: cms/templates/textbooks.html:91
 msgid ""
@@ -18784,9 +18784,9 @@ msgid ""
 "textbooks into chapters can also help students more easily find topic-based "
 "information."
 msgstr ""
-"Việc chia sách giáo khoa của bạn thành nhiều chương giúp giảm thời gian tải "
+"Việc chia sách giáo trình của bạn thành nhiều chương giúp giảm thời gian tải "
 "sách cho học sinh, đặc biệt là những học sinh có kết nối Internet chậm. Việc"
-" chia sách giáo khoa thành các chương cũng có thể giúp học sinh dễ dàng tìm "
+" chia sách giáo trình thành các chương cũng có thể giúp học sinh dễ dàng tìm "
 "thấy thông tin theo Chủ đề hơn."
 
 #: cms/templates/textbooks.html:94
@@ -18799,13 +18799,13 @@ msgid ""
 " text as a single chapter and enter a name of your choice in the Chapter "
 "Name field."
 msgstr ""
-"Nếu sách giáo khoa của bạn không có các chương riêng lẻ, bạn có thể tải lên "
+"Nếu sách giáo trình của bạn không có các chương riêng lẻ, bạn có thể tải lên "
 "toàn bộ văn bản dưới dạng một chương và nhập tên bạn chọn vào trường Tên "
 "chương."
 
 #: cms/templates/textbooks.html:99
 msgid "Learn more about textbooks"
-msgstr "Tìm hiểu thêm về sách giáo khoa"
+msgstr "Tìm hiểu thêm về sách giáo trình"
 
 #: cms/templates/videos_index.html:13 cms/templates/videos_index.html:58
 #: cms/templates/widgets/header.html:150
@@ -18889,8 +18889,8 @@ msgid ""
 " component is hidden from learners. The unit setting overrides the component"
 " access settings defined here."
 msgstr ""
-"{screen_reader_start} Cảnh báo: {screen_reader_end} Đơn vị chứa thành phần "
-"này bị ẩn đối với người học. Cài đặt đơn vị sẽ ghi đè cài đặt truy cập thành"
+"{screen_reader_start} Cảnh báo: {screen_reader_end} Mục chứa thành phần "
+"này bị ẩn đối với người học. Cài đặt mục sẽ ghi đè cài đặt truy cập thành"
 " phần được xác định ở đây."
 
 #: cms/templates/visibility_editor.html:75
@@ -19349,7 +19349,7 @@ msgstr ""
 
 #: common/templates/emails/sync_learner_profile_data_email_change_body.txt:13
 msgid "No action is needed on your part."
-msgstr "Bạn không cần phải thực hiện hành động nào."
+msgstr "Bạn không cần phải thực hiện thao tác nào."
 
 #: common/templates/emails/sync_learner_profile_data_email_change_body.txt:16
 #, python-brace-format
@@ -19596,7 +19596,7 @@ msgstr "Một tài khoản có địa chỉ email mới đã tồn tại."
 
 #: lms/templates/enroll_staff.html:23
 msgid "You should Register before trying to access the Unit"
-msgstr "Bạn nên Đăng ký trước khi thử truy cập Đơn vị"
+msgstr "Bạn nên Đăng ký trước khi thử truy cập Mục"
 
 #: lms/templates/courseware/course_about.html:281
 #: lms/templates/enroll_staff.html:34
@@ -19822,7 +19822,7 @@ msgstr "Tên:"
 
 #: lms/templates/manage_user_standing.html:24
 msgid "Choose an action:"
-msgstr "Chọn một hành động:"
+msgstr "Chọn một thao tác:"
 
 #: lms/templates/manage_user_standing.html:25
 msgid "View Profile"
@@ -20076,11 +20076,11 @@ msgstr "Sự liên tiếp"
 
 #: lms/templates/seq_block.html:91
 msgid "New Unit"
-msgstr "Đơn vị mới"
+msgstr "Mục mới"
 
 #: lms/templates/seq_block.html:97
 msgid "Paste as new unit"
-msgstr "Dán làm đơn vị mới"
+msgstr "Dán làm mục mới"
 
 #: lms/templates/signup_modal.html:27
 #, python-brace-format
@@ -20265,12 +20265,12 @@ msgstr "Xem lịch sử"
 #: lms/templates/staticbook.html:13
 #, python-brace-format
 msgid "{course_number} Textbook"
-msgstr "{course_number} Sách giáo khoa"
+msgstr "{course_number} Sách giáo trình"
 
 #: lms/templates/static_htmlbook.html:113 lms/templates/static_pdfbook.html:38
 #: lms/templates/staticbook.html:82
 msgid "Textbook Navigation"
-msgstr "Điều hướng sách giáo khoa"
+msgstr "Điều hướng sách giáo trình"
 
 #: lms/templates/courseware/gradebook.html:130
 #: lms/templates/staticbook.html:119
@@ -21205,14 +21205,14 @@ msgstr ""
 " hại và bồi thường cho {platform_name} và {platform_name} Người tham gia "
 "cũng như các công ty con, chi nhánh, cán bộ, giảng viên, sinh viên, nghiên "
 "cứu sinh, thành viên ban quản trị, đại lý và nhân viên tương ứng của họ khỏi"
-" và chống lại bất kỳ khiếu nại, hành động hoặc yêu cầu của bên thứ ba phát "
+" và chống lại bất kỳ khiếu nại, thao tác hoặc yêu cầu của bên thứ ba phát "
 "sinh từ, xuất phát từ hoặc liên quan đến bất kỳ cách nào liên quan đến việc "
 "bạn sử dụng API và bất kỳ Nội dung API nào, bao gồm mọi trách nhiệm pháp lý "
 "hoặc chi phí phát sinh từ bất kỳ và tất cả các khiếu nại, tổn thất, thiệt "
 "hại (thực tế và do hậu quả) , các vụ kiện, bản án, chi phí kiện tụng và phí "
 "luật sư, thuộc mọi loại hình và tính chất. Trong trường hợp như vậy, "
 "{platform_name} hoặc một trong những {platform_name} Người tham gia sẽ cung "
-"cấp cho bạn thông báo bằng văn bản về khiếu nại, hành động hoặc yêu cầu đó."
+"cấp cho bạn thông báo bằng văn bản về khiếu nại, thao tác hoặc yêu cầu đó."
 
 #: lms/templates/api_admin/terms_of_service.html:98
 msgid "General Legal Terms"
@@ -21309,12 +21309,12 @@ msgid ""
 "action."
 msgstr ""
 "{platform_name_capitalized} và {platform_name} Người tham gia có quyền tùy ý"
-" hủy bỏ, trì hoãn, lên lịch lại hoặc thay đổi định dạng của bất kỳ API hoặc "
+" hủy, trì hoãn, lên lịch lại hoặc thay đổi định dạng của bất kỳ API hoặc "
 "Nội dung API nào được cung cấp thông qua {platform_name} hoặc ngừng cung cấp"
 " bất kỳ phần nào hoặc tất cả API hoặc Nội dung API hoặc các dịch vụ liên "
 "quan và bạn đồng ý rằng cả {platform_name} và bất kỳ người tham gia "
 "{platform_name} nào sẽ không chịu bất kỳ trách nhiệm pháp lý nào đối với bạn"
-" về hành động như vậy."
+" về thao tác như vậy."
 
 #: lms/templates/api_admin/terms_of_service.html:110
 #, python-brace-format
@@ -21771,7 +21771,7 @@ msgstr "Đã xảy ra lỗi khi lưu thay đổi."
 
 #: lms/templates/ccx/schedule.html:83
 msgid "Schedule a Unit"
-msgstr "Lên lịch cho một đơn vị"
+msgstr "Lên lịch cho một mục"
 
 #: lms/templates/ccx/schedule.html:100
 msgid "Start Date"
@@ -21815,15 +21815,15 @@ msgstr ""
 
 #: lms/templates/ccx/schedule.html:129
 msgid "Add Unit"
-msgstr "Thêm đơn vị"
+msgstr "Thêm mục"
 
 #: lms/templates/ccx/schedule.html:133
 msgid "Add All Units"
-msgstr "Thêm tất cả các đơn vị"
+msgstr "Thêm tất cả các mục"
 
 #: lms/templates/ccx/schedule.html:137
 msgid "All units have been added."
-msgstr "Tất cả các đơn vị đã được thêm vào."
+msgstr "Tất cả các mục đã được thêm vào."
 
 #: lms/templates/ccx/student_admin.html:6
 msgid "View gradebook"
@@ -23163,7 +23163,7 @@ msgstr "Hiển thị thảo luận"
 msgid "To view live discussions, click Preview or View Live in Unit Settings."
 msgstr ""
 "Để xem các cuộc thảo luận trực tiếp, hãy nhấp vào Xem trước hoặc Xem trực "
-"tiếp trong Cài đặt đơn vị."
+"tiếp trong Cài đặt mục."
 
 #: lms/templates/discussion/_discussion_inline_studio.html:9
 #, python-brace-format
@@ -24404,7 +24404,7 @@ msgstr "Chỉnh sửa thông tin mã giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:30
 msgid "Code"
-msgstr "Mã số"
+msgstr "Mã"
 
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:31
 msgid "example: A123DS"
@@ -24521,7 +24521,7 @@ msgid ""
 "on a particular subsection. This will revert the due date for the student "
 "back to the problem's original due date."
 msgstr ""
-"Việc đặt lại ngày đến hạn của một vấn đề sẽ hủy bỏ việc gia hạn ngày đến hạn"
+"Việc đặt lại ngày đến hạn của một vấn đề sẽ hủy việc gia hạn ngày đến hạn"
 " cho một học sinh trong một tiểu mục cụ thể. Điều này sẽ hoàn nguyên ngày "
 "đến hạn của học sinh về ngày đến hạn ban đầu của vấn đề."
 
@@ -24699,7 +24699,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:20
 msgid "Therefore, please give enough detail to account for this action."
 msgstr ""
-"Vì vậy, vui lòng cung cấp đủ chi tiết để giải thích cho hành động này."
+"Vì vậy, vui lòng cung cấp đủ chi tiết để giải thích cho thao tác này."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:21
 #: lms/templates/support/feature_based_enrollments.html:41
@@ -25109,7 +25109,7 @@ msgid ""
 "Email actions run in the background. The status for any active tasks - "
 "including email tasks - appears in a table below."
 msgstr ""
-"Hành động email chạy trong nền. Trạng thái của mọi tác vụ đang hoạt động - "
+"Thao tác email chạy trong nền. Trạng thái của mọi tác vụ đang hoạt động - "
 "bao gồm cả tác vụ email - xuất hiện trong bảng bên dưới."
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:131

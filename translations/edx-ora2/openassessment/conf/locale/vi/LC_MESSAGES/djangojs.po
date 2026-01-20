@@ -162,7 +162,7 @@ msgstr "Tên bài"
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:309
 #: xblock/static/js/src/lms/oa_course_items_listing.js:98
 msgid "Units"
-msgstr "Các đơn vị"
+msgstr "Các mục"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:309
 #: xblock/static/js/src/lms/oa_course_items_listing.js:105
@@ -250,7 +250,7 @@ msgstr "Xác nhận"
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_confirmation_alert.js:7
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 #: xblock/static/js/src/lms/oa_response.js:261

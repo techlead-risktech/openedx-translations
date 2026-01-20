@@ -1789,7 +1789,7 @@ msgstr ""
 
 #: enterprise/models.py:3378
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Đang hoạt động"
 
 #: enterprise/models.py:3379
 msgid "Include Date"
@@ -2250,7 +2250,7 @@ msgid ""
 "The last time the membership action was in an error state. Null means the "
 "membership is not errored."
 msgstr ""
-"Lần cuối cùng hành động thành viên ở trạng thái lỗi. Null có nghĩa là tư "
+"Lần cuối cùng thao tác thành viên ở trạng thái lỗi. Null có nghĩa là tư "
 "cách thành viên không bị lỗi."
 
 #: enterprise/models.py:4865
@@ -2327,7 +2327,7 @@ msgstr "Thiết lập id tổ chức xác thực"
 
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:46
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Hủy"
 
 #: enterprise/templates/enterprise/admin/transmit_courses_metadata.html:33
 #: enterprise/templates/enterprise/admin/transmit_courses_metadata.html:40

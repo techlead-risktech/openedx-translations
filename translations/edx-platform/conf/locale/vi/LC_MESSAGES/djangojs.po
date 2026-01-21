@@ -7222,7 +7222,7 @@ msgstr "Sao chép vị trí thành phần"
 
 #: cms/templates/js/course-highlights-enable.underscore:3
 msgid "Course Highlight Emails"
-msgstr "Email đánh dấu khóa học"
+msgstr "Email nổi bật của khóa học"
 
 #: cms/templates/js/course-highlights-enable.underscore:7
 msgid "Enabled"
@@ -7433,7 +7433,7 @@ msgstr "Trạng thái phát hành:"
 #: cms/templates/js/publish-xblock.underscore:15
 #: cms/templates/js/xblock-outline.underscore:43
 msgid "Released:"
-msgstr "Phát hành:"
+msgstr "Đã phát hành"
 
 #: cms/templates/js/course-outline.underscore:293
 #: cms/templates/js/publish-xblock.underscore:17
@@ -9644,7 +9644,7 @@ msgstr "chuyển đổi chương %(displayName)s"
 
 #: lms/templates/ccx/schedule.underscore:33
 msgid "Section"
-msgstr "Phần"
+msgstr "Phần mới"
 
 #: lms/templates/ccx/schedule.underscore:45
 #, python-format
@@ -10420,7 +10420,7 @@ msgstr ""
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:52
 #: lms/templates/learner_dashboard/program_details_view.underscore:28
 msgid "Upgrade All Remaining Courses ("
-msgstr "Nâng cấp tất cả các khóa học còn lại ("
+msgstr "Nâng cấp tất cả khóa học còn lại ("
 
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:56
 #: lms/templates/learner_dashboard/program_details_view.underscore:32
@@ -11173,7 +11173,7 @@ msgid ""
 "All professional education courses are fee-based, and require payment to "
 "complete the enrollment process."
 msgstr ""
-"Tất cả các khóa học giáo dục chuyên nghiệp đều tính phí và yêu cầu thanh "
+"Tất cả khóa học giáo dục chuyên nghiệp đều tính phí và yêu cầu thanh "
 "toán để hoàn tất quá trình ghi danh."
 
 #: lms/templates/verify_student/make_payment_step.underscore:97

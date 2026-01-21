@@ -82,7 +82,7 @@ msgstr "Từ điển ánh xạ ID khóa học tới các giá trị boolean"
 
 #: apps/api/serializers.py:2242
 msgid "Languages that course runs in this program are offered in."
-msgstr "Ngôn ngữ mà khóa học chạy trong chương trình này được cung cấp."
+msgstr "Ngôn ngữ mà đợt chạy mã khóa học trong chương trình này được cung cấp."
 
 #: apps/api/serializers.py:2246
 msgid ""
@@ -928,7 +928,7 @@ msgstr "Bạn phải chỉ định ít nhất một người"
 #: apps/course_metadata/management/commands/publish_live_course_runs.py:23
 #, python-brace-format
 msgid "Publishing course run {key}"
-msgstr "Xuất bản khóa học chạy {key}"
+msgstr "Xuất bản đợt chạy mã khóa học {key}"
 
 #: apps/course_metadata/management/commands/publish_live_course_runs.py:28
 #, python-brace-format
@@ -946,7 +946,7 @@ msgstr "Một hoặc nhiều khóa học không được xuất bản."
 
 #: apps/course_metadata/management/commands/remove_redirects_from_courses.py:22
 msgid "Remove all redirects to all courses"
-msgstr "Xóa tất cả các chuyển hướng đến tất cả các khóa học"
+msgstr "Xóa tất cả các chuyển hướng đến tất cả khóa học"
 
 #: apps/course_metadata/management/commands/remove_redirects_from_courses.py:23
 msgid "Redirects to remove"
@@ -1052,7 +1052,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "Giá trị hex 6 ký tự của màu chủ đề tổ chức,\n"
-" tất cả các khóa học liên quan trong cùng một tổ chức sẽ sử dụng màu này làm màu chủ đề.\n"
+" tất cả khóa học liên quan trong cùng một tổ chức sẽ sử dụng màu này làm màu chủ đề.\n"
 " (ví dụ: &quot;#ff0000&quot; tương đương với màu đỏ) Không cần cung cấp `#`"
 
 #: apps/course_metadata/models.py:305
@@ -1596,7 +1596,7 @@ msgid ""
 "This calculated field signifies if all the courses in this program are "
 "included in the enterprise subscription catalog "
 msgstr ""
-"Trường được tính toán này cho biết liệu tất cả các khóa học trong chương "
+"Trường được tính toán này cho biết liệu tất cả khóa học trong chương "
 "trình này có được đưa vào danh mục đăng ký doanh nghiệp hay không "
 
 #: apps/course_metadata/models.py:3418
@@ -2412,7 +2412,7 @@ msgstr "Đề xuất khóa học"
 
 #: apps/taxonomy_support/models.py:54
 msgid "Adds recommendations for all published courses"
-msgstr "Thêm đề xuất cho tất cả các khóa học được xuất bản"
+msgstr "Thêm đề xuất cho tất cả khóa học được xuất bản"
 
 #: apps/taxonomy_support/models.py:58
 msgid ""

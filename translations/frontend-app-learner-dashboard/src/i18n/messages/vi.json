@@ -51,7 +51,7 @@
   "learner-dash.relatedPrograms.description": "Bạn đang muốn mở rộng kiến thức của mình? Việc ghi danh vào một Chương trình cho phép bạn tham gia một loạt các khóa học về chủ đề mà bạn quan tâm",
   "learner-dash.selectSession.changeOrLeaveHeader": "Thay đổi hoặc rời khỏi phiên?",
   "learner-dash.selectSession.selectSessionHeader": "Chọn một phiên",
-  "learner-dash.selectSession.changeOrLeaveHint": "Khi bạn thay đổi sang một buổi học khác, mọi tiến độ hoặc điểm số của khóa học từ buổi học hiện tại của bạn sẽ bị mất.",
+  "learner-dash.selectSession.changeOrLeaveHint": "Khi bạn thay đổi sang một buổi học khác, mọi tiến độ hoặc điểm mã của khóa học từ buổi học hiện tại của bạn sẽ bị mất.",
   "learner-dash.selectSession.selectSessionHint": "Hãy nhớ rằng, nếu bạn thay đổi ý định, bạn có 2 tuần để hủy ghi danh và chọn một buổi học khác.",
   "learner-dash.selectSession.leaveSessionOption": "Rời khỏi phiên",
   "learner-dash.selectSession.nevermind": "Đừng bận tâm",

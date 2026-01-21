@@ -348,13 +348,13 @@
 	<string name="dashboard.dashboard_course_date">Khóa học %1$s</string>
 	<string name="dashboard.dashboard_start_course">Bắt đầu khóa học</string>
 	<string name="dashboard.dashboard_resume_course">Tiếp tục khóa học</string>
-	<string name="dashboard.dashboard_view_all_with_count">Xem tất cả các khóa học ( %1$d )</string>
+	<string name="dashboard.dashboard_view_all_with_count">Xem tất cả khóa học ( %1$d )</string>
 	<string name="dashboard.dashboard_view_all">Xem tất cả</string>
 	<string name="dashboard.dashboard_course_filter_all">Tất cả</string>
 	<string name="dashboard.dashboard_course_filter_in_progress">Trong tiến trình</string>
 	<string name="dashboard.dashboard_course_filter_completed">Hoàn thành</string>
 	<string name="dashboard.dashboard_course_filter_expired">Hết hạn</string>
-	<string name="dashboard.dashboard_all_courses">Tất cả các khóa học</string>
+	<string name="dashboard.dashboard_all_courses">Tất cả khóa học</string>
 	<string name="dashboard.dashboard_all_courses_empty_title">Không có khóa học</string>
 	<string name="dashboard.dashboard_all_courses_empty_description">Bạn hiện chưa ghi danh bất kỳ khóa học nào, bạn có muốn khám phá danh mục khóa học không\?</string>
 	<string name="dashboard.dashboard_find_a_course">Tìm một khóa học</string>

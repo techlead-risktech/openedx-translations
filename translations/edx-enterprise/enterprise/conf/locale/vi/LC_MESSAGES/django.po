@@ -2517,7 +2517,7 @@ msgid ""
 " my enrollment is sponsored by {enterprise_customer_name}."
 msgstr ""
 "Tôi đồng ý cho phép {platform_name} chia sẻ dữ liệu về việc ghi danh, hoàn "
-"thành và hiệu suất của tôi trong tất cả các khóa học và chương trình "
+"thành và hiệu suất của tôi trong tất các khóa học và chương trình "
 "{platform_name} mà việc ghi danh của tôi được tài trợ bởi "
 "{enterprise_customer_name} ."
 
@@ -2833,7 +2833,7 @@ msgstr "{}-{} tuần mỗi khóa học"
 
 #: enterprise/views.py:2073
 msgid "Purchase all unenrolled courses"
-msgstr "Mua tất cả các khóa học chưa đăng ký"
+msgstr "Mua tất cả khóa học chưa đăng ký"
 
 #: enterprise/views.py:2074
 msgid "enrollment"

@@ -76,7 +76,7 @@ msgid ""
 "has successfully completed all courses and received passing grades to earn a"
 " MicroBachelors program certificate in"
 msgstr ""
-"đã hoàn thành xuất sắc tất cả các khóa học và đạt điểm đậu để lấy chứng chỉ "
+"đã hoàn thành xuất sắc tất cả khóa học và đạt điểm đậu để lấy chứng chỉ "
 "chương trình MicroBachelors về"
 
 #. Translators: MicroBachelors should not be translated
@@ -122,7 +122,7 @@ msgid ""
 "has successfully completed all courses and received passing grades to earn a"
 " MicroMasters program certificate in"
 msgstr ""
-"đã hoàn thành xuất sắc tất cả các khóa học và đạt điểm đậu để lấy chứng chỉ "
+"đã hoàn thành xuất sắc tất các khóa học và đạt điểm đậu để lấy chứng chỉ "
 "chương trình MicroMasters trong"
 
 #. Translators: MicroMasters should not be translated
@@ -158,7 +158,7 @@ msgid ""
 "successfully completed all courses and received passing grades for a "
 "Professional Certificate in"
 msgstr ""
-"đã hoàn thành xuất sắc tất cả các khóa học và đạt điểm đậu để lấy Chứng chỉ "
+"đã hoàn thành xuất sắc tất cả khóa học và đạt điểm đậu để lấy Chứng chỉ "
 "Chuyên môn về"
 
 #: templates/edx.org/credentials/programs/professional-certificate/certificate.html:11
@@ -201,7 +201,7 @@ msgid ""
 "has successfully completed all courses and received passing grades for an "
 "XSeries Program certificate in"
 msgstr ""
-"đã hoàn thành xuất sắc tất cả các khóa học và đạt điểm đậu để lấy chứng chỉ "
+"đã hoàn thành xuất sắc tất các khóa học và đạt điểm đậu để lấy chứng chỉ "
 "Chương trình XSeries ở"
 
 #. Translators: XSeries should not be translated

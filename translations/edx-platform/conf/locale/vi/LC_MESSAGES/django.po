@@ -256,7 +256,7 @@ msgstr "Thẳng đứng"
 #: cms/templates/course_outline.html:212 lms/templates/ccx/schedule.html:86
 #: lms/templates/seq_block.html:136
 msgid "Section"
-msgstr "Phần"
+msgstr "Phần mới"
 
 #: cms/djangoapps/contentstore/helpers.py:209
 #: lms/templates/ccx/schedule.html:90
@@ -3710,7 +3710,7 @@ msgstr ""
 "Những giá trị này xác định bối cảnh để vô hiệu hóa trang tiến trình học tập "
 "ứng dụng giao diện người dùng. Nếu không có giá trị nào được đặt thì cấu "
 "hình sẽ áp dụng chung. Nếu một giá trị duy nhất được đặt thì cấu hình sẽ áp "
-"dụng cho tất cả các khóa học trong ngữ cảnh đó. Có thể đặt tối đa một giá "
+"dụng cho tất cả khóa học trong ngữ cảnh đó. Có thể đặt tối đa một giá "
 "trị tại một thời điểm.<br> Nếu nhiều ngữ cảnh áp dụng cho một khóa học (ví "
 "dụ: nếu cấu hình được chỉ định cụ thể cho khóa học và cho tổ chức chứa khóa "
 "học đó thì ngữ cảnh cụ thể hơn sẽ ghi đè ngữ cảnh chung hơn."
@@ -7770,7 +7770,7 @@ msgid ""
 msgstr ""
 "Chúng xác định bối cảnh để kích hoạt cấu hình này. Nếu không có giá trị nào "
 "được đặt thì cấu hình sẽ được áp dụng trên toàn cầu. Nếu một giá trị duy "
-"nhất được đặt thì cấu hình sẽ áp dụng cho tất cả các khóa học trong ngữ cảnh"
+"nhất được đặt thì cấu hình sẽ áp dụng cho tất cả khóa học trong ngữ cảnh"
 " đó. Có thể đặt tối đa một giá trị tại một thời điểm. {br} Nếu nhiều ngữ "
 "cảnh áp dụng cho một khóa học (ví dụ: nếu cấu hình được chỉ định cụ thể cho "
 "khóa học và cho tổ chức chứa khóa học đó thì ngữ cảnh cụ thể hơn sẽ ghi đè "
@@ -10421,7 +10421,7 @@ msgstr ""
 "Những điều này xác định bối cảnh để tắt các chương trình giảm giá do lms "
 "kiểm soát. Nếu không có giá trị nào được đặt thì cấu hình sẽ được áp dụng "
 "trên toàn cầu. Nếu một giá trị duy nhất được đặt thì cấu hình sẽ áp dụng cho"
-" tất cả các khóa học trong ngữ cảnh đó. Có thể đặt tối đa một giá trị tại "
+" tất cả khóa học trong ngữ cảnh đó. Có thể đặt tối đa một giá trị tại "
 "một thời điểm.<br> Nếu nhiều ngữ cảnh áp dụng cho một khóa học (ví dụ: nếu "
 "cấu hình được chỉ định cụ thể cho khóa học và cho tổ chức chứa khóa học đó "
 "thì ngữ cảnh cụ thể hơn sẽ ghi đè ngữ cảnh chung hơn."
@@ -15653,11 +15653,11 @@ msgstr ""
 
 #: cms/templates/course-create-rerun.html:10
 msgid "Create a Course Rerun of:"
-msgstr "Tạo một khóa học chạy lại của:"
+msgstr "Tạo một đợt chạy mã khóa học lại của:"
 
 #: cms/templates/course-create-rerun.html:29
 msgid "Create a re-run of a course"
-msgstr "Tạo một khóa học chạy lại"
+msgstr "Tạo một đợt chạy mã khóa học lại"
 
 #: cms/templates/course-create-rerun.html:42
 msgid "You are creating a re-run from:"
@@ -17245,7 +17245,7 @@ msgstr "Vui lòng sửa các trường được đánh dấu bên dưới."
 
 #: cms/templates/index.html:66
 msgid "Create a New Course"
-msgstr "Tạo một khóa học mới"
+msgstr "Tạo khóa học mới"
 
 #: cms/templates/index.html:69
 msgid "Required Information to Create a New Course"
@@ -17358,7 +17358,7 @@ msgstr "Cài đặt tổ chức và thư viện"
 
 #: cms/templates/index.html:212
 msgid "Show all courses in organization:"
-msgstr "Hiển thị tất cả các khóa học trong tổ chức:"
+msgstr "Hiển thị tất cả khóa học trong tổ chức:"
 
 #: cms/templates/index.html:214
 msgid "For example, MITx"
@@ -19472,7 +19472,7 @@ msgstr "Bắt đầu: {date}"
 
 #: lms/templates/courses_list.html:22
 msgid "View all Courses"
-msgstr "Xem tất cả các khóa học"
+msgstr "Xem tất cả khóa học"
 
 #: lms/templates/dashboard.html:29 lms/templates/header/user_dropdown.html:42
 #: lms/templates/header/user_dropdown.html:44
@@ -19486,7 +19486,7 @@ msgstr "kết quả được điền thành công,"
 
 #: lms/templates/dashboard.html:232
 msgid "Click to load all enrolled courses"
-msgstr "Bấm để tải tất cả các khóa học đã đăng ký"
+msgstr "Bấm để tải tất cả khóa học đã đăng ký"
 
 #: lms/templates/dashboard.html:239
 msgid "You are not enrolled in any courses yet."
@@ -21969,11 +21969,11 @@ msgstr "Rất tiếc, chúng tôi không thể ghi danh bạn vào"
 
 #: lms/templates/course_modes/error.html:29
 msgid "Explore all courses on edX"
-msgstr "Khám phá tất cả các khóa học trên edX"
+msgstr "Khám phá tất cả khóa học trên edX"
 
 #: lms/templates/course_modes/error.html:30
 msgid "Explore all courses"
-msgstr "Khám phá tất cả các khóa học"
+msgstr "Khám phá tất cả khóa học"
 
 #: lms/templates/course_modes/fbe.html:15
 #: lms/templates/course_modes/unfbe.html:19

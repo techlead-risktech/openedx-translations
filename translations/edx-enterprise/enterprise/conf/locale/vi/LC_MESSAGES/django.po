@@ -2741,11 +2741,11 @@ msgstr "Chọn một tổ chức"
 
 #: enterprise/views.py:1264
 msgid "Instructor-Paced"
-msgstr "Nhịp độ của người hướng dẫn"
+msgstr "Theo tiến độ của giảng viên"
 
 #: enterprise/views.py:1265
 msgid "Self-Paced"
-msgstr "tự chủ"
+msgstr "Tự học theo tiến độ cá nhân"
 
 #: enterprise/views.py:1451
 msgid "FREE"

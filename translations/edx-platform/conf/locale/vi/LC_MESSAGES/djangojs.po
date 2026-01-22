@@ -431,14 +431,14 @@ msgstr "Ngày cấp chứng chỉ phải muộn hơn ngày kết thúc khóa h�
 
 #: cms/static/js/models/settings/course_details.js:93
 msgid "The certificate display behavior must be one of: {behavior_options}"
-msgstr "Hành vi hiển thị chứng chỉ phải là một trong: {behavior_options}"
+msgstr "Cách hiển thị chứng chỉ phải là một trong: {behavior_options}"
 
 #: cms/static/js/models/settings/course_details.js:108
 msgid ""
 "The certificates display behavior must be {valid_option} if certificate "
 "available date is set."
 msgstr ""
-"Hành vi hiển thị chứng chỉ phải là {valid_option} nếu ngày có chứng chỉ được"
+"Cách hiển thị chứng chỉ phải là {valid_option} nếu ngày có chứng chỉ được"
 " đặt."
 
 #: cms/static/js/models/settings/course_details.js:118
@@ -1518,7 +1518,7 @@ msgstr "{hours} : {minutes} (giờ UTC hiện tại)"
 
 #: cms/static/js/views/settings/main.js:457
 msgid "Upload your course image."
-msgstr "Tải lên hình ảnh khóa học của bạn."
+msgstr "Tải lên ảnh khóa học của bạn."
 
 #: cms/static/js/views/settings/main.js:463
 msgid "Upload your banner image."
@@ -6957,7 +6957,7 @@ msgstr "Hiển thị tất cả"
 #: cms/templates/js/course-outline.underscore:203
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:6
 msgid "Actions"
-msgstr "thao tác"
+msgstr "Thao tác"
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "You haven't added any assets to this course yet."
@@ -7013,7 +7013,7 @@ msgstr "Chi tiết chứng chỉ"
 #: cms/templates/js/certificate-details.underscore:23
 #: cms/templates/js/certificate-editor.underscore:26
 msgid "Course Title"
-msgstr "Tên khóa học"
+msgstr "Tiêu đề khóa học"
 
 #: cms/templates/js/certificate-details.underscore:28
 #: cms/templates/js/certificate-editor.underscore:30
@@ -7064,7 +7064,7 @@ msgstr "Mô tả chứng chỉ"
 
 #: cms/templates/js/certificate-editor.underscore:31
 msgid "Course title"
-msgstr "Tên khóa học"
+msgstr "Tiêu đề khóa học"
 
 #: cms/templates/js/certificate-editor.underscore:32
 msgid ""
@@ -7516,7 +7516,7 @@ msgstr "Kết quả học tập"
 
 #: cms/templates/js/course-settings-learning-fields.underscore:3
 msgid "Add a learning outcome here"
-msgstr "Thêm kết quả học tập tại đây"
+msgstr "Thêm mục tiêu học tập tại đây"
 
 #: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore:3
 msgid "Press discard changes to discard your changes."

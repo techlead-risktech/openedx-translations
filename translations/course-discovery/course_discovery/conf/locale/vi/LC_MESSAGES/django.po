@@ -507,13 +507,13 @@ msgstr "Đã nghỉ hưu"
 #. similar to a normal university course.
 #: apps/course_metadata/choices.py:30
 msgid "Instructor-paced"
-msgstr "Theo tiến độ của người hướng dẫn"
+msgstr "Theo tiến độ của giảng viên"
 
 #. Translators: Self-paced refers to course runs that operate on the student's
 #. schedule.
 #: apps/course_metadata/choices.py:32
 msgid "Self-paced"
-msgstr "Tự chủ"
+msgstr "Tự học theo tiến độ cá nhân"
 
 #: apps/course_metadata/choices.py:37 apps/learner_pathway/choices.py:6
 msgid "Active"
@@ -705,7 +705,7 @@ msgstr "Nhóm điều phối dự án"
 
 #: apps/course_metadata/emails.py:212
 msgid "course team"
-msgstr "đội khóa học"
+msgstr "Nhóm phụ trách khóa học"
 
 #: apps/course_metadata/emails.py:221
 #, python-brace-format
@@ -1303,7 +1303,7 @@ msgstr ""
 
 #: apps/course_metadata/models.py:1458
 msgid "Add the course image"
-msgstr "Thêm hình ảnh khóa học"
+msgstr "Thêm ảnh khóa học"
 
 #: apps/course_metadata/models.py:1461 apps/course_metadata/models.py:3294
 msgid "FAQ"

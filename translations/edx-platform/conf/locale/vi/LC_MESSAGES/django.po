@@ -774,11 +774,11 @@ msgstr "Nhóm nội dung này đang được sử dụng và không thể xóa �
 #: lms/djangoapps/courseware/tabs.py:336 lms/djangoapps/courseware/tabs.py:337
 #: cms/templates/settings.html:644
 msgid "Entrance Exam"
-msgstr "Kỳ thi tuyển sinh"
+msgstr "Bài kiểm tra đầu vào"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py:159
 msgid "Entrance Exam - Subsection"
-msgstr "Kỳ thi tuyển sinh - Tiểu mục"
+msgstr "Bài kiểm tra đầu vào - Tiểu mục"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py:253
 msgid "Completed Course Entrance Exam"
@@ -4099,7 +4099,7 @@ msgstr "Tỷ lệ các khóa học được phép sử dụng edx-financial-hỗ
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr "Tiến triển"
+msgstr "Tiến độ"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
@@ -9461,7 +9461,7 @@ msgstr "Thành công"
 #: cms/templates/studio_xblock_wrapper.html:164
 #: lms/templates/staff_problem_info.html:66
 msgid "Actions"
-msgstr "thao tác"
+msgstr "Thao tác"
 
 #: openedx/core/djangoapps/user_api/models.py:437
 msgid ""
@@ -12001,7 +12001,7 @@ msgstr ""
 
 #: xmodule/course_block.py:586 cms/templates/settings.html:257
 msgid "Certificates Display Behavior"
-msgstr "Hành vi hiển thị chứng chỉ"
+msgstr "Cách hiển thị chứng chỉ"
 
 #: xmodule/course_block.py:588
 msgid ""
@@ -15502,7 +15502,7 @@ msgstr "Cài đặt nâng cao"
 #: cms/templates/settings_graders.html:176
 #: cms/templates/widgets/header.html:204
 msgid "Proctored Exam Settings"
-msgstr "Cài đặt bài kiểm tra được giám sát"
+msgstr "Cài đặt bài thi có giám sát"
 
 #: cms/templates/checklists.html:13 cms/templates/checklists.html:31
 #: cms/templates/widgets/header.html:263
@@ -16061,7 +16061,7 @@ msgstr "Tìm hiểu thêm về cài đặt hiển thị nội dung"
 #: cms/templates/edit-tabs.html:48 cms/templates/textbooks.html:57
 #: cms/templates/widgets/header.html:130
 msgid "Pages & Resources"
-msgstr "Trang &amp; Tài nguyên"
+msgstr "Trang & Tài nguyên"
 
 #. Translators: Custom Pages refer to the tabs that appear in the top
 #. navigation of each course.
@@ -17909,7 +17909,7 @@ msgstr "Cài đặt lịch trình &amp; chi tiết"
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:171
 #: cms/templates/widgets/header.html:176
 msgid "Schedule & Details"
-msgstr "Lịch trình &amp; Chi tiết"
+msgstr "Lịch học & chi tiết"
 
 #: cms/templates/settings.html:66
 msgid "Basic Information"
@@ -17931,7 +17931,7 @@ msgstr "Trang tóm tắt khóa học"
 
 #: cms/templates/settings.html:92
 msgid "(for student enrollment and access)"
-msgstr "(dành cho việc ghi danh và truy cập của sinh viên)"
+msgstr "(dành cho học viên ghi danh và truy cập)"
 
 #: cms/templates/settings.html:103
 #, python-brace-format
@@ -17955,7 +17955,7 @@ msgstr "Gửi ghi chú cho sinh viên qua email"
 
 #: cms/templates/settings.html:114
 msgid "Invite your students"
-msgstr "Mời sinh viên của bạn"
+msgstr "Mời học viên"
 
 #: cms/templates/settings.html:122
 #, python-brace-format
@@ -18016,11 +18016,11 @@ msgstr "Nhịp độ khóa học"
 
 #: cms/templates/settings.html:193
 msgid "Set the pacing for this course"
-msgstr "Đặt nhịp độ cho khóa học này"
+msgstr "Thiết lập nhịp độ cho khóa học"
 
 #: cms/templates/settings.html:201
 msgid "Instructor-Paced"
-msgstr "Nhịp độ của người hướng dẫn"
+msgstr "Theo tiến độ của giảng viên"
 
 #: cms/templates/settings.html:202
 msgid ""
@@ -18034,7 +18034,7 @@ msgstr ""
 
 #: cms/templates/settings.html:206
 msgid "Self-Paced"
-msgstr "tự chủ"
+msgstr "Tự học theo tiến độ cá nhân"
 
 #: cms/templates/settings.html:207
 msgid ""
@@ -18079,7 +18079,7 @@ msgstr "Ngày kết thúc khóa học"
 
 #: cms/templates/settings.html:242
 msgid "Last day your course is active"
-msgstr "Ngày cuối cùng khóa học của bạn đang hoạt động"
+msgstr "Ngày khóa học ngừng hoạt động"
 
 #: cms/templates/settings.html:246
 msgid "Course End Time"
@@ -18087,7 +18087,7 @@ msgstr "Thời gian kết thúc khóa học"
 
 #: cms/templates/settings.html:259 cms/templates/settings.html:276
 msgid "Immediately upon passing"
-msgstr "Ngay khi đi qua"
+msgstr "Ngay sau khi đạt yêu cầu"
 
 #: cms/templates/settings.html:260
 msgid "End date of course"
@@ -18103,7 +18103,7 @@ msgstr "Chứng chỉ được cấp khi kết thúc khóa học"
 
 #: cms/templates/settings.html:270
 msgid "Read more about this setting"
-msgstr "Đọc thêm về cài đặt này"
+msgstr "Tìm hiểu thêm về cài đặt này"
 
 #: cms/templates/settings.html:274
 msgid ""
@@ -18155,7 +18155,7 @@ msgstr "Ngày bắt đầu ghi danh"
 
 #: cms/templates/settings.html:306
 msgid "First day students can enroll"
-msgstr "Ngày đầu tiên sinh viên có thể ghi danh"
+msgstr "Ngày đầu tiên học viên có thể ghi danh"
 
 #: cms/templates/settings.html:310
 msgid "Enrollment Start Time"
@@ -18167,7 +18167,7 @@ msgstr "Ngày kết thúc ghi danh"
 
 #: cms/templates/settings.html:325
 msgid "Last day students can enroll."
-msgstr "Ngày cuối cùng sinh viên có thể ghi danh."
+msgstr "Ngày cuối cùng học viên có thể ghi danh."
 
 #: cms/templates/settings.html:327 cms/templates/settings.html:348
 #, python-brace-format
@@ -18195,11 +18195,11 @@ msgstr "Thời hạn nâng cấp"
 
 #: cms/templates/settings.html:365
 msgid "Course Details"
-msgstr "chi tiết khóa học"
+msgstr "Thông tin chi tiết khóa học"
 
 #: cms/templates/settings.html:366
 msgid "Provide useful information about your course"
-msgstr "Cung cấp thông tin hữu ích về khóa học của bạn"
+msgstr "Cung cấp thông tin hữu ích về khóa học"
 
 #: cms/templates/settings.html:377
 msgid ""
@@ -18217,14 +18217,14 @@ msgstr "Giới thiệu khóa học của bạn"
 
 #: cms/templates/settings.html:389
 msgid "Information for prospective students"
-msgstr "Thông tin dành cho sinh viên tương lai"
+msgstr "Thông tin dành cho học viên tiềm năng"
 
 #: cms/templates/settings.html:397
 msgid "Course Title"
-msgstr "Tên khóa học"
+msgstr "Tiêu đề khóa học"
 
 #: cms/templates/settings.html:399
-msgid "Displayed as title on the course details page. Limit to 50 characters."
+msgid "Hiển thị là tiêu đề trên trang chi tiết khóa học. Limit to 50 characters."
 msgstr ""
 "Hiển thị dưới dạng tiêu đề trên trang chi tiết khóa học. Giới hạn ở 50 ký "
 "tự."
@@ -18254,7 +18254,7 @@ msgstr "Mô tả khóa học"
 
 #: cms/templates/settings.html:414
 msgid "Displayed on the course details page. Limit to 1000 characters."
-msgstr "Hiển thị trên trang chi tiết khóa học. Giới hạn ở 1000 ký tự."
+msgstr "Hiển thị trên trang chi tiết khóa học. Giới hạn 1000 ký tự."
 
 #: cms/templates/settings.html:420
 msgid "Course Short Description"
@@ -18265,12 +18265,12 @@ msgid ""
 "Appears on the course catalog page when students roll over the course name. "
 "Limit to ~150 characters"
 msgstr ""
-"Xuất hiện trên trang danh mục khóa học khi sinh viên lướt qua tên khóa học. "
+"Hiển thị trên trang danh mục khóa học khi học viên di chuột qua tên khóa."
 "Giới hạn ở ~150 ký tự"
 
 #: cms/templates/settings.html:428
 msgid "Course Overview"
-msgstr "Tổng quan về nhiên"
+msgstr "Tổng quan khóa học"
 
 #: cms/templates/settings.html:431
 msgid "HTML Code Editor"
@@ -18415,19 +18415,19 @@ msgstr "ID video YouTube của bạn"
 
 #: cms/templates/settings.html:571
 msgid "Enter your YouTube video's ID (along with any restriction parameters)"
-msgstr "Nhập ID video YouTube của bạn (cùng với mọi thông số hạn chế)"
+msgstr "Nhập ID video YouTube của bạn (kèm tham số hạn chế nếu có)"
 
 #: cms/templates/settings.html:582
 msgid "Learning Outcomes"
-msgstr "Kết quả học tập"
+msgstr "Mục tiêu học tập"
 
 #: cms/templates/settings.html:583
 msgid "Add the learning outcomes for this course"
-msgstr "Thêm kết quả học tập cho khóa học này"
+msgstr "Thêm mục tiêu học tập cho khóa học này"
 
 #: cms/templates/settings.html:590
 msgid "Add Learning Outcome"
-msgstr "Thêm kết quả học tập"
+msgstr "Thêm mục tiêu học tập"
 
 #: cms/templates/settings.html:598
 #: lms/templates/courseware/program_marketing.html:348
@@ -18440,24 +18440,24 @@ msgstr "Thêm thông tin chi tiết về người hướng dẫn cho khóa học
 
 #: cms/templates/settings.html:606
 msgid "Add Instructor"
-msgstr "Thêm người hướng dẫn"
+msgstr "Thêm giảng viên"
 
 #: cms/templates/settings.html:617
 #: lms/templates/courseware/course_about.html:239
 msgid "Requirements"
-msgstr "Yêu cầu"
+msgstr "Yêu cầu khóa học"
 
 #: cms/templates/settings.html:618
 msgid "Expectations of the students taking this course"
-msgstr "Mong đợi của học viên khi tham gia khóa học này"
+msgstr "Kỳ vọng đối với học viên tham gia khóa học"
 
 #: cms/templates/settings.html:624
 msgid "Hours of Effort per Week"
-msgstr "Số giờ nỗ lực mỗi tuần"
+msgstr "Số giờ học mỗi tuần"
 
 #: cms/templates/settings.html:626
 msgid "Time spent on all course work"
-msgstr "Thời gian dành cho tất cả các công việc khóa học"
+msgstr "Thời gian dành cho toàn bộ nội dung học"
 
 #: cms/templates/settings.html:631
 msgid "Prerequisite Course"
@@ -18519,7 +18519,7 @@ msgid "Select the default license for course content"
 msgstr "Chọn giấy phép mặc định cho nội dung khóa học"
 
 #: cms/templates/settings.html:690
-msgid "How are these settings used?"
+msgid "Các cài đặt này được sử dụng như thế nào?"
 msgstr "Những cài đặt này được sử dụng như thế nào?"
 
 #: cms/templates/settings.html:691
@@ -21488,7 +21488,7 @@ msgstr "để sử dụng"
 
 #: lms/templates/calculator/toggle_calculator.html:50
 msgid "Type"
-msgstr "Kiểu"
+msgstr "Loại"
 
 #: lms/templates/calculator/toggle_calculator.html:51
 msgid "Examples"
@@ -22785,7 +22785,7 @@ msgstr "Xem điểm"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html:85
 msgid "Course details"
-msgstr "Chi tiết khóa học"
+msgstr "Thông tin chi tiết khóa học"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html:90
 #, python-brace-format

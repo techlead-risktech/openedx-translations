@@ -553,7 +553,7 @@ msgstr "Đã xác minh"
 
 #: apps/course_metadata/choices.py:74
 msgid "Honor"
-msgstr "Danh dự"
+msgstr "Danh dự / chứng chỉ danh dự "
 
 #: apps/course_metadata/choices.py:75
 msgid "Credit"

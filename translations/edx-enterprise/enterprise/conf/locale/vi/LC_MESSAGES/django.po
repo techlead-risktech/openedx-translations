@@ -719,7 +719,7 @@ msgstr "Tín dụng"
 
 #: enterprise/admin/forms.py:79 enterprise/api/v1/serializers.py:1632
 msgid "Honor"
-msgstr "Danh dự"
+msgstr "Danh dự / chứng chỉ danh dự "
 
 #: enterprise/admin/forms.py:80 enterprise/api/v1/serializers.py:1633
 msgid "Unpaid Executive Education"

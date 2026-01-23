@@ -304,7 +304,7 @@ msgstr "Chưa giải quyết"
 #: cms/djangoapps/contentstore/models.py:356
 #: cms/djangoapps/contentstore/video_storage_handlers.py:127
 msgid "Failed"
-msgstr "Thất bại"
+msgstr "Trượt"
 
 #: cms/djangoapps/contentstore/models.py:357 lms/templates/seq_block.html:76
 #: lms/templates/vert_module.html:28
@@ -15395,7 +15395,7 @@ msgstr "Khóa học này không sử dụng chế độ cung cấp chứng chỉ
 
 #: cms/templates/certificates.html:91
 msgid "Working with Certificates"
-msgstr "Làm việc với Chứng chỉ"
+msgstr "Làm việc với chứng chỉ"
 
 #: cms/templates/certificates.html:92
 msgid ""
@@ -15435,7 +15435,7 @@ msgstr ""
 
 #: cms/templates/certificates.html:97
 msgid "Issuing Certificates to Learners"
-msgstr "Cấp chứng chỉ cho người học"
+msgstr "Cấp chứng chỉ cho học viên"
 
 #: cms/templates/certificates.html:98
 #, python-brace-format
@@ -17763,7 +17763,7 @@ msgstr "ví dụ: tên người dùng@domain.com"
 
 #: cms/templates/manage_users.html:60
 msgid "Provide the email address of the user you want to add as Staff"
-msgstr "Cung cấp địa chỉ email của người dùng bạn muốn thêm làm Nhân viên"
+msgstr "Nhập địa chỉ email của người bạn muốn thêm làm Nhân sự/Staff"
 
 #: cms/templates/manage_users.html:67 cms/templates/manage_users_lib.html:68
 msgid "Add User"
@@ -18583,7 +18583,7 @@ msgstr ""
 
 #: cms/templates/settings_advanced.html:111
 msgid "Show Deprecated Settings"
-msgstr "Hiển thị cài đặt không được dùng nữa"
+msgstr "Hiển thị cài đặt đã ngừng hỗ trợ"
 
 #: cms/templates/settings_advanced.html:124
 msgid "What do advanced settings do?"
@@ -18627,11 +18627,11 @@ msgstr "Cài đặt chấm điểm"
 
 #: cms/templates/settings_graders.html:61
 msgid "Overall Grade Range"
-msgstr "Phạm vi lớp tổng thể"
+msgstr "Thang điểm tổng thể"
 
 #: cms/templates/settings_graders.html:62
 msgid "Your overall grading scale for student final grades"
-msgstr "Thang điểm tổng thể của bạn cho điểm cuối cùng của học sinh"
+msgstr "Thang điểm tổng thể áp dụng cho điểm cuối cùng của học viên"
 
 #: cms/templates/settings_graders.html:68
 msgid "Add grade"
@@ -18655,7 +18655,7 @@ msgstr "Phải lớn hơn hoặc bằng điểm đậu khóa học"
 
 #: cms/templates/settings_graders.html:115
 msgid "Grading Rules & Policies"
-msgstr "Quy tắc &amp; Chính sách chấm điểm"
+msgstr "Quy tắc & chính sách chấm điểm"
 
 #: cms/templates/settings_graders.html:116
 msgid "Deadlines, requirements, and logistics around grading student work"
@@ -18665,23 +18665,23 @@ msgstr ""
 
 #: cms/templates/settings_graders.html:121
 msgid "Grace Period on Deadline:"
-msgstr "Thời gian ân hạn theo thời hạn:"
+msgstr "Thời gian gia hạn nộp bài:"
 
 #: cms/templates/settings_graders.html:123
 msgid "Leeway on due dates"
-msgstr "Leeway vào ngày đáo hạn"
+msgstr "Khoảng gia hạn khi đến hạn nộp"
 
 #: cms/templates/settings_graders.html:131
 msgid "Assignment Types"
-msgstr "Các loại bài tập"
+msgstr "Loại bài tập"
 
 #: cms/templates/settings_graders.html:132
 msgid "Categories and labels for any exercises that are gradable"
-msgstr "Danh mục và nhãn cho bất kỳ bài tập nào có thể phân loại được"
+msgstr "Nhóm và nhãn cho các bài tập có thể chấm điểm"
 
 #: cms/templates/settings_graders.html:141
 msgid "New Assignment Type"
-msgstr "Loại bài tập mới"
+msgstr "Thêm loại bài tập mới"
 
 #: cms/templates/settings_graders.html:150
 msgid "What can I do on this page?"
@@ -18693,7 +18693,7 @@ msgid ""
 "course is pass/fail or graded by letter, and to establish the thresholds for"
 " each grade."
 msgstr ""
-"Bạn có thể sử dụng thanh trượt trong Phạm vi điểm tổng thể để xác định liệu "
+"Bạn có thể sử dụng thanh trượt trong thang điểm tổng thể để xác định liệu "
 "khóa học của bạn là đạt/không đạt hay được xếp loại theo chữ cái và để thiết"
 " lập các ngưỡng cho từng điểm."
 

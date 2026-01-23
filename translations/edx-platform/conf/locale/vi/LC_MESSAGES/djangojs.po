@@ -913,7 +913,7 @@ msgstr[0] "Chứa các nhóm {count}"
 #: cms/static/js/views/group_configuration_details.js:82
 #: cms/static/js/views/partition_group_details.js:66
 msgid "Not in Use"
-msgstr "Không được sử dụng"
+msgstr "Chưa sử dụng"
 
 #. Translators: 'count' is number of units that the group
 #. configuration is used in.
@@ -7612,7 +7612,7 @@ msgstr ""
 
 #: cms/templates/js/course_grade_policy.underscore:9
 msgid "Abbreviation"
-msgstr "Viết tắt"
+msgstr "Tên viết tắt"
 
 #: cms/templates/js/course_grade_policy.underscore:11
 msgid ""
@@ -7624,7 +7624,7 @@ msgstr ""
 
 #: cms/templates/js/course_grade_policy.underscore:15
 msgid "Weight of Total Grade"
-msgstr "Trọng lượng của tổng lớp"
+msgstr "Trọng số trong tổng điểm"
 
 #: cms/templates/js/course_grade_policy.underscore:17
 msgid ""
@@ -7646,7 +7646,7 @@ msgstr "Số lượng tiểu mục trong khóa học có chứa các dạng bài
 
 #: cms/templates/js/course_grade_policy.underscore:27
 msgid "Number of Droppable"
-msgstr "Số lượng có thể bỏ được"
+msgstr "Số lượng bài có thể bỏ"
 
 #: cms/templates/js/course_grade_policy.underscore:29
 msgid ""
@@ -8297,7 +8297,7 @@ msgstr "Xem trực tiếp"
 #: cms/templates/js/signatory-details.underscore:9
 #: cms/templates/js/signatory-editor.underscore:8
 msgid "Signatory"
-msgstr "Người ký"
+msgstr "Người ký số"
 
 #: cms/templates/js/signatory-details.underscore:28
 #: cms/templates/js/signatory-editor.underscore:37
@@ -8456,8 +8456,7 @@ msgstr "gửi email tới {email}"
 #: cms/templates/js/team-member.underscore:32
 msgid "Promote another member to Admin to remove your admin rights"
 msgstr ""
-"Thăng hạng thành viên khác lên Quản trị viên để xóa quyền quản trị viên của "
-"bạn"
+"Chỉ định thành viên khác làm quản trị viên để xóa quyền admin của bạn"
 
 #: cms/templates/js/team-member.underscore:35
 #, python-brace-format

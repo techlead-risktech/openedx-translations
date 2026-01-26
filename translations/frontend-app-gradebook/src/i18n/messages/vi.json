@@ -56,7 +56,7 @@
   "gradebook.BulkManagementHistoryView.csvUploadLabel": "Tải lên CSV lớp",
   "gradebook.GradesView.importGradesBtnText": "Nhập lớp",
   "gradebook.GradesView.ImportSuccessToast.description": "Nhập thành công! Điểm số sẽ được cập nhật trong giây lát.",
-  "gradebook.GradesView.ImportSuccessToast.showHistoryViewBtn": "Xem nhật ký hoạt động",
+  "gradebook.GradesView.ImportSuccessToast.showHistoryViewBtn": "Xem nhật ký hành động",
   "gradebook.GradesView.InterventionsReport.title": "Báo cáo can thiệp",
   "gradebook.GradesView.InterventionsReport.description": "Cần tìm những sinh viên có thể bị tụt lại phía sau? Tải xuống báo cáo can thiệp để có được số liệu về mức độ tương tác, chẳng hạn như số lần thử phần và số lượt truy cập.",
   "gradebook.GradesView.InterventionsReport.downloadBtn": "Tải xuống các biện pháp can thiệp",

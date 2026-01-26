@@ -343,7 +343,7 @@ msgstr ""
 #: integrated_channels/integrated_channel/management/commands/__init__.py:123
 #, python-brace-format
 msgid "Enterprise customer {uuid} not found, or not active"
-msgstr "Không tìm thấy khách hàng doanh nghiệp {uuid} hoặc không hoạt động"
+msgstr "Không tìm thấy khách hàng doanh nghiệp {uuid} hoặc không hành động"
 
 #: integrated_channels/integrated_channel/management/commands/__init__.py:147
 #, python-brace-format
@@ -463,7 +463,7 @@ msgstr ""
 #: integrated_channels/integrated_channel/models.py:136
 #: integrated_channels/xapi/models.py:40
 msgid "Is this configuration active?"
-msgstr "Cấu hình này có hoạt động không?"
+msgstr "Cấu hình này có hành động không?"
 
 #: integrated_channels/integrated_channel/models.py:143
 msgid "Is this configuration in dry-run mode? (experimental)"
@@ -630,7 +630,7 @@ msgid ""
 "('sapsf_user_id') defined in the SAP Customer Configuration for course "
 "completion."
 msgstr ""
-"Khi được đặt thành True, hoạt động tích hợp sẽ sử dụng người dùng dịch vụ "
+"Khi được đặt thành True, hành động tích hợp sẽ sử dụng người dùng dịch vụ "
 "edX chung (&#39;sapsf_user_id&#39;) được xác định trong Cấu hình khách hàng "
 "SAP để hoàn thành khóa học."
 
@@ -735,11 +735,11 @@ msgstr "ID cơ hội lực lượng bán hàng"
 
 #: enterprise/admin/forms.py:86
 msgid "Discount percentage for manual enrollment"
-msgstr "Tỷ lệ chiết khấu khi ghi danh thủ công"
+msgstr "Phần trăm giảm giá khi ghi danh thủ công"
 
 #: enterprise/admin/forms.py:87
 msgid "Discount percentage should be from 0 to 100"
-msgstr "Tỷ lệ phần trăm giảm giá phải từ 0 đến 100"
+msgstr "Phần trăm giảm giá phải từ 0 đến 100"
 
 #: enterprise/admin/forms.py:102
 msgid "Notify learners of enrollment"
@@ -1540,7 +1540,7 @@ msgid ""
 "where capturing the discount per order is not possible. This is passed to "
 "ecommerce when creating orders for financial data reporting."
 msgstr ""
-"Chỉ định phần trăm chiết khấu được sử dụng cho các ghi danh từ API ghi danh "
+"Chỉ định phần trăm giảm giá được sử dụng cho các ghi danh từ API ghi danh "
 "trong đó không thể thu được chiết khấu cho mỗi đơn hàng. Điều này được "
 "chuyển đến thương mại điện tử khi tạo đơn đặt hàng để báo cáo dữ liệu tài "
 "chính."
@@ -1581,8 +1581,8 @@ msgid ""
 "When enabled along with `active`, all other linked enterprise customers for "
 "this user will be marked as inactive upon save."
 msgstr ""
-"Khi được bật cùng với `hoạt động`, tất cả các khách hàng doanh nghiệp được "
-"liên kết khác của người dùng này sẽ được đánh dấu là không hoạt động khi "
+"Khi được bật cùng với `hành động`, tất cả các khách hàng doanh nghiệp được "
+"liên kết khác của người dùng này sẽ được đánh dấu là không hành động khi "
 "lưu."
 
 #: enterprise/models.py:1103
@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: enterprise/models.py:2342
 msgid "The course entitlement the associated subsidy is for."
-msgstr "Quyền lợi của khóa học được trợ cấp liên quan dành cho."
+msgstr "Quyền hạn lợi của khóa học được trợ cấp liên quan dành cho."
 
 #: enterprise/models.py:2353
 msgid "The course enrollment the associated subsidy is for."
@@ -2350,7 +2350,7 @@ msgstr ""
 
 #: enterprise/utils.py:151
 msgid "Error: Learners could not be added. Correct the following errors."
-msgstr "Lỗi: Không thể thêm người học. Sửa các lỗi sau."
+msgstr "Lỗi: Không thể thêm người học. Chỉnh sửa các lỗi sau."
 
 #: enterprise/utils.py:153
 #, python-brace-format
@@ -2455,7 +2455,7 @@ msgstr ""
 
 #: enterprise/utils.py:191
 msgid "Discount percentage should be from 0 to 100."
-msgstr "Tỷ lệ phần trăm giảm giá phải từ 0 đến 100."
+msgstr "Phần trăm giảm giá phải từ 0 đến 100."
 
 #: enterprise/utils.py:401
 #, python-brace-format
@@ -2799,7 +2799,7 @@ msgstr "Cấp độ"
 
 #: enterprise/views.py:1610 enterprise/views.py:2110
 msgid "Effort"
-msgstr "Cố gắng"
+msgstr "Khối lượng học tập"
 
 #: enterprise/views.py:1611
 msgid "Duration"

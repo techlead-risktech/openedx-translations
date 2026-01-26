@@ -73,7 +73,7 @@ msgstr "Nhân viên"
 
 #: assessment/score_type_constants.py:25
 msgid "Unknown"
-msgstr "không xác định"
+msgstr "Không xác định"
 
 #: data.py:584
 #, python-brace-format

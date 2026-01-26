@@ -90,7 +90,7 @@
   "assetsTablePermaDelete": "Xóa vĩnh viễn",
   "assetsTableLearnMore": "Tìm hiểu thêm.",
   "assetsTableDeleteWarning": "Việc xóa {displayName} không thể hoàn tác được.",
-  "assetsTableDeleteConsequences": "Mọi liên kết hoặc tham chiếu tới tệp này sẽ không còn hoạt động. {link}",
+  "assetsTableDeleteConsequences": "Mọi liên kết hoặc tham chiếu tới tệp này sẽ không còn hành động. {link}",
   "assetsUploadConfirmMessage": "Các tập tin sau sẽ bị ghi đè: {listOfFiles}",
   "assetsUploadConfirmTitle": "Ghi đè tập tin",
   "assetsUploadConfirmOverwrite": "Ghi đè",

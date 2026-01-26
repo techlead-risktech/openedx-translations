@@ -134,7 +134,7 @@ msgstr "Đang hủy quá trình nhập vì khóa học có id này: {} đã tồ
 
 #: cms/djangoapps/contentstore/errors.py:7
 msgid "Permission denied. You do not have write access to this course."
-msgstr "Quyền bị từ chối. Bạn không có quyền ghi vào khóa học này."
+msgstr "Quyền hạn bị từ chối. Bạn không có quyền ghi vào khóa học này."
 
 #: cms/djangoapps/contentstore/errors.py:8
 #, python-brace-format
@@ -160,7 +160,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/errors.py:13
 msgid "Permission denied"
-msgstr "Quyền bị từ chối"
+msgstr "Quyền hạn bị từ chối"
 
 #: cms/djangoapps/contentstore/errors.py:14
 msgid "Unknown error while importing course."
@@ -181,7 +181,7 @@ msgstr "Tệp lưu trữ không an toàn. Đang hủy nhập khẩu."
 
 #: cms/djangoapps/contentstore/errors.py:18
 msgid "User permission denied."
-msgstr "Quyền của người dùng bị từ chối."
+msgstr "Quyền hạn của người dùng bị từ chối."
 
 #: cms/djangoapps/contentstore/git_export_utils.py:36
 #, python-brace-format
@@ -504,7 +504,7 @@ msgstr "Đã nhập"
 #. Translators: This is the status for a video that is in an unknown state
 #: cms/djangoapps/contentstore/video_storage_handlers.py:141
 msgid "Unknown"
-msgstr "không xác định"
+msgstr "Không xác định"
 
 #. Translators: This is the status for a video that is having its
 #. transcription in progress on servers
@@ -645,7 +645,7 @@ msgstr "Chứng chỉ dict {0} thiếu khóa giá trị &#39;{1}&#39;"
 #: cms/djangoapps/contentstore/views/certificates.py:393
 #, python-brace-format
 msgid "PermissionDenied: Failed in authenticating {user}"
-msgstr "Quyền bị từ chối: Không thể xác thực {user}"
+msgstr "Quyền hạn bị từ chối: Không thể xác thực {user}"
 
 #: cms/djangoapps/contentstore/views/component.py:277
 #, python-brace-format
@@ -847,7 +847,7 @@ msgstr "'{organization_key}' không phải là mã định danh tổ chức hợ
 #: cms/djangoapps/contentstore/views/preview.py:302
 #, python-brace-format
 msgid "Access restricted to: {list_of_groups}"
-msgstr "Quyền truy cập bị giới hạn ở: {list_of_groups}"
+msgstr "Quyền hạn truy cập bị giới hạn ở: {list_of_groups}"
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:195
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:527
@@ -1118,7 +1118,7 @@ msgstr "Quản trị Studio"
 #: common/djangoapps/course_modes/admin.py:40
 #: common/djangoapps/course_modes/models.py:60
 msgid "Mode"
-msgstr "Cách thức"
+msgstr "Chế độ"
 
 #: common/djangoapps/course_modes/admin.py:48
 #: lms/djangoapps/courseware/date_summary.py:566
@@ -3404,7 +3404,7 @@ msgid ""
 "awarded for course activities that {platform_name} students complete."
 msgstr ""
 "{platform_name} ghi nhận thành tích thông qua các chứng chỉ được trao cho "
-"các hoạt động khóa học mà sinh viên {platform_name} hoàn thành."
+"các hành động khóa học mà sinh viên {platform_name} hoàn thành."
 
 #. Translators:  'All rights reserved' is a legal term used in copyrighting to
 #. protect published content
@@ -3946,7 +3946,7 @@ msgid ""
 " no longer active."
 msgstr ""
 "Khóa học này được lưu trữ, có nghĩa là bạn có thể xem lại nội dung khóa học "
-"nhưng nó không còn hoạt động nữa."
+"nhưng nó không còn hành động nữa."
 
 #: lms/djangoapps/courseware/date_summary.py:404
 msgid "You lose all access to this course, including your progress."
@@ -3955,7 +3955,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/date_summary.py:408
 msgid "Audit Access Expires"
-msgstr "Quyền truy cập kiểm tra hết hạn"
+msgstr "Quyền hạn truy cập kiểm tra hết hạn"
 
 #: lms/djangoapps/courseware/date_summary.py:420
 msgid "Certificate Available"
@@ -4520,7 +4520,7 @@ msgstr ""
 #: lms/djangoapps/discussion/views.py:80
 msgid "Access to this discussion is restricted to team members and staff."
 msgstr ""
-"Quyền truy cập vào cuộc thảo luận này được giới hạn cho các thành viên trong"
+"Quyền hạn truy cập vào cuộc thảo luận này được giới hạn cho các thành viên trong"
 " nhóm và nhân viên."
 
 #: lms/djangoapps/edxnotes/helpers.py:116
@@ -4930,7 +4930,7 @@ msgstr "Trạng thái ghi danh của {student} : đang hoạt động"
 #: lms/djangoapps/instructor/views/api.py:1805
 #, python-brace-format
 msgid "Enrollment status for {student}: inactive"
-msgstr "Trạng thái ghi danh của {student} : không hoạt động"
+msgstr "Trạng thái ghi danh của {student} : không hành động"
 
 #: lms/djangoapps/instructor/views/api.py:1810
 #, python-brace-format
@@ -5274,7 +5274,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:78
 msgid "Instructor"
-msgstr "Người hướng dẫn"
+msgstr "Giảng viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:157
 #, python-brace-format
@@ -5906,7 +5906,7 @@ msgstr "Vô hiệu hóa tài khoản người dùng"
 #: lms/djangoapps/support/views/index.py:30
 #: lms/templates/support/entitlement.html:19
 msgid "Entitlements"
-msgstr "Quyền lợi"
+msgstr "Quyền hạn lợi"
 
 #: lms/djangoapps/support/views/index.py:31
 msgid "View, create, and reissue learner entitlements"
@@ -6182,7 +6182,7 @@ msgstr "Xin vui lòng sửa các lỗi bên dưới."
 #, python-format
 msgid "Are you sure you want to cancel retirement for user \"%(username)s\"? "
 msgstr ""
-"Bạn có chắc chắn muốn hủy việc ngừng hoạt động của người dùng &quot; "
+"Bạn có chắc chắn muốn hủy việc ngừng hành động của người dùng &quot; "
 "%(username)s &quot; không? "
 
 #: lms/templates/admin/user_api/accounts/cancel_retirement_action.html:38
@@ -7085,7 +7085,7 @@ msgstr "Bạn đang xóa một bài viết. Vui lòng xác nhận."
 #: cms/templates/studio_xblock_wrapper.html:157
 #: lms/templates/wiki/includes/article_menu.html:22
 msgid "Edit"
-msgstr "Sửa"
+msgstr "Chỉnh sửa"
 
 #: lms/templates/wiki/edit.html:28 lms/templates/wiki/edit.html:61
 #: wiki/templates/wiki/edit.html:35 wiki/templates/wiki/edit.html:57
@@ -8228,7 +8228,7 @@ msgid ""
 "for the credit provider in secure auth settings."
 msgstr ""
 "Khi đúng, hãy tự động thông báo cho nhà cung cấp tín dụng khi người dùng yêu"
-" cầu tín dụng. Để tính năng này hoạt động, khóa bí mật chung PHẢI được định "
+" cầu tín dụng. Để tính năng này hành động, khóa bí mật chung PHẢI được định "
 "cấu hình cho nhà cung cấp tín dụng trong cài đặt xác thực an toàn."
 
 #: openedx/core/djangoapps/credit/models.py:84
@@ -8740,7 +8740,7 @@ msgstr "Tùy chọn tóm tắt email đã cập nhật"
 #: openedx/core/djangoapps/notifications/templates/notifications/email_digest_preference_update.html:9
 msgid ""
 "You have successfully unsubscribed from email digest for learning activity"
-msgstr "Bạn đã hủy đăng ký nhận email tóm tắt về hoạt động học tập thành công"
+msgstr "Bạn đã hủy đăng ký nhận email tóm tắt về hành động học tập thành công"
 
 #: openedx/core/djangoapps/notifications/views.py:220
 msgid "The notification preference config version is not up to date."
@@ -9284,7 +9284,7 @@ msgstr "Email này đã được liên kết với một tài khoản hiện có
 
 #: openedx/core/djangoapps/user_api/accounts/__init__.py:66
 msgid "This email is associated to a retired account."
-msgstr "Email này được liên kết với một tài khoản đã ngừng hoạt động."
+msgstr "Email này được liên kết với một tài khoản đã ngừng hành động."
 
 #: openedx/core/djangoapps/user_api/accounts/__init__.py:69
 msgid ""
@@ -9445,7 +9445,7 @@ msgstr "Email hoặc mật khẩu không đúng."
 #: openedx/core/djangoapps/user_api/admin.py:52
 #: wiki/templates/wiki/permission_denied.html:7
 msgid "Permission Denied"
-msgstr "Quyền bị từ chối"
+msgstr "Quyền hạn bị từ chối"
 
 #: openedx/core/djangoapps/user_api/admin.py:62
 msgid "Retirement does not exist!"
@@ -9469,7 +9469,7 @@ msgid ""
 "needs to be retired"
 msgstr ""
 "Tệp được phân tách bằng dấu phẩy có tên người dùng và user_email của người "
-"dùng cần ngừng hoạt động"
+"dùng cần ngừng hành động"
 
 #: openedx/core/djangoapps/user_api/preferences/api.py:253
 #, python-brace-format
@@ -10325,7 +10325,7 @@ msgstr "Nội dung chỉ dành cho người học theo dõi đã được xác m
 
 #: openedx/features/content_type_gating/templates/content_type_gating/access_denied_message.html:7
 msgid "Verified Track Access"
-msgstr "Quyền truy cập theo dõi đã được xác minh"
+msgstr "Quyền hạn truy cập theo dõi đã được xác minh"
 
 #: openedx/features/content_type_gating/templates/content_type_gating/access_denied_message.html:15
 msgid "Upgrade to unlock"
@@ -10334,18 +10334,18 @@ msgstr "Nâng cấp để mở khóa"
 #: openedx/features/course_duration_limits/access.py:32
 #, python-brace-format
 msgid "Access expired on {expiration_date}"
-msgstr "Quyền truy cập đã hết hạn trên {expiration_date}"
+msgstr "Quyền hạn truy cập đã hết hạn trên {expiration_date}"
 
 #: openedx/features/course_duration_limits/access.py:35
 #, python-brace-format
 msgid "Access to {course_name} expired on {expiration_date}"
-msgstr "Quyền truy cập vào {course_name} đã hết hạn trên {expiration_date}"
+msgstr "Quyền hạn truy cập vào {course_name} đã hết hạn trên {expiration_date}"
 
 #: openedx/features/course_duration_limits/access.py:40
 #, python-brace-format
 msgid "Access to the course you were looking for expired on {expiration_date}"
 msgstr ""
-"Quyền truy cập vào khóa học bạn đang tìm kiếm đã hết hạn vào "
+"Quyền hạn truy cập vào khóa học bạn đang tìm kiếm đã hết hạn vào "
 "{expiration_date}"
 
 #: openedx/features/course_duration_limits/access.py:158
@@ -10354,7 +10354,7 @@ msgid ""
 "This learner does not have access to this course. Their access expired on "
 "{expiration_date}."
 msgstr ""
-"Người học này không có quyền truy cập vào khóa học này. Quyền truy cập của "
+"Người học này không có quyền truy cập vào khóa học này. Quyền hạn truy cập của "
 "họ đã hết hạn vào {expiration_date} ."
 
 #: openedx/features/course_duration_limits/access.py:164
@@ -10364,7 +10364,7 @@ msgid ""
 "{expiration_date}{strong_close}{line_break}You lose all access to this "
 "course, including your progress, on {expiration_date}."
 msgstr ""
-"{strong_open} Quyền truy cập kiểm tra hết hạn {expiration_date} "
+"{strong_open} Quyền hạn truy cập kiểm tra hết hạn {expiration_date} "
 "{strong_close} {line_break} Bạn mất tất cả quyền truy cập vào khóa học này, "
 "bao gồm cả tiến trình của bạn, vào {expiration_date} ."
 
@@ -11714,7 +11714,7 @@ msgstr "Tên hiển thị khóa học"
 
 #: xmodule/course_block.py:394 xmodule/modulestore/inheritance.py:63
 msgid "Course Editor"
-msgstr "Sửa khóa học"
+msgstr "Chỉnh sửa khóa học"
 
 #: xmodule/course_block.py:395 xmodule/modulestore/inheritance.py:64
 msgid "Enter the method by which this course is edited (\"XML\" or \"Studio\")."
@@ -13529,7 +13529,7 @@ msgstr "Khối con nào mà học sinh trong một nhóm_id cụ thể sẽ th�
 #: xmodule/split_test_block.py:295
 #, python-brace-format
 msgid "{group_name} (inactive)"
-msgstr "{group_name} (không hoạt động)"
+msgstr "{group_name} (không hành động)"
 
 #: xmodule/split_test_block.py:635
 msgid "The experiment is not associated with a group configuration."
@@ -13569,8 +13569,8 @@ msgid ""
 "The experiment has an inactive group. Move content into active groups, then "
 "delete the inactive group."
 msgstr ""
-"Thí nghiệm có một nhóm không hoạt động. Di chuyển nội dung vào các nhóm hoạt"
-" động, sau đó xóa nhóm không hoạt động."
+"Thí nghiệm có một nhóm không hành động. Di chuyển nội dung vào các nhóm hoạt"
+" động, sau đó xóa nhóm không hành động."
 
 #: xmodule/split_test_block.py:694
 msgid "This content experiment has issues that affect content visibility."
@@ -14180,7 +14180,7 @@ msgstr "Từ chối tất cả người dùng truy cập để chỉnh sửa bà
 
 #: wiki/forms.py:267
 msgid "Permissions"
-msgstr "Quyền"
+msgstr "Quyền hạn"
 
 #: wiki/forms.py:271
 msgid "Owner"
@@ -14228,7 +14228,7 @@ msgstr "Bài viết đã được mở khóa để chỉnh sửa"
 
 #: wiki/forms.py:366
 msgid "Filter"
-msgstr "Lọc"
+msgstr "Bộ lọc"
 
 #: wiki/core/plugins/base.py:46
 msgid "Settings for plugin"
@@ -14356,7 +14356,7 @@ msgstr "bài báo gốc"
 
 #: wiki/models/pluginbase.py:75
 msgid "Permissions are inherited from this article"
-msgstr "Quyền được kế thừa từ bài viết này"
+msgstr "Quyền hạn được kế thừa từ bài viết này"
 
 #: wiki/models/pluginbase.py:133
 msgid "A plugin was changed"
@@ -14584,7 +14584,7 @@ msgstr "Tài liệu"
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:16
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:26
 msgid "Action"
-msgstr "Hoạt động"
+msgstr "Hành động"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:27
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:32
@@ -16845,7 +16845,7 @@ msgid ""
 "incremental release when it makes sense. And with co-authors, you can have a"
 " whole team building a course, together."
 msgstr ""
-"{studio_name} hoạt động giống như các ứng dụng web mà bạn đã biết nhưng vẫn "
+"{studio_name} hành động giống như các ứng dụng web mà bạn đã biết nhưng vẫn "
 "hiểu cách bạn xây dựng chương trình giảng dạy. Xuất bản ngay lập tức lên web"
 " khi bạn muốn, phát hành gia tăng khi có ý nghĩa. Và với các đồng tác giả, "
 "bạn có thể cùng cả nhóm xây dựng một khóa học."
@@ -17833,7 +17833,7 @@ msgstr ""
 
 #: cms/templates/manage_users_lib.html:13
 msgid "Library User Access"
-msgstr "Quyền truy cập của người dùng thư viện"
+msgstr "Quyền hạn truy cập của người dùng thư viện"
 
 #: cms/templates/manage_users_lib.html:29
 #: cms/templates/widgets/header.html:302
@@ -17860,7 +17860,7 @@ msgid ""
 msgstr ""
 "Cấp cho các thành viên khác trong nhóm khóa học của bạn quyền truy cập vào "
 "thư viện này. Người dùng thư viện mới phải có tài khoản {studio_name} đang "
-"hoạt động."
+"hành động."
 
 #: cms/templates/manage_users_lib.html:92
 msgid "Add a New User"
@@ -18079,7 +18079,7 @@ msgstr "Ngày kết thúc khóa học"
 
 #: cms/templates/settings.html:242
 msgid "Last day your course is active"
-msgstr "Ngày khóa học ngừng hoạt động"
+msgstr "Ngày khóa học ngừng hành động"
 
 #: cms/templates/settings.html:246
 msgid "Course End Time"
@@ -18827,14 +18827,14 @@ msgstr "Video trên mỗi trang:"
 #: cms/templates/visibility_editor.html:20
 #: cms/templates/visibility_editor.html:70
 msgid "Access is not restricted"
-msgstr "Quyền truy cập không bị hạn chế"
+msgstr "Quyền hạn truy cập không bị hạn chế"
 
 #: cms/templates/visibility_editor.html:23
 msgid ""
 "Access to this unit is not restricted, but visibility might be affected by "
 "inherited settings."
 msgstr ""
-"Quyền truy cập vào thiết bị này không bị hạn chế nhưng khả năng hiển thị có "
+"Quyền hạn truy cập vào thiết bị này không bị hạn chế nhưng khả năng hiển thị có "
 "thể bị ảnh hưởng bởi các cài đặt kế thừa."
 
 #: cms/templates/visibility_editor.html:25
@@ -18842,7 +18842,7 @@ msgid ""
 "Access to this component is not restricted, but visibility might be affected"
 " by inherited settings."
 msgstr ""
-"Quyền truy cập vào thành phần này không bị hạn chế nhưng khả năng hiển thị "
+"Quyền hạn truy cập vào thành phần này không bị hạn chế nhưng khả năng hiển thị "
 "có thể bị ảnh hưởng bởi các cài đặt kế thừa."
 
 #: cms/templates/visibility_editor.html:29
@@ -18895,7 +18895,7 @@ msgstr ""
 
 #: cms/templates/visibility_editor.html:75
 msgid "Access is restricted to:"
-msgstr "Quyền truy cập bị hạn chế ở:"
+msgstr "Quyền hạn truy cập bị hạn chế ở:"
 
 #: cms/templates/visibility_editor.html:81
 msgid "Restrict access to:"
@@ -18967,7 +18967,7 @@ msgid ""
 "Your course creation rights to {studio_name} have been revoked. If you "
 "believe this was in error, please contact {email}"
 msgstr ""
-"Quyền tạo khóa học của bạn đối với {studio_name} đã bị thu hồi. Nếu bạn cho "
+"Quyền hạn tạo khóa học của bạn đối với {studio_name} đã bị thu hồi. Nếu bạn cho "
 "rằng đây là do nhầm lẫn, vui lòng liên hệ với {email}"
 
 #: cms/templates/emails/course_creator_subject.txt:2
@@ -19733,7 +19733,7 @@ msgstr "Chào mừng đến với {platform_name}"
 #: lms/templates/index_overlay.html:10
 #, python-brace-format
 msgid "It works! Powered by the Open edX{registered_trademark} Platform"
-msgstr "Nó hoạt động! Được hỗ trợ bởi Nền tảng edX {registered_trademark} mở"
+msgstr "Nó hành động! Được hỗ trợ bởi Nền tảng edX {registered_trademark} mở"
 
 #: lms/templates/invalid_email_key.html:10
 msgid "Invalid email change key"
@@ -20160,11 +20160,11 @@ msgstr ""
 
 #: lms/templates/split_test_author_view.html:30
 msgid "Active Groups"
-msgstr "Nhóm hoạt động"
+msgstr "Nhóm hành động"
 
 #: lms/templates/split_test_author_view.html:36
 msgid "Inactive Groups"
-msgstr "Nhóm không hoạt động"
+msgstr "Nhóm không hành động"
 
 #: lms/templates/staff_problem_info.html:27
 msgid "Staff Debug Info"
@@ -20700,7 +20700,7 @@ msgstr ""
 "{platform_name_capitalized} có thể giám sát việc bạn sử dụng API để tuân thủ"
 " Điều khoản và có thể từ chối quyền truy cập của bạn hoặc tắt tiện ích tích "
 "hợp của bạn nếu bạn cố gắng vượt qua hoặc vượt quá các yêu cầu và giới hạn "
-"do {platform_name} đặt ra. Ứng dụng của bạn hoặc hoạt động sử dụng API hoặc "
+"do {platform_name} đặt ra. Ứng dụng của bạn hoặc hành động sử dụng API hoặc "
 "Nội dung API được phê duyệt khác không được nhắc người dùng cuối của bạn "
 "cung cấp tên người dùng, mật khẩu {platform_name} hoặc thông tin xác thực "
 "người dùng {platform_name} khác ở bất kỳ nơi nào khác ngoài trên trang web "
@@ -20708,7 +20708,7 @@ msgstr ""
 
 #: lms/templates/api_admin/terms_of_service.html:25
 msgid "Prohibited Uses and Activities"
-msgstr "Sử dụng và hoạt động bị cấm"
+msgstr "Sử dụng và hành động bị cấm"
 
 #: lms/templates/api_admin/terms_of_service.html:27
 #, python-brace-format
@@ -20731,7 +20731,7 @@ msgid ""
 "The following activities are not acceptable when using the APIs (this is not"
 " an exhaustive list):"
 msgstr ""
-"Các hoạt động sau đây không được chấp nhận khi sử dụng API (đây không phải "
+"Các hành động sau đây không được chấp nhận khi sử dụng API (đây không phải "
 "là danh sách đầy đủ):"
 
 #: lms/templates/api_admin/terms_of_service.html:32
@@ -20838,7 +20838,7 @@ msgstr ""
 "Bạn đồng ý tuân thủ tất cả các luật, quy định hiện hành và quyền của bên thứ"
 " ba (bao gồm nhưng không giới hạn luật liên quan đến việc nhập hoặc xuất dữ "
 "liệu hoặc phần mềm, quyền riêng tư, bản quyền và luật địa phương). Bạn sẽ "
-"không sử dụng API để khuyến khích hoặc thúc đẩy hoạt động bất hợp pháp hoặc "
+"không sử dụng API để khuyến khích hoặc thúc đẩy hành động bất hợp pháp hoặc "
 "vi phạm quyền của bên thứ ba. Bạn sẽ không vi phạm bất kỳ điều khoản dịch vụ"
 " nào khác với {platform_name} . Bạn sẽ chỉ truy cập (hoặc cố gắng truy cập) "
 "API bằng các phương tiện được mô tả trong tài liệu về API đó. Bạn sẽ không "
@@ -20847,7 +20847,7 @@ msgstr ""
 
 #: lms/templates/api_admin/terms_of_service.html:50
 msgid "Ownership"
-msgstr "Quyền sở hữu"
+msgstr "Quyền hạn sở hữu"
 
 #: lms/templates/api_admin/terms_of_service.html:52
 #, python-brace-format
@@ -20952,7 +20952,7 @@ msgid ""
 "advertising) with {platform_name} and other third parties."
 msgstr ""
 "Bạn đồng ý tuân thủ tất cả các luật và quy định hiện hành về quyền riêng tư "
-"cũng như minh bạch đối với mọi hoạt động thu thập và sử dụng dữ liệu của "
+"cũng như minh bạch đối với mọi hành động thu thập và sử dụng dữ liệu của "
 "người dùng cuối. Bạn sẽ cung cấp và tuân thủ chính sách quyền riêng tư cho "
 "Ứng dụng của mình. Chính sách này mô tả rõ ràng và chính xác cho người dùng "
 "cuối về thông tin người dùng mà bạn thu thập cũng như cách bạn có thể sử "
@@ -20961,7 +20961,7 @@ msgstr ""
 
 #: lms/templates/api_admin/terms_of_service.html:62
 msgid "Right to Charge"
-msgstr "Quyền tính phí"
+msgstr "Quyền hạn tính phí"
 
 #: lms/templates/api_admin/terms_of_service.html:64
 #, python-brace-format
@@ -21991,7 +21991,7 @@ msgid ""
 "Get {start_bold}access to all course activities{end_bold}, including both "
 "graded and non-graded assignments, while the course is running"
 msgstr ""
-"Nhận {start_bold} quyền truy cập vào tất cả các hoạt động của khóa học "
+"Nhận {start_bold} quyền truy cập vào tất cả các hành động của khóa học "
 "{end_bold} , bao gồm cả bài tập được chấm điểm và không được chấm điểm, "
 "trong khi khóa học đang diễn ra"
 
@@ -22029,7 +22029,7 @@ msgid ""
 "Get temporary access to  {start_bold}non-graded{end_bold} activities, "
 "including discussion forums and non-graded assignments"
 msgstr ""
-"Nhận quyền truy cập tạm thời vào các hoạt động {start_bold} {end_bold} không"
+"Nhận quyền truy cập tạm thời vào các hành động {start_bold} {end_bold} không"
 " được xếp loại, bao gồm các diễn đàn thảo luận và bài tập không được xếp "
 "loại"
 
@@ -22044,11 +22044,11 @@ msgstr ""
 
 #: lms/templates/course_modes/fbe.html:62
 msgid "Access expires and all progress will be lost on"
-msgstr "Quyền truy cập hết hạn và tất cả tiến trình sẽ bị mất trên"
+msgstr "Quyền hạn truy cập hết hạn và tất cả tiến trình sẽ bị mất trên"
 
 #: lms/templates/course_modes/fbe.html:64
 msgid "Access expires and all progress will be lost"
-msgstr "Quyền truy cập hết hạn và tất cả tiến trình sẽ bị mất"
+msgstr "Quyền hạn truy cập hết hạn và tất cả tiến trình sẽ bị mất"
 
 #: lms/templates/course_modes/track_selection.html:13
 #, python-brace-format
@@ -22394,7 +22394,7 @@ msgstr "{weeks_to_complete} tuần mỗi khóa"
 
 #: lms/templates/courseware/program_marketing.html:226
 msgid "Effort"
-msgstr "Cố gắng"
+msgstr "Khối lượng học tập"
 
 #: lms/templates/courseware/program_marketing.html:229
 #, python-brace-format
@@ -22542,7 +22542,7 @@ msgstr "{earned} trong {total} điểm có thể"
 msgid ""
 "Suspicious activity detected during proctored exam review. Exam score 0."
 msgstr ""
-"Hoạt động đáng ngờ được phát hiện trong quá trình xem xét bài kiểm tra được "
+"Hành động đáng ngờ được phát hiện trong quá trình xem xét bài kiểm tra được "
 "giám sát. Điểm thi 0."
 
 #: lms/templates/courseware/progress.html:217
@@ -22884,7 +22884,7 @@ msgstr "Các lựa chọn khóa học dành cho"
 #: lms/templates/dashboard/_dashboard_course_listing.html:272
 #: lms/templates/dashboard/_dashboard_entitlement_actions.html:29
 msgid "Available Actions"
-msgstr "Hoạt động có sẵn"
+msgstr "Hành động có sẵn"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html:292
 msgid ""
@@ -23243,12 +23243,12 @@ msgstr "Loại:"
 #. Translators: This is a menu option for sorting forum threads
 #: lms/templates/discussion/_thread_list_template.html:40
 msgid "by recent activity"
-msgstr "theo hoạt động gần đây"
+msgstr "theo hành động gần đây"
 
 #. Translators: This is a menu option for sorting forum threads
 #: lms/templates/discussion/_thread_list_template.html:42
 msgid "by most activity"
-msgstr "theo hầu hết hoạt động"
+msgstr "theo hầu hết hành động"
 
 #. Translators: This is a menu option for sorting forum threads
 #: lms/templates/discussion/_thread_list_template.html:44
@@ -23826,7 +23826,7 @@ msgstr "Liên kết bổ sung"
 #: lms/templates/header/navbar-not-authenticated.html:28
 #: lms/templates/navigation/navbar-not-authenticated.html:16
 msgid "How it Works"
-msgstr "Làm thế nào nó hoạt động"
+msgstr "Làm thế nào nó hành động"
 
 #: lms/templates/header/navbar-not-authenticated.html:36
 #: lms/templates/navigation/navbar-not-authenticated.html:24
@@ -23862,7 +23862,7 @@ msgstr "mã giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:39
 msgid "Discount Percentage"
-msgstr "Tỷ lệ chiết khấu"
+msgstr "Phần trăm giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:57
 msgid "Add expiration date"
@@ -24112,12 +24112,12 @@ msgstr "Khóa học đã bắt đầu chưa?"
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:113
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:120
 msgid "Yes"
-msgstr "Đúng"
+msgstr "Có"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:113
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:122
 msgid "No"
-msgstr "KHÔNG"
+msgstr "Không"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:118
 msgid "Has the course ended?"
@@ -24412,7 +24412,7 @@ msgstr "ví dụ: A123DS"
 
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:35
 msgid "Percentage Discount"
-msgstr "Phần trăm chiết khấu"
+msgstr "Phần trăm giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:53
 msgid "Expiration Date"
@@ -24876,7 +24876,7 @@ msgid ""
 "Beta Tester."
 msgstr ""
 "Người thử nghiệm Beta có thể xem nội dung khóa học trước những người học "
-"khác. Họ có thể đảm bảo rằng nội dung hoạt động nhưng không có đặc quyền bổ "
+"khác. Họ có thể đảm bảo rằng nội dung hành động nhưng không có đặc quyền bổ "
 "sung. Bất kỳ người dùng nào chưa đăng ký khóa học sẽ được tự động đăng ký "
 "khi được thêm làm Người thử nghiệm Beta."
 
@@ -25077,7 +25077,7 @@ msgstr ""
 "Chúng tôi khuyên bạn nên gửi cho người học không quá một tin nhắn email mỗi "
 "tuần. Trước khi gửi email, hãy xem lại văn bản một cách cẩn thận và gửi cho "
 "chính bạn trước để bạn có thể xem trước định dạng cũng như đảm bảo các hình "
-"ảnh và liên kết được nhúng hoạt động chính xác."
+"ảnh và liên kết được nhúng hành động chính xác."
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:97
 #, python-brace-format
@@ -25155,7 +25155,7 @@ msgstr "Giá khóa học"
 
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:38
 msgid "Currency"
-msgstr "Tiền tệ"
+msgstr "Đơn vị tiền tệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:46
 msgid "Set Price"
@@ -25609,7 +25609,7 @@ msgid ""
 "{end_p_tag}\n"
 msgstr ""
 "\n"
-"{p_tag} Hiện tại bạn không có bất kỳ hoạt động chấm điểm ngang hàng nào để thực hiện. Để được bạn bè chấm điểm phải làm:\n"
+"{p_tag} Hiện tại bạn không có bất kỳ hành động chấm điểm ngang hàng nào để thực hiện. Để được bạn bè chấm điểm phải làm:\n"
 " {ul_tag}\n"
 " {li_tag} Bạn cần phải gửi phản hồi cho vấn đề chấm điểm ngang hàng. {end_li_tag}\n"
 " {li_tag} Nhóm khóa học cần chấm điểm các bài luận dùng để giúp bạn hiểu rõ hơn về cách chấm điểm\n"
@@ -25896,7 +25896,7 @@ msgstr "Trên báo chí"
 #: lms/templates/static_templates/server-down.html:16
 #, python-brace-format
 msgid "Currently the {platform_name} servers are down"
-msgstr "Hiện tại máy chủ {platform_name} đang ngừng hoạt động"
+msgstr "Hiện tại máy chủ {platform_name} đang ngừng hành động"
 
 #: lms/templates/static_templates/server-down.html:27
 #: lms/templates/static_templates/server-overloaded.html:27
@@ -26115,7 +26115,7 @@ msgstr ""
 "Vui lòng đảm bảo trình duyệt của bạn được cập nhật lên {strong_start} "
 "{a_start} phiên bản mới nhất có thể {a_end} {strong_end} . Ngoài ra, vui "
 "lòng đảm bảo webcam {strong_start} của bạn đã được cắm, bật và được phép "
-"hoạt động trong trình duyệt web của bạn (thường có thể điều chỉnh trong cài "
+"hành động trong trình duyệt web của bạn (thường có thể điều chỉnh trong cài "
 "đặt trình duyệt của bạn). {strong_end}"
 
 #: lms/templates/verify_student/reverify.html:10

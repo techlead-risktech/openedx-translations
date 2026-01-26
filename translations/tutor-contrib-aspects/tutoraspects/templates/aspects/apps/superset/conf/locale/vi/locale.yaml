@@ -15,7 +15,7 @@ en:
     <dt>Trung bình % Đúng ở Lần Thử Đầu Tiên</dt>
     <dd> Tỷ lệ phần trăm trung bình các câu trả lời đúng trong lần đầu tiên học sinh làm bài toán.</dd>
     </dl>
-  Action: Hoạt động
+  Action: Hành động
   Action Count: Số lượng thao tác
   Action Date: Ngày thao tác
   Active: Đang hoạt động
@@ -23,7 +23,7 @@ en:
   Active Learner: Người học đang hoạt động
   Active Learners: Người học Đang hoạt động
   Active Users Per Organization: Người dùng đang hoạt động trên mỗi tổ chức
-  Active Within Last 7 Days: Hoạt động trong vòng 7 ngày qua
+  Active Within Last 7 Days: Hành động trong vòng 7 ngày qua
   Actor ID: ID diễn viên
   Actor Id: Id diễn viên
   Actors Count: Số lượng diễn viên
@@ -130,7 +130,7 @@ en:
   Enrollment status: Trạng thái ghi danh
   Enrollment track: Hình thức ghi danh
   Enrollments: ghi danh
-  Event Activity: Hoạt động sự kiện
+  Event Activity: Hành động sự kiện
   Event ID: ID sự kiện
   Event String: Chuỗi sự kiện
   Event Time: Thời gian sự kiện
@@ -254,7 +254,7 @@ en:
   Success: Thành công
   Superset: siêu tập
   Superset Active Users: Superset người dùng đang hoạt động
-  Superset Active Users Over Time: Superset người dùng hoạt động theo thời gian
+  Superset Active Users Over Time: Superset người dùng hành động theo thời gian
   Superset Registered Users Over Time: Người dùng đã đăng ký Superset theo thời gian
   Tables: Những cái bàn
   Tag: Nhãn

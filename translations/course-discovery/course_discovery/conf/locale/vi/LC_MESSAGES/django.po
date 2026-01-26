@@ -207,7 +207,7 @@ msgstr "Thông tin cá nhân"
 
 #: apps/core/admin.py:18
 msgid "Permissions"
-msgstr "Quyền"
+msgstr "Quyền hạn"
 
 #: apps/core/admin.py:19
 msgid "Important dates"
@@ -409,7 +409,7 @@ msgstr "đủ điều kiện để mua bằng một cú nhấp chuột"
 
 #: apps/course_metadata/admin.py:70
 msgid "Yes"
-msgstr "Đúng"
+msgstr "Có"
 
 #: apps/course_metadata/admin.py:71
 msgid "No"

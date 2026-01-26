@@ -227,11 +227,11 @@ msgstr ""
 
 #: templates/recommenderstudio.html:12 templates/recommenderstudio.html:18
 msgid "Yes"
-msgstr "Đúng"
+msgstr "Có"
 
 #: templates/recommenderstudio.html:13 templates/recommenderstudio.html:19
 msgid "No"
-msgstr "KHÔNG"
+msgstr "Không"
 
 #: templates/recommenderstudio.html:14
 msgid ""

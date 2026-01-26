@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: enterprise/models.py:2342
 msgid "The course entitlement the associated subsidy is for."
-msgstr "Quyền lợi của khóa học được trợ cấp liên quan dành cho."
+msgstr "Quyền hạn lợi của khóa học được trợ cấp liên quan dành cho."
 
 #: enterprise/models.py:2353
 msgid "The course enrollment the associated subsidy is for."
@@ -2350,7 +2350,7 @@ msgstr ""
 
 #: enterprise/utils.py:151
 msgid "Error: Learners could not be added. Correct the following errors."
-msgstr "Lỗi: Không thể thêm người học. Sửa các lỗi sau."
+msgstr "Lỗi: Không thể thêm người học. Chỉnh sửa các lỗi sau."
 
 #: enterprise/utils.py:153
 #, python-brace-format
@@ -2799,7 +2799,7 @@ msgstr "Mức độ"
 
 #: enterprise/views.py:1610 enterprise/views.py:2110
 msgid "Effort"
-msgstr "Cố gắng"
+msgstr "Khối lượng học tập"
 
 #: enterprise/views.py:1611
 msgid "Duration"

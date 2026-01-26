@@ -124,7 +124,7 @@ msgstr "Kéo và thả"
 
 #: drag_and_drop_v2.py:91
 msgid "Mode"
-msgstr "Cách thức"
+msgstr "Chế độ"
 
 #: drag_and_drop_v2.py:93
 msgid ""

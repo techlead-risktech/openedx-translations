@@ -861,7 +861,7 @@ msgstr ""
 
 #: cms/static/js/views/export.js:320
 msgid "Correct failed component"
-msgstr "Sửa thành phần bị lỗi"
+msgstr "Chỉnh sửa thành phần bị lỗi"
 
 #: cms/static/js/views/export.js:327
 msgid "Return to Export"
@@ -1053,7 +1053,7 @@ msgstr "Đã xảy ra lỗi khi thay đổi vai trò của người dùng"
 #: cms/static/js/views/manage_users_and_roles.js:13
 #: lms/static/js/instructor_dashboard/util.js:166
 msgid "Unknown"
-msgstr "không xác định"
+msgstr "Không xác định"
 
 #: cms/static/js/views/manage_users_and_roles.js:16
 msgid "Error adding user"
@@ -1316,7 +1316,7 @@ msgstr "Ngày thêm"
 #. edited.
 #: cms/static/js/views/pages/container.js:719
 msgid "Editing access for: {title}"
-msgstr "Quyền chỉnh sửa cho: {title}"
+msgstr "Quyền hạn chỉnh sửa cho: {title}"
 
 #: cms/static/js/views/pages/container_subviews.js:169
 msgid "Publishing"
@@ -5676,7 +5676,7 @@ msgstr "Chỉnh sửa HTML"
 #: cms/templates/js/xblock-string-field-editor.underscore:3
 #: common/static/common/templates/discussion/templates.underscore:834
 msgid "Edit"
-msgstr "Sửa"
+msgstr "Chỉnh sửa"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -7106,7 +7106,7 @@ msgstr "thành phần"
 #, python-brace-format
 msgid "Access to this {blockType} is restricted to: {selectedGroupsLabel}"
 msgstr ""
-"Quyền truy cập vào {blockType} này bị giới hạn ở: {selectedGroupsLabel}"
+"Quyền hạn truy cập vào {blockType} này bị giới hạn ở: {selectedGroupsLabel}"
 
 #: cms/templates/js/container-access.underscore:26
 #, python-brace-format
@@ -7114,7 +7114,7 @@ msgid ""
 "Access to some content in this {blockType} is restricted to specific groups "
 "of learners."
 msgstr ""
-"Quyền truy cập vào một số nội dung trong {blockType} này được giới hạn ở các"
+"Quyền hạn truy cập vào một số nội dung trong {blockType} này được giới hạn ở các"
 " nhóm người học cụ thể."
 
 #: cms/templates/js/container-message.underscore:5
@@ -7348,14 +7348,14 @@ msgstr ""
 #: cms/templates/js/course-outline.underscore:83
 #, python-brace-format
 msgid "Access to this unit is restricted to: {selectedGroupsLabel}"
-msgstr "Quyền truy cập vào thiết bị này bị giới hạn ở: {selectedGroupsLabel}"
+msgstr "Quyền hạn truy cập vào thiết bị này bị giới hạn ở: {selectedGroupsLabel}"
 
 #: cms/templates/js/course-outline.underscore:92
 msgid ""
 "Access to some content in this unit is restricted to specific groups of "
 "learners"
 msgstr ""
-"Quyền truy cập vào một số nội dung trong học phần này được giới hạn ở các "
+"Quyền hạn truy cập vào một số nội dung trong học phần này được giới hạn ở các "
 "nhóm người học cụ thể"
 
 #: cms/templates/js/course-outline.underscore:97
@@ -9460,7 +9460,7 @@ msgstr "Lý do"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:29
 msgid "Last modified by"
-msgstr "Sửa đổi lần cuối bởi"
+msgstr "Chỉnh sửa đổi lần cuối bởi"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:30
 msgid "Active"

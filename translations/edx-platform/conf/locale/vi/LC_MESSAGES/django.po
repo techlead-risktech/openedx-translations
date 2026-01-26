@@ -256,7 +256,7 @@ msgstr "Thẳng đứng"
 #: cms/templates/course_outline.html:212 lms/templates/ccx/schedule.html:86
 #: lms/templates/seq_block.html:136
 msgid "Section"
-msgstr "Phần mới"
+msgstr "Phần"
 
 #: cms/djangoapps/contentstore/helpers.py:209
 #: lms/templates/ccx/schedule.html:90
@@ -1430,11 +1430,11 @@ msgstr ""
 
 #: common/djangoapps/student/models/user.py:461
 msgid "Male"
-msgstr "Nam giới"
+msgstr "Nam"
 
 #: common/djangoapps/student/models/user.py:462
 msgid "Female"
-msgstr "Nữ giới"
+msgstr "Nữ"
 
 #. Translators: 'Other' refers to the student's gender
 #: common/djangoapps/student/models/user.py:464
@@ -1447,7 +1447,7 @@ msgstr "tiến sĩ"
 
 #: common/djangoapps/student/models/user.py:476
 msgid "Master's or professional degree"
-msgstr "Bằng thạc sĩ hoặc chuyên nghiệp"
+msgstr "Bằng thạc sĩ hoặc bằng chuyên môn"
 
 #: common/djangoapps/student/models/user.py:477
 msgid "Bachelor's degree"
@@ -1459,7 +1459,7 @@ msgstr "bằng cao đẳng"
 
 #: common/djangoapps/student/models/user.py:479
 msgid "Secondary/high school"
-msgstr "Trường trung học cơ sở"
+msgstr "Trung học phổ thông"
 
 #: common/djangoapps/student/models/user.py:480
 msgid "Junior secondary/junior high/middle school"
@@ -1467,17 +1467,17 @@ msgstr "Trung học cơ sở/trung học cơ sở/trung học cơ sở"
 
 #: common/djangoapps/student/models/user.py:481
 msgid "Elementary/primary school"
-msgstr "Trường tiểu học/tiểu học"
+msgstr "Tiểu học"
 
 #. Translators: 'None' refers to the student's level of education
 #: common/djangoapps/student/models/user.py:483
 msgid "No formal education"
-msgstr "Không có giáo dục chính quy"
+msgstr "Chưa qua đào tạo chính quy"
 
 #. Translators: 'Other' refers to the student's level of education
 #: common/djangoapps/student/models/user.py:485
 msgid "Other education"
-msgstr "Giáo dục khác"
+msgstr "Khác"
 
 #: common/djangoapps/student/models/user.py:1331
 #, python-brace-format
@@ -2969,7 +2969,7 @@ msgstr "Được hỗ trợ bởi Open edX"
 #: lms/templates/static_templates/blog.html:5
 #: lms/templates/static_templates/blog.html:10
 msgid "Blog"
-msgstr "Blog"
+msgstr "Bài viết"
 
 #: lms/djangoapps/branding/api.py:255 cms/templates/widgets/sock_links.html:35
 #: themes/stanford-style/lms/templates/static_templates/about.html:96
@@ -3643,12 +3643,12 @@ msgstr "Luyện thi"
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:193
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:90
 msgid "Proctored Exam"
-msgstr "kì thi được giám sát"
+msgstr "Bài thi có giám sát"
 
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:195
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:92
 msgid "Timed Exam"
-msgstr "Kỳ thi có tính giờ"
+msgstr "Bài kiểm tra giới hạn thời gian"
 
 #: lms/djangoapps/course_api/blocks/transformers/milestones.py:198
 #: openedx/core/djangoapps/content/learning_sequences/api/processors/special_exams.py:95
@@ -4911,7 +4911,7 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:1711
 #: lms/djangoapps/instructor_task/api_helper.py:113
 msgid "survey"
-msgstr "sự khảo sát"
+msgstr "Khảo sát"
 
 #: lms/djangoapps/instructor/views/api.py:1736
 #: lms/djangoapps/instructor_task/api_helper.py:114
@@ -5321,7 +5321,7 @@ msgstr "Dữ liệu ghi danh hiện có sẵn trong {dashboard_link} ."
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:498
 msgid "Membership"
-msgstr "Tư cách thành viên"
+msgstr "Thành viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:532
 msgid "Cohorts"
@@ -5424,7 +5424,7 @@ msgstr "Ngày đến hạn được gia hạn phải muộn hơn ngày đến h�
 #: themes/stanford-style/lms/templates/register-form.html:142
 #: themes/stanford-style/lms/templates/register-shib.html:144
 msgid "Full Name"
-msgstr "Họ và tên"
+msgstr "Họ tên"
 
 #: lms/djangoapps/instructor/views/tools.py:221
 #: lms/djangoapps/instructor/views/tools.py:241
@@ -6998,7 +6998,7 @@ msgstr "Cảm ơn bạn đã gửi ảnh của bạn!"
 
 #: lms/templates/wiki/article.html:30
 msgid "Last modified:"
-msgstr "Sửa đổi lần cuối:"
+msgstr "Chỉnh sửa lần cuối:"
 
 #: lms/templates/wiki/article.html:36
 msgid "See all children"
@@ -7006,7 +7006,7 @@ msgstr "Xem tất cả trẻ em"
 
 #: lms/templates/wiki/article.html:47 wiki/templates/wiki/article.html:39
 msgid "This article was last modified:"
-msgstr "Bài viết này được sửa đổi lần cuối:"
+msgstr "Bài viết này được chỉnh sửa lần cuối:"
 
 #: lms/templates/wiki/create.html:4 lms/templates/wiki/create.html:29
 #: wiki/templates/wiki/create.html:4 wiki/templates/wiki/create.html:44
@@ -7829,7 +7829,7 @@ msgstr ""
 #: cms/templates/course-create-rerun.html:104 cms/templates/index.html:114
 #: cms/templates/settings.html:84
 msgid "Course Run"
-msgstr "Chạy khóa học"
+msgstr "Đợt chạy khóa học"
 
 #: openedx/core/djangoapps/config_model_utils/models.py:104
 msgid ""
@@ -8501,7 +8501,7 @@ msgstr "Người điều hành nhóm"
 #: openedx/core/djangoapps/django_comment_common/models.py:28
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:284
 msgid "Community TA"
-msgstr "TA cộng đồng"
+msgstr "Trợ giảng cộng đồng"
 
 #: openedx/core/djangoapps/django_comment_common/models.py:29
 msgid "Student"
@@ -9938,7 +9938,7 @@ msgstr "Access_token được cung cấp không hợp lệ."
 
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:107
 msgid "Full Name cannot contain the following characters: < >"
-msgstr "Tên đầy đủ không thể chứa các ký tự sau: < >"
+msgstr "Họ tên không thể chứa các ký tự sau: < >"
 
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:147
 msgid "A properly formatted e-mail is required"
@@ -11149,7 +11149,7 @@ msgstr "Quá hạn"
 
 #: xmodule/capa_block.py:229 xmodule/modulestore/inheritance.py:89
 msgid "Show Answer"
-msgstr "Hiển thị câu trả lời"
+msgstr "Hiển thị đáp án"
 
 #: xmodule/capa_block.py:230
 msgid ""
@@ -14196,7 +14196,7 @@ msgstr "(không có)"
 
 #: wiki/forms.py:278
 msgid "Inherit permissions"
-msgstr "Quyền kế thừa"
+msgstr "Quyền thừa hưởng"
 
 #: wiki/forms.py:278
 msgid ""
@@ -14273,16 +14273,16 @@ msgid ""
 "group membership. Groups are handled through the Django auth system."
 msgstr ""
 "Giống như trong hệ thống tệp UNIX, quyền có thể được cấp cho người dùng tùy "
-"theo tư cách thành viên nhóm. Các nhóm được xử lý thông qua hệ thống xác "
+"theo thành viên nhóm. Các nhóm được xử lý thông qua hệ thống xác "
 "thực Django."
 
 #: wiki/models/article.py:40
 msgid "group read access"
-msgstr "quyền truy cập đọc nhóm"
+msgstr "Quyền đọc theo nhóm"
 
 #: wiki/models/article.py:41
 msgid "group write access"
-msgstr "quyền truy cập ghi nhóm"
+msgstr "Quyền ghi theo nhóm"
 
 #: wiki/models/article.py:42
 msgid "others read access"
@@ -15049,7 +15049,7 @@ msgstr "Có %(articles_plur_verb)s %(cnt)s %(articles_plur)s ở cấp độ nà
 
 #: wiki/templates/wiki/dir.html:56
 msgid "Last modified"
-msgstr "Sửa đổi lần cuối"
+msgstr "Chỉnh sửa lần cuối"
 
 #: wiki/templates/wiki/history.html:74
 msgid "no log message"
@@ -15568,7 +15568,7 @@ msgstr "Xem trước chương trình học trong LMS"
 
 #: cms/templates/container.html:208
 msgid "Collapse All"
-msgstr "Thu gọn tất cả"
+msgstr "Thu gọn"
 
 #: cms/templates/container.html:238
 msgid "Adding components"
@@ -15960,7 +15960,7 @@ msgstr "Thu gọn tất cả các phần"
 
 #: cms/templates/course_outline.html:226
 msgid "Expand All Sections"
-msgstr "Mở rộng tất cả các phần"
+msgstr "Mở rộng các phần"
 
 #: cms/templates/course_outline.html:231
 msgid "Click to open the courseware in the LMS in a new tab"
@@ -16380,11 +16380,11 @@ msgstr "Cấu trúc khóa học"
 
 #: cms/templates/export.html:200
 msgid "Individual Problems"
-msgstr "Vấn đề cá nhân"
+msgstr "Bài tập/câu hỏi riêng lẻ"
 
 #: cms/templates/export.html:202
 msgid "Course Assets"
-msgstr "Tài sản khóa học"
+msgstr "Tài nguyên khóa học"
 
 #: cms/templates/export.html:203
 msgid "Course Settings"
@@ -17680,7 +17680,7 @@ msgstr[0] ""
 
 #: cms/templates/library.html:49
 msgid "Content Library"
-msgstr "Thư viện nội dung"
+msgstr "Nội dung thư viện"
 
 #: cms/templates/library.html:61
 msgid "Add Component"
@@ -19313,7 +19313,7 @@ msgstr "Email: {email}"
 #: common/templates/emails/contact_us_feedback_email_body.txt:5
 #, python-brace-format
 msgid "Full Name: {realname}"
-msgstr "Tên đầy đủ: {realname}"
+msgstr "Họ tên: {realname}"
 
 #: common/templates/emails/contact_us_feedback_email_body.txt:6
 #, python-brace-format
@@ -19552,7 +19552,7 @@ msgstr "Nhận email khóa học"
 
 #: lms/templates/dashboard.html:365
 msgid "Save Settings"
-msgstr "Lưu các thiết lập"
+msgstr "Lưu cài đặt"
 
 #: lms/templates/ccx/enrollment.html:58 lms/templates/dashboard.html:397
 #: lms/templates/dashboard/_dashboard_course_listing.html:286
@@ -19602,7 +19602,7 @@ msgstr "Bạn nên Đăng ký trước khi thử truy cập Mục"
 #: lms/templates/enroll_staff.html:34
 msgctxt "self"
 msgid "Enroll"
-msgstr "Tham gia"
+msgstr "Ghi danh"
 
 #: lms/templates/enroll_staff.html:37
 msgid "Don't enroll"
@@ -19877,7 +19877,7 @@ msgstr "Xem khóa học"
 
 #: lms/templates/preview_menu.html:59
 msgid "View this course as:"
-msgstr "Xem khóa học này dưới dạng:"
+msgstr "Xem khóa học với vai trò:"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:170
 #: lms/templates/preview_menu.html:61
@@ -19899,7 +19899,7 @@ msgstr "Người học trong {content_group}"
 
 #: lms/templates/preview_menu.html:75
 msgid "Username or email:"
-msgstr "Tên tài khoản hoặc email:"
+msgstr "Tên người dùng hoặc email:"
 
 #: lms/templates/preview_menu.html:78
 msgid "Set preview mode"
@@ -20062,7 +20062,7 @@ msgstr "Quan trọng!"
 #: lms/templates/seq_block.html:32 lms/templates/seq_block.html:140
 msgctxt "unit"
 msgid "Previous"
-msgstr "Trước"
+msgstr "Quay lại"
 
 #. Translators: A button for showing the Next Unit
 #: lms/templates/seq_block.html:36 lms/templates/seq_block.html:144
@@ -20111,7 +20111,7 @@ msgstr "Nhập tên người dùng công khai:"
 
 #: lms/templates/signup_modal.html:69
 msgid "Full Name *"
-msgstr "Họ và tên *"
+msgstr "Họ tên *"
 
 #: lms/templates/signup_modal.html:80
 msgid "Ed. Completed"
@@ -20168,7 +20168,7 @@ msgstr "Nhóm không hoạt động"
 
 #: lms/templates/staff_problem_info.html:27
 msgid "Staff Debug Info"
-msgstr "Thông tin gỡ lỗi nhân viên"
+msgstr "Thông tin gỡ lỗi dành cho nhân viên"
 
 #: lms/templates/staff_problem_info.html:31
 msgid "Submission history"
@@ -21612,7 +21612,7 @@ msgstr "Chính sách chấm điểm"
 #: lms/templates/ccx/coach_dashboard.html:72
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:9
 msgid "Batch Enrollment"
-msgstr "Ghi danh theo đợt"
+msgstr "Ghi danh hàng loạt"
 
 #: lms/templates/ccx/coach_dashboard.html:78
 #: lms/templates/ccx/student_admin.html:5
@@ -21684,7 +21684,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:80
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:123
 msgid "Notify users by email"
-msgstr "Thông báo cho người dùng qua email"
+msgstr "Thông báo người dùng qua email"
 
 #: lms/templates/ccx/enrollment.html:48
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:47
@@ -21702,7 +21702,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:53
 msgctxt "someone"
 msgid "Enroll"
-msgstr "Tham gia"
+msgstr "Ghi danh"
 
 #: lms/templates/ccx/enrollment.html:71
 msgid "Student List Management"
@@ -21714,7 +21714,7 @@ msgstr "Tin nhắn phản hồi quản lý danh sách sinh viên CCX"
 
 #: lms/templates/ccx/enrollment.html:85 lms/templates/ccx/enrollment.html:93
 msgid "Revoke access"
-msgstr "Thu hồi truy cập"
+msgstr "Thu hồi quyền truy cập"
 
 #: lms/templates/ccx/grading_policy.html:10
 msgid "WARNING"
@@ -21827,7 +21827,7 @@ msgstr "Tất cả các mục đã được thêm vào."
 
 #: lms/templates/ccx/student_admin.html:6
 msgid "View gradebook"
-msgstr "Xem sổ điểm"
+msgstr "Xem Sổ điểm"
 
 #: lms/templates/ccx/student_admin.html:7
 msgid "Download student grades"
@@ -22137,7 +22137,7 @@ msgstr "Xem trang Giới thiệu trong Studio"
 
 #: lms/templates/courseware/course_about.html:173
 msgid "Classes Start"
-msgstr "Các lớp học bắt đầu"
+msgstr "Ngày bắt đầu"
 
 #: lms/templates/courseware/course_about.html:193
 msgid "Classes End"
@@ -23261,7 +23261,7 @@ msgstr "Ghi chú của sinh viên"
 
 #: lms/templates/edxnotes/edxnotes.html:28
 msgid "Highlights and notes you've made in course content"
-msgstr "Điểm nổi bật và ghi chú bạn đã thực hiện trong nội dung khóa học"
+msgstr "Các điểm nổi bật và ghi chú bạn đã tạo trong nội dung khóa học"
 
 #: lms/templates/edxnotes/edxnotes.html:35
 msgid "Search notes for:"
@@ -23273,7 +23273,7 @@ msgstr "Tìm kiếm ghi chú cho..."
 
 #: lms/templates/edxnotes/edxnotes.html:56
 msgid "View notes by:"
-msgstr "Xem ghi chú của:"
+msgstr "Xem ghi chú theo:"
 
 #: lms/templates/edxnotes/edxnotes.html:71
 msgid ""
@@ -23918,7 +23918,7 @@ msgstr "Vô hiệu hóa chứng chỉ do sinh viên tạo"
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:71
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:77
 msgid "Enable Student-Generated Certificates"
-msgstr "Kích hoạt chứng chỉ do sinh viên tạo"
+msgstr "Bật chứng chỉ do học viên tự tạo"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:75
 msgid ""
@@ -23958,7 +23958,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:117
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:236
 msgid "Pending Tasks"
-msgstr "Các nhiệm vụ đang chờ giải quyết"
+msgstr "Tác vụ đang chờ xử lý"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:106
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:144
@@ -24195,7 +24195,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:34
 msgid "Download profile information as a CSV"
-msgstr "Tải thông tin hồ sơ xuống dưới dạng CSV"
+msgstr "Tải hồ sơ người học dạng CSV"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:36
 msgid ""
@@ -24207,7 +24207,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:38
 msgid "Download a CSV of learners who can enroll"
-msgstr "Tải xuống CSV của những người học có thể đăng ký"
+msgstr "Tải CSV danh sách học viên có thể ghi danh"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:40
 msgid "Click to download a CSV of anonymized student IDs:"
@@ -24215,7 +24215,7 @@ msgstr "Nhấp để tải xuống bản CSV chứa mã sinh viên ẩn danh:"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:41
 msgid "Get Student Anonymized IDs CSV"
-msgstr "Nhận CSV ID ẩn danh của sinh viên"
+msgstr "Tải CSV mã định danh học viên ẩn danh"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:44
 msgid ""
@@ -24272,11 +24272,11 @@ msgstr "Bấm vào đây để liệt kê các chứng chỉ được cấp cho 
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:82
 msgid "View Certificates Issued"
-msgstr "Xem chứng chỉ đã cấp"
+msgstr "Xem danh sách chứng chỉ đã cấp"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:83
 msgid "Download CSV of Certificates Issued"
-msgstr "Tải xuống CSV của Chứng chỉ đã được cấp"
+msgstr "Tải CSV danh sách chứng chỉ đã cấp"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:90
 msgid ""
@@ -24288,7 +24288,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:91
 msgid "List enrolled students' profile information"
-msgstr "Liệt kê thông tin hồ sơ sinh viên đã ghi danh"
+msgstr "Xem thông tin hồ sơ học viên đã ghi danh trên trang"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:96
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/grading.html:25
@@ -24302,7 +24302,7 @@ msgstr "Tạo báo cáo điểm"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:99
 msgid "Generate Problem Grade Report"
-msgstr "Tạo Báo cáo Điểm Vấn đề"
+msgstr "Tạo báo cáo điểm bài tập"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:100
 msgid "Generate ORA Data Report"
@@ -24310,7 +24310,7 @@ msgstr "Tạo báo cáo dữ liệu ORA"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:101
 msgid "Generate ORA Summary Report"
-msgstr "Tạo báo cáo tóm tắt ORA"
+msgstr "Tạo báo cáo tổng hợp ORA"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:104
 msgid ""
@@ -24424,7 +24424,7 @@ msgstr "Cập nhật mã giảm giá"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:7
 msgid "Individual due date extensions"
-msgstr "Gia hạn ngày đáo hạn cá nhân"
+msgstr "Gia hạn hạn nộp cho từng học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:9
 msgid ""
@@ -24458,7 +24458,7 @@ msgstr "Email hoặc tên người dùng của sinh viên"
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:55
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:98
 msgid "Choose the graded subsection:"
-msgstr "Chọn tiểu mục được xếp loại:"
+msgstr "Chọn tiểu mục được chấm điểm:"
 
 #. Translators: "format_string" is the string MM/DD/YYYY HH:MM, as that is the
 #. format the system requires.
@@ -24501,19 +24501,19 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:63
 msgid "List all students with due date extensions"
-msgstr "Liệt kê tất cả học sinh được gia hạn ngày đến hạn"
+msgstr "Liệt kê tất cả học viên có gia hạn hạn nộp"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
 msgid "Specify a student to see all of that student's extensions."
-msgstr "Chỉ định một học sinh để xem tất cả các phần mở rộng của học sinh đó."
+msgstr "Nhập email hoặc tên đăng nhập Starlent của học viên tại đây:"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:74
 msgid "List date extensions for student"
-msgstr "Liệt kê các phần mở rộng ngày cho sinh viên"
+msgstr "Liệt kê gia hạn theo ngày cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:86
 msgid "Resetting extensions"
-msgstr "Đặt lại tiện ích mở rộng"
+msgstr "Hủy gia hạn – trả hạn về mặc định"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:88
 msgid ""
@@ -24527,11 +24527,11 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
 msgid "Reason for reset"
-msgstr "Lý do thiết lập lại"
+msgstr "Lý do đặt lại"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:111
 msgid "Reset due date for student"
-msgstr "Đặt lại ngày đến hạn cho sinh viên"
+msgstr "Đặt lại hạn nộp bài cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:7
 msgid "Generate Registration Code Modal"
@@ -24794,7 +24794,7 @@ msgid ""
 "Admin must give you the Admin role to add Staff or Beta Testers, or the "
 "Discussion Admin role to add discussion moderators and TAs."
 msgstr ""
-"Nhân viên không thể sửa đổi các danh sách này. Để quản lý tư cách thành viên"
+"Nhân viên không thể sửa đổi các danh sách này. Để quản lý thành viên"
 " nhóm khóa học, Quản trị viên khóa học phải cấp cho bạn vai trò Quản trị "
 "viên để thêm Nhân viên hoặc Người thử nghiệm Beta hoặc vai trò Quản trị viên"
 " thảo luận để thêm người điều hành cuộc thảo luận và hỗ trợ kỹ thuật."
@@ -24820,7 +24820,7 @@ msgstr "Thêm nhân viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:184
 msgid "Limited Staff"
-msgstr "Nhân viên hạn chế"
+msgstr "Nhân sự giới hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:186
 msgid ""
@@ -24839,7 +24839,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:193
 msgid "Add Limited Staff"
-msgstr "Thêm nhân viên hạn chế"
+msgstr "Thêm nhân sự giới hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:199
 msgid "Admin"
@@ -24857,7 +24857,7 @@ msgstr ""
 " lý khóa học của mình. Họ có thể thực hiện tất cả các nhiệm vụ mà Nhân viên "
 "có thể làm, đồng thời cũng có thể thêm và xóa vai trò Nhân viên và Quản trị "
 "viên, vai trò kiểm duyệt cuộc thảo luận và vai trò người thử nghiệm beta để "
-"quản lý tư cách thành viên nhóm khóa học. Bất kỳ người dùng nào chưa đăng ký"
+"quản lý thành viên nhóm khóa học. Bất kỳ người dùng nào chưa đăng ký"
 " khóa học sẽ được tự động đăng ký khi được thêm làm Quản trị viên."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:208
@@ -24928,7 +24928,7 @@ msgstr "Thêm nhà nghiên cứu dữ liệu khóa học"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:256
 msgid "Discussion Moderators"
-msgstr "Người điều hành cuộc thảo luận"
+msgstr "Điều phối viên thảo luận"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:258
 msgid ""
@@ -24942,7 +24942,7 @@ msgstr ""
 "Người điều hành thảo luận có thể chỉnh sửa hoặc xóa bất kỳ bài đăng nào, xóa"
 " cờ sử dụng sai, đóng và mở lại các chủ đề, xác nhận phản hồi và xem các bài"
 " đăng từ tất cả các nhóm. Bài đăng của họ được đánh dấu là &#39;nhân "
-"viên&#39;. Họ không thể quản lý tư cách thành viên nhóm khóa học bằng cách "
+"viên&#39;. Họ không thể quản lý thành viên nhóm khóa học bằng cách "
 "thêm hoặc xóa vai trò điều hành thảo luận. Bất kỳ người dùng nào chưa đăng "
 "ký khóa học sẽ được tự động đăng ký khi được thêm làm Người điều hành thảo "
 "luận"
@@ -24953,7 +24953,7 @@ msgstr "Thêm người điều hành"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:270
 msgid "Group Community TA"
-msgstr "Nhóm cộng đồng TA"
+msgstr "Trợ giảng cộng đồng theo nhóm"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:272
 msgid ""
@@ -24997,7 +24997,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:292
 msgid "Add Community TA"
-msgstr "Thêm TA cộng đồng"
+msgstr "Thêm trợ giảng cộng đồng"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:299
 msgid "CCX Coaches"
@@ -25183,12 +25183,12 @@ msgstr "Xem lại trang tổng quan"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:7
 msgid "View gradebook for enrolled learners"
-msgstr "Xem sổ điểm của học viên đã đăng ký"
+msgstr "Xem sổ điểm của những học viên đã ghi danh"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:10
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:14
 msgid "View Gradebook"
-msgstr "Xem sổ điểm"
+msgstr "Xem Sổ điểm"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:12
 msgid ""
@@ -25200,7 +25200,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:22
 msgid "View a specific learner's enrollment status"
-msgstr "Xem trạng thái ghi danh của một người học cụ thể"
+msgstr "Xem trạng thái ghi danh của một học viên cụ thể"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:25
 #, python-brace-format
@@ -25220,7 +25220,7 @@ msgstr "Xem trạng thái ghi danh"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:44
 msgid "View a specific learner's grades and progress"
-msgstr "Xem điểm và tiến độ của một người học cụ thể"
+msgstr "Xem điểm và tiến độ của một học viên cụ thể"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:47
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:66
@@ -25235,12 +25235,12 @@ msgstr "Xem trang tiến độ"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:63
 msgid "Adjust a learner's grade for a specific problem"
-msgstr "Điều chỉnh điểm của người học đối với một vấn đề cụ thể"
+msgstr "Điều chỉnh điểm của một học viên cho một bài cụ thể"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:74
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:202
 msgid "Location of problem in course"
-msgstr "Vị trí của vấn đề trong khóa học"
+msgstr "Vị trí lỗi bài tập trong khóa học"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:75
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:203
@@ -25250,7 +25250,7 @@ msgstr "Ví dụ"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:78
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:206
 msgid "Problem location"
-msgstr "Vị trí có vấn đề"
+msgstr "Vị trí bài tập"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:81
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:146
@@ -25297,7 +25297,7 @@ msgstr "Đối với vấn đề được chỉ định, ghi đè điểm của 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:105
 msgid ""
 "New score for problem, out of the total points available for the problem"
-msgstr "Điểm mới cho vấn đề, trên tổng số điểm có sẵn cho vấn đề"
+msgstr "Điểm mới cho bài, trên tổng số điểm tối đa của bài"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:108
 msgid "Score"
@@ -25399,7 +25399,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:198
 msgid "Adjust all enrolled learners' grades for a specific problem"
-msgstr "Điều chỉnh điểm của tất cả người học đã đăng ký cho một vấn đề cụ thể"
+msgstr "Điều chỉnh điểm của tất cả học viên đã ghi danh cho một bài cụ thể"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:210
 msgid "Allows all learners to work on the problem again."
@@ -26230,7 +26230,7 @@ msgstr "Ngày sắp tới"
 
 #: openedx/features/course_experience/templates/course_experience/course-dates-fragment.html:18
 msgid "View all course dates"
-msgstr "Xem tất cả các ngày khóa học"
+msgstr "Xem tất cả ngày khóa học"
 
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:49
 msgid "This course does not have any updates."

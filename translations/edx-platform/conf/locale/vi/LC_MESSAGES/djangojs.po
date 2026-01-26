@@ -1291,7 +1291,7 @@ msgstr "Các mục"
 
 #: cms/static/js/views/move_xblock_list.js:36
 msgid "Components"
-msgstr "Các thành phần"
+msgstr "Thành phần"
 
 #: cms/static/js/views/move_xblock_list.js:37
 #: cms/templates/js/group-configuration-editor.underscore:30
@@ -2315,11 +2315,11 @@ msgstr[0] "%d năm"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/Main/Main.jsx:39
 msgid "Select a section or problem"
-msgstr "Chọn một phần hoặc vấn đề"
+msgstr "Chọn một phần hoặc bài"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/Main/Main.jsx:82
 msgid "Create a report of problem responses"
-msgstr "Tạo báo cáo phản hồi vấn đề"
+msgstr "Tạo báo cáo phản hồi (câu trả lời) của bài"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/ReportStatus/ReportStatus.jsx:13
 msgid "Your report is being generated..."
@@ -2775,7 +2775,7 @@ msgstr "Đội của tôi"
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:158
 #: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore:11
 msgid "Browse"
-msgstr "Duyệt qua"
+msgstr "Duyệt"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:206
 msgid "Your request could not be completed. Reload the page and try again."
@@ -2822,7 +2822,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:335
 msgid "Membership"
-msgstr "Tư cách thành viên"
+msgstr "Thành viên"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:337
 msgid ""
@@ -3848,7 +3848,7 @@ msgstr "Email"
 #: lms/static/js/instructor_dashboard/membership.js:117
 #: lms/static/js/instructor_dashboard/membership.js:173
 msgid "Revoke access"
-msgstr "Thu hồi truy cập"
+msgstr "Thu hồi quyền truy cập"
 
 #: lms/static/js/instructor_dashboard/membership.js:117
 msgid "Group"
@@ -7376,7 +7376,7 @@ msgstr "kì thi được giám sát"
 
 #: cms/templates/js/course-outline.underscore:122
 msgid "Timed Exam"
-msgstr "Kỳ thi có tính giờ"
+msgstr "Bài kiểm tra giới hạn thời gian"
 
 #: cms/templates/js/course-outline.underscore:135
 #: cms/templates/js/xblock-outline.underscore:11
@@ -8040,7 +8040,7 @@ msgstr "Thêm sách giáo trình đầu tiên của bạn"
 #: common/static/common/templates/components/paging-footer.underscore:2
 #: common/static/common/templates/discussion/templates.underscore:586
 msgid "Previous"
-msgstr "Trước"
+msgstr "Quay lại"
 
 #: cms/templates/js/partition-group-details.underscore:47
 msgid "This group controls access to:"
@@ -9116,7 +9116,7 @@ msgstr "Tiếp theo"
 
 #: common/static/common/templates/discussion/templates.underscore:351
 msgid "Community TA"
-msgstr "TA cộng đồng"
+msgstr "Trợ giảng cộng đồng"
 
 #: common/static/common/templates/discussion/templates.underscore:379
 #, python-brace-format
@@ -9140,7 +9140,7 @@ msgstr "%(comments_count)s %(span_sr_open)s bình luận %(span_close)s"
 #: common/static/common/templates/discussion/templates.underscore:425
 #: common/static/common/templates/discussion/templates.underscore:559
 msgid "Add a Post"
-msgstr "Thêm một bài viết"
+msgstr "Thêm bài đăng"
 
 #: common/static/common/templates/discussion/templates.underscore:440
 msgid "Visible to"
@@ -9191,7 +9191,7 @@ msgstr ""
 
 #: common/static/common/templates/discussion/templates.underscore:548
 msgid "(Community TA)"
-msgstr "(TA cộng đồng)"
+msgstr "(Trợ giảng cộng đồng)"
 
 #: common/static/common/templates/discussion/templates.underscore:550
 msgid "(Staff)"
@@ -9200,11 +9200,11 @@ msgstr "(Nhân viên)"
 #: common/static/common/templates/discussion/templates.underscore:572
 #: lms/djangoapps/discussion/static/discussion/templates/user-profile.underscore:6
 msgid "All Posts"
-msgstr "Tất cả những bài viết"
+msgstr "Tất cả bài đăng"
 
 #: common/static/common/templates/discussion/templates.underscore:573
 msgid "Return to all posts"
-msgstr "Quay lại tất cả bài viết"
+msgstr "Quay lại tất cả bài đăng"
 
 #: common/static/common/templates/discussion/templates.underscore:636
 msgid "View discussion"
@@ -9308,7 +9308,7 @@ msgstr "Sử dụng trình đơn Tất cả Chủ đề để tìm các Chủ đ
 #: lms/djangoapps/discussion/static/discussion/templates/search.underscore:6
 #: lms/djangoapps/discussion/static/discussion/templates/search.underscore:8
 msgid "Search all posts"
-msgstr "Tìm kiếm tất cả bài viết"
+msgstr "Tìm kiếm tất cả bài đăng"
 
 #: lms/djangoapps/discussion/static/discussion/templates/discussion-home.underscore:29
 msgid "Filter and sort topics"
@@ -9362,7 +9362,7 @@ msgstr "Ko có kết quả"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:6
 msgid "Course Key"
-msgstr "Khóa học"
+msgstr "Mã khóa học"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:8
 msgid "Status"
@@ -9460,7 +9460,7 @@ msgstr "Lý do"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:29
 msgid "Last modified by"
-msgstr "Sửa đổi lần cuối bởi"
+msgstr "Chỉnh sửa lần cuối bởi"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:30
 msgid "Active"
@@ -9545,15 +9545,15 @@ msgstr "Xóa đội"
 
 #: lms/djangoapps/teams/static/teams/templates/instructor-tools.underscore:10
 msgid "Edit Membership"
-msgstr "Chỉnh sửa tư cách thành viên"
+msgstr "Chỉnh sửa thành viên"
 
 #: lms/djangoapps/teams/static/teams/templates/manage.underscore:5
 msgid "View Current Team Memberships"
-msgstr "Xem tư cách thành viên nhóm hiện tại"
+msgstr "Xem thành viên nhóm hiện tại"
 
 #: lms/djangoapps/teams/static/teams/templates/manage.underscore:17
 msgid "Download Memberships"
-msgstr "Tải xuống tư cách thành viên"
+msgstr "Tải xuống thành viên"
 
 #: lms/djangoapps/teams/static/teams/templates/manage.underscore:22
 msgid "Assign Team Memberships"
@@ -9561,7 +9561,7 @@ msgstr "Chỉ định thành viên nhóm"
 
 #: lms/djangoapps/teams/static/teams/templates/manage.underscore:40
 msgid "Upload Memberships"
-msgstr "Tải lên tư cách thành viên"
+msgstr "Tải lên thành viên"
 
 #: lms/djangoapps/teams/static/teams/templates/manage.underscore:46
 msgid "Error assigning team memberships"
@@ -9618,7 +9618,7 @@ msgstr "Các khóa học trong danh mục này:"
 
 #: lms/templates/ccx/schedule.underscore:3
 msgid "Expand All"
-msgstr "Mở rộng tất cả"
+msgstr "Mở rộng"
 
 #: lms/templates/ccx/schedule.underscore:6
 msgid "Collapse All"
@@ -9643,7 +9643,7 @@ msgstr "chuyển đổi chương %(displayName)s"
 
 #: lms/templates/ccx/schedule.underscore:33
 msgid "Section"
-msgstr "Phần mới"
+msgstr "Phần"
 
 #: lms/templates/ccx/schedule.underscore:45
 #, python-format
@@ -9827,7 +9827,7 @@ msgstr ""
 
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:24
 msgid "Email address"
-msgstr "Địa chỉ email"
+msgstr "Email"
 
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:28
 msgid "Legal name"
@@ -9888,7 +9888,7 @@ msgstr "Thêm vào danh sách ngoại lệ"
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:1
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:13
 msgid "Generate Exception Certificates"
-msgstr "Tạo chứng chỉ ngoại lệ"
+msgstr "Xuất chứng chỉ ngoại lệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:3
 msgid "Certificate exceptions group selection"
@@ -9921,7 +9921,7 @@ msgstr "Ghi chú"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:37
 msgid "Remove from List"
-msgstr "Xóa từ danh sách"
+msgstr "Xóa khỏi danh sách"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore:1
 msgid "Bulk Exceptions"
@@ -9959,7 +9959,7 @@ msgstr "Thêm ghi chú về người học này"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:16
 msgid "Invalidate Certificate"
-msgstr "Chứng chỉ không hợp lệ"
+msgstr "Hủy hiệu lực chứng chỉ"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:28
 msgid "Student"
@@ -10028,11 +10028,11 @@ msgstr "Thêm người học"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:5
 msgid "Add a New Cohort"
-msgstr "Thêm một nhóm mới"
+msgstr "Thêm nhóm học viên mới"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:19
 msgid "Enter the name of the cohort"
-msgstr "Nhập tên của nhóm thuần tập"
+msgstr "Bật tính năng Nhóm học"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:24
 msgid "Cohort Name"
@@ -10057,7 +10057,7 @@ msgstr "Phải có một nhóm mà học sinh có thể tự động được ch
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:62
 msgid "Associated Content Group"
-msgstr "Nhóm nội dung liên quan"
+msgstr "Nhóm nội dung liên kết"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:64
 msgid "No Content Group"

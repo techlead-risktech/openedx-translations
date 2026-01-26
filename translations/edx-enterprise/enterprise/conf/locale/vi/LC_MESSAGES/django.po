@@ -2259,7 +2259,7 @@ msgstr "Thành viên nhóm doanh nghiệp"
 
 #: enterprise/models.py:4866
 msgid "Enterprise Group Memberships"
-msgstr "Tư cách thành viên nhóm doanh nghiệp"
+msgstr "Thành viên nhóm doanh nghiệp"
 
 #: enterprise/templates/enterprise/_data_sharing_decline_modal.html:7
 #: enterprise/views.py:1612 enterprise/views.py:2114
@@ -2305,7 +2305,7 @@ msgstr "Ngày liên kết"
 #: enterprise/templates/enterprise/admin/manage_learners.html:101
 #: enterprise/templates/enterprise/admin/manage_learners.html:141
 msgid "Enroll"
-msgstr "Tham gia"
+msgstr "Ghi danh"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:139
 msgid "Learner Email"
@@ -2795,7 +2795,7 @@ msgstr "Giá"
 
 #: enterprise/views.py:1609 enterprise/views.py:2111
 msgid "Level"
-msgstr "Mức độ"
+msgstr "Cấp độ"
 
 #: enterprise/views.py:1610 enterprise/views.py:2110
 msgid "Effort"

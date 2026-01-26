@@ -604,7 +604,7 @@ msgid ""
 msgstr ""
 "Bạn có chắc chắn muốn xóa mục này. Nó không thể đảo ngược được!\n"
 "\n"
-" Ngoài ra, bất kỳ nội dung nào liên kết/đề cập đến mục này sẽ không còn hoạt động (ví dụ: hình ảnh và/hoặc liên kết bị hỏng)"
+" Ngoài ra, bất kỳ nội dung nào liên kết/đề cập đến mục này sẽ không còn hành động (ví dụ: hình ảnh và/hoặc liên kết bị hỏng)"
 
 #: cms/static/js/views/asset.js:64
 msgid "Your file has been deleted."
@@ -2542,7 +2542,7 @@ msgstr "Hủy tải lên"
 
 #: lms/djangoapps/teams/static/teams/js/collections/team.js:36
 msgid "last activity"
-msgstr "Hoạt động cuối"
+msgstr "Hành động cuối"
 
 #: lms/djangoapps/teams/static/teams/js/collections/team.js:37
 msgid "open slots"
@@ -2657,7 +2657,7 @@ msgstr "Đã tham gia %(date)s"
 #. * relative timestamp (see: https://github.com/rmm5t/jquery-timeago)
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:69
 msgid "Last Activity %(date)s"
-msgstr "Hoạt động cuối cùng %(date)s"
+msgstr "Hành động cuối cùng %(date)s"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:93
 msgid "Remove this team member?"
@@ -2706,7 +2706,7 @@ msgstr "và những người khác"
 #. * relative timestamp (see: http://momentjs.com/)
 #: lms/djangoapps/teams/static/teams/js/views/team_card.js:111
 msgid "Last activity {date}"
-msgstr "Hoạt động cuối cùng {date}"
+msgstr "Hành động cuối cùng {date}"
 
 #: lms/djangoapps/teams/static/teams/js/views/team_card.js:158
 msgid "View {span_start} {team_name} {span_end}"
@@ -3533,7 +3533,7 @@ msgstr "Vị trí trong khóa học"
 
 #: lms/static/js/edxnotes/views/tabs/recent_activity.js:30
 msgid "Recent Activity"
-msgstr "Hoạt động gần đây"
+msgstr "Hành động gần đây"
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
@@ -8084,7 +8084,7 @@ msgstr "Trạng thái video"
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:25
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:32
 msgid "Action"
-msgstr "Hoạt động"
+msgstr "Hành động"
 
 #: cms/templates/js/previous-video-upload.underscore:13
 msgid "Remove this video"
@@ -9344,7 +9344,7 @@ msgid ""
 "new, unread activity from posts you are following."
 msgstr ""
 "Chọn hộp này để nhận thông báo qua email mỗi ngày một lần thông báo cho bạn "
-"về hoạt động mới, chưa đọc từ các bài đăng bạn đang theo dõi."
+"về hành động mới, chưa đọc từ các bài đăng bạn đang theo dõi."
 
 #: lms/djangoapps/support/static/support/templates/certificates.underscore:10
 msgid "username or email"

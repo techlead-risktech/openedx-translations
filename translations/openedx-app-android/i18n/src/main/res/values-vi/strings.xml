@@ -172,8 +172,8 @@
 	<string name="profile.profile_show_relative_dates">Hiển thị các ngày tương đối như “Ngày mai” và “Hôm qua”</string>
 	<string name="profile.profile_courses_to_sync_title">Việc tắt đồng bộ hóa một khóa học sẽ xóa tất cả các sự kiện được kết nối với khóa học khỏi lịch đã đồng bộ hóa của bạn.</string>
 	<string name="profile.profile_automatically_remove_events">Tự động xóa sự kiện khỏi các khóa học bạn chưa xem trong tháng trước</string>
-	<string name="profile.profile_inactive">Không hoạt động</string>
-	<string name="profile.profile_hide_inactive_courses">Ẩn các khóa học không hoạt động</string>
+	<string name="profile.profile_inactive">Không hành động</string>
+	<string name="profile.profile_hide_inactive_courses">Ẩn các khóa học không hành động</string>
 	<string name="profile.profile_disable_calendar_dialog_title">Tắt đồng bộ hóa lịch</string>
 	<string name="profile.profile_disable_calendar_dialog_description">Tắt đồng bộ hóa lịch sẽ xóa lịch “ %1$s .” Bạn có thể bật lại đồng bộ hóa lịch bất kỳ lúc nào.</string>
 	<string name="profile.profile_disable_syncing">Tắt đồng bộ hóa</string>
@@ -188,8 +188,8 @@
 	<string name="discussion.discussion_unanswered">Chưa được trả lời</string>
 	<string name="discussion.discussion_posts_following">Bài viết tôi đang theo dõi</string>
 	<string name="discussion.discussion_refine">Lọc:</string>
-	<string name="discussion.discussion_recent_activity">Hoạt động gần đây</string>
-	<string name="discussion.discussion_most_activity">Hoạt động nhiều nhất</string>
+	<string name="discussion.discussion_recent_activity">Hành động gần đây</string>
+	<string name="discussion.discussion_most_activity">Hành động nhiều nhất</string>
 	<string name="discussion.discussion_most_votes">Nhiều phiếu bầu nhất</string>
 	<string name="discussion.discussion_create_post">Tạo cuộc thảo luận</string>
 	<string name="discussion.discussion_create_question">Tạo câu hỏi</string>

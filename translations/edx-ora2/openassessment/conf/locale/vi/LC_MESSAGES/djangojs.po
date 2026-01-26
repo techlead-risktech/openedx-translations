@@ -475,7 +475,7 @@ msgstr "Làm cho khỏe lại"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Action"
-msgstr "Hoạt động"
+msgstr "Hành động"
 
 #: xblock/static/dist/openassessment-lms.51b88d7de00c69ab0a2e.js:362
 msgid "Review"

@@ -1433,7 +1433,7 @@ msgid ""
 "this value will be overwritten by the \"Course Visibility In Catalog\" field"
 " in Studio via Refresh Course Metadata."
 msgstr ""
-"Liệu hoạt động này có nên bị ẩn khỏi các phản hồi API hay không. Không chỉnh"
+"Liệu hành động này có nên bị ẩn khỏi các phản hồi API hay không. Không chỉnh"
 " sửa ở đây - giá trị này sẽ bị ghi đè bởi trường &quot;Chế độ hiển thị khóa "
 "học trong danh mục&quot; trong Studio thông qua Làm mới siêu dữ liệu khóa "
 "học."
@@ -2305,7 +2305,7 @@ msgstr "Bản dịch mô hình Tag Ngôn ngữ"
 
 #: apps/learner_pathway/choices.py:7
 msgid "Inactive"
-msgstr "Không hoạt động"
+msgstr "Không hành động"
 
 #: apps/learner_pathway/models.py:84
 msgid "Title of the learner pathway."
@@ -2319,7 +2319,7 @@ msgstr ""
 
 #: apps/learner_pathway/models.py:90
 msgid "The active/inactive status of this Pathway."
-msgstr "Trạng thái hoạt động/không hoạt động của Lộ trình này."
+msgstr "Trạng thái hành động/không hành động của Lộ trình này."
 
 #: apps/learner_pathway/models.py:118
 msgid "Learner Pathway"

@@ -667,7 +667,7 @@ msgstr ""
 
 #: templates/proctored_exam/instructions.html:74
 msgid "Have a computer with a functioning webcam"
-msgstr "Có một máy tính có webcam hoạt động"
+msgstr "Có một máy tính có webcam hành động"
 
 #: templates/proctored_exam/instructions.html:75
 msgid "Have your valid photo ID (e.g. driver's license or passport) ready"

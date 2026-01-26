@@ -45,7 +45,7 @@
   "learning.generic.upsell.verifiedCertBullet.verifiedCert.newTab.screenreaderOnly.message": "",
   "learning.generic.upsell.verifiedCertBullet": "Kiếm {verifiedCertLink} khi hoàn thành để giới thiệu trong sơ yếu lý lịch của bạn",
   "learning.generic.upsell.unlockGradedBullet.gradedAssignments": "bài tập được chấm điểm",
-  "learning.generic.upsell.unlockGradedBullet": "Mở khóa quyền truy cập của bạn vào tất cả các hoạt động khóa học, bao gồm {gradedAssignmentsInBoldText}",
+  "learning.generic.upsell.unlockGradedBullet": "Mở khóa quyền truy cập của bạn vào tất cả các hành động khóa học, bao gồm {gradedAssignmentsInBoldText}",
   "learning.generic.upsell.fullAccessBullet.fullAccess": "Toàn quyền truy cập",
   "learning.generic.upsell.fullAccessBullet": "{fullAccessInBoldText} về nội dung và tài liệu khóa học, ngay cả sau khi khóa học kết thúc",
   "learning.generic.upsell.supportMissionBullet.mission": "nhiệm vụ",

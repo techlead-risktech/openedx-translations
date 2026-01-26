@@ -19,7 +19,7 @@
   "bulk.email.form.subject.error": "Một chủ đề là bắt buộc",
   "bulk.email.body.label": "Phần thân",
   "bulk.email.form.body.error": "Tin nhắn không được để trống",
-  "bulk.email.instructions.proofreading": "Chúng tôi khuyên bạn nên gửi cho người học không quá một tin nhắn email mỗi tuần. Trước khi gửi email, hãy xem lại văn bản một cách cẩn thận và gửi cho chính bạn trước để bạn có thể xem trước định dạng cũng như đảm bảo các hình ảnh và liên kết được nhúng hoạt động chính xác.",
+  "bulk.email.instructions.proofreading": "Chúng tôi khuyên bạn nên gửi cho người học không quá một tin nhắn email mỗi tuần. Trước khi gửi email, hãy xem lại văn bản một cách cẩn thận và gửi cho chính bạn trước để bạn có thể xem trước định dạng cũng như đảm bảo các hình ảnh và liên kết được nhúng hành động chính xác.",
   "bulk.email.instructions.caution": "Thận trọng!",
   "bulk.email.instructions.caution.message.new.email": "Khi bạn chọn Gửi Email, bạn đang tạo một email mới được thêm vào hàng đợi để gửi và không thể hủy được.",
   "bulk.email.form.scheduleBox": "Lên lịch email này cho một ngày trong tương lai",

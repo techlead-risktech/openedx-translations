@@ -190,7 +190,7 @@ msgstr "Thời gian bổ sung (phút)"
 
 #: models.py:525
 msgid "Review Policy Exception"
-msgstr Xem xét chính sách ngoại lệ"
+msgstr "Xem xét chính sách ngoại lệ"
 
 #: templates/common/waiting_banner.html:3
 msgid ""

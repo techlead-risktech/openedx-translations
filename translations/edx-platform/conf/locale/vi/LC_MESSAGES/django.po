@@ -26537,3 +26537,90 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+msgid "Achievements System"
+msgstr "Hệ thống thành tích"
+
+msgid "Course Enrollment"
+msgstr "Ghi danh khóa học"
+
+msgid "Certificate Awarded"
+msgstr "Chứng chỉ đã được cấp"
+
+msgid "Course Creation"
+msgstr "Tạo khóa học"
+
+msgid "Forum Thread Creation"
+msgstr "Tạo chủ đề diễn đàn"
+
+msgid "Forum Comment Creation"
+msgstr "Tạo bình luận diễn đàn"
+
+msgid "User Signup"
+msgstr "Người dùng đăng ký"
+
+msgid "Users Awarded"
+msgstr "Người dùng được trao thưởng"
+
+msgid "Current Progress"
+msgstr "Tiến độ hiện tại"
+
+msgid "Trigger"
+msgstr "Kích hoạt"
+
+msgid "Icon"
+msgstr "Biểu tượng"
+
+msgid "Badge"
+msgstr "Huy hiệu"
+
+msgid "Badges"
+msgstr "Huy hiệu"
+
+msgid "User Badge"
+msgstr "Huy hiệu người dùng"
+
+msgid "User Badges"
+msgstr "Huy hiệu người dùng"
+
+msgid "Introductory"
+msgstr "Cơ bản"
+
+msgid "Intermediate"
+msgstr "Trung cấp"
+
+msgid "Industries"
+msgstr "Ngành nghề"
+
+msgid "Name of the topic/subcategory."
+msgstr "Tên của chủ đề/danh mục con."
+
+msgid "Industry this topic belongs to."
+msgstr "Ngành nghề mà chủ đề này thuộc về."
+
+msgid "Topics"
+msgstr "Chủ đề"
+
+msgid "Unique name of the skill."
+msgstr "Tên duy nhất của kỹ năng."
+
+msgid "Reference to the related course."
+msgstr "Tham chiếu đến khóa học liên quan."
+
+msgid "Primary industry for this course."
+msgstr "Ngành nghề chính của khóa học này."
+
+msgid "Difficulty level of the course."
+msgstr "Mức độ khó của khóa học."
+
+msgid "Topics/subcategories assigned to the course."
+msgstr "Các chủ đề/danh mục con được gán cho khóa học."
+
+msgid "Skills that are covered in this course."
+msgstr "Các kỹ năng được đề cập trong khóa học này."
+
+msgid "Course Metadata & Filters"
+msgstr "Siêu dữ liệu & Bộ lọc khóa học"
+
+msgid "Courses Metadata"
+msgstr "Siêu dữ liệu khóa học"

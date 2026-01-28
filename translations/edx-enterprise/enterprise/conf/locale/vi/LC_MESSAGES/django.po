@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: enterprise/models.py:2342
 msgid "The course entitlement the associated subsidy is for."
-msgstr "Quyền lợi của khóa học được trợ cấp liên quan dành cho."
+msgstr "Quyền hạn lợi của khóa học được trợ cấp liên quan dành cho."
 
 #: enterprise/models.py:2353
 msgid "The course enrollment the associated subsidy is for."
@@ -2259,7 +2259,7 @@ msgstr "Thành viên nhóm doanh nghiệp"
 
 #: enterprise/models.py:4866
 msgid "Enterprise Group Memberships"
-msgstr "Tư cách thành viên nhóm doanh nghiệp"
+msgstr "Thành viên nhóm doanh nghiệp"
 
 #: enterprise/templates/enterprise/_data_sharing_decline_modal.html:7
 #: enterprise/views.py:1612 enterprise/views.py:2114
@@ -2305,7 +2305,7 @@ msgstr "Ngày liên kết"
 #: enterprise/templates/enterprise/admin/manage_learners.html:101
 #: enterprise/templates/enterprise/admin/manage_learners.html:141
 msgid "Enroll"
-msgstr "Tham gia"
+msgstr "Ghi danh"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:139
 msgid "Learner Email"
@@ -2350,7 +2350,7 @@ msgstr ""
 
 #: enterprise/utils.py:151
 msgid "Error: Learners could not be added. Correct the following errors."
-msgstr "Lỗi: Không thể thêm người học. Sửa các lỗi sau."
+msgstr "Lỗi: Không thể thêm người học. Chỉnh sửa các lỗi sau."
 
 #: enterprise/utils.py:153
 #, python-brace-format
@@ -2795,11 +2795,11 @@ msgstr "Giá"
 
 #: enterprise/views.py:1609 enterprise/views.py:2111
 msgid "Level"
-msgstr "Mức độ"
+msgstr "Cấp độ"
 
 #: enterprise/views.py:1610 enterprise/views.py:2110
 msgid "Effort"
-msgstr "Cố gắng"
+msgstr "Khối lượng học tập"
 
 #: enterprise/views.py:1611
 msgid "Duration"

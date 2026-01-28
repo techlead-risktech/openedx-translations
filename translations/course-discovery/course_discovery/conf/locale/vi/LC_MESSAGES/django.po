@@ -207,11 +207,11 @@ msgstr "Thông tin cá nhân"
 
 #: apps/core/admin.py:18
 msgid "Permissions"
-msgstr "Quyền"
+msgstr "Quyền hạn"
 
 #: apps/core/admin.py:19
 msgid "Important dates"
-msgstr "Những ngày quan trọng"
+msgstr "Ngày quan trọng"
 
 #: apps/core/admin.py:45
 msgid "API Configuration"
@@ -258,7 +258,7 @@ msgstr ""
 
 #: apps/core/models.py:17
 msgid "Full Name"
-msgstr "Họ và tên"
+msgstr "Họ tên"
 
 #: apps/core/models.py:18
 msgid "Referral Tracking ID"
@@ -409,7 +409,7 @@ msgstr "đủ điều kiện để mua bằng một cú nhấp chuột"
 
 #: apps/course_metadata/admin.py:70
 msgid "Yes"
-msgstr "Đúng"
+msgstr "Có"
 
 #: apps/course_metadata/admin.py:71
 msgid "No"
@@ -507,13 +507,13 @@ msgstr "Đã nghỉ hưu"
 #. similar to a normal university course.
 #: apps/course_metadata/choices.py:30
 msgid "Instructor-paced"
-msgstr "Theo tiến độ của giảng viên"
+msgstr "Có người hướng dẫn"
 
 #. Translators: Self-paced refers to course runs that operate on the student's
 #. schedule.
 #: apps/course_metadata/choices.py:32
 msgid "Self-paced"
-msgstr "Tự học theo tiến độ cá nhân"
+msgstr "Tự học"
 
 #: apps/course_metadata/choices.py:37 apps/learner_pathway/choices.py:6
 msgid "Active"
@@ -561,7 +561,7 @@ msgstr "Tín dụng"
 
 #: apps/course_metadata/choices.py:77
 msgid "Professional"
-msgstr "Chuyên nghiệp"
+msgstr "Gói Chuyên nghiệp"
 
 #: apps/course_metadata/choices.py:78
 msgid "Executive Education"
@@ -1884,7 +1884,7 @@ msgstr "Twitter"
 
 #: apps/course_metadata/models.py:4421
 msgid "Blog"
-msgstr "Blog"
+msgstr "Bài viết"
 
 #: apps/course_metadata/models.py:4422
 msgid "Others"

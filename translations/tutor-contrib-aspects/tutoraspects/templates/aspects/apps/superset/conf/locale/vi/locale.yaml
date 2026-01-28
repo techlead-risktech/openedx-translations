@@ -70,12 +70,12 @@ en:
   Course ID: Mã khóa học
   Course Info: Thông tin khóa học
   Course Information: Thông tin khóa học
-  Course Key: Khóa học
+  Course Key: Mã khóa học
   Course Key Short: Khóa học ngắn hạn
   Course Metrics: Số liệu khóa học
   Course Name: Tên khóa học
   Course Order: Thứ tự khóa học
-  Course Run: Chạy khóa học
+  Course Run: Đợt chạy khóa học
   Course Start: Bắt đầu khóa học
   Course Tag: Thẻ khóa học
   Course grade: Điểm khóa học
@@ -91,10 +91,10 @@ en:
   Created: Tạo
   Created By Fk: Tạo bởi Fk
   Created On: Được tạo ra
-  Cumulative Enrollments by Track: Ghi danh tích lũy theo đường đua
+  Cumulative Enrollments by Track: Tổng lượt ghi danh tích lũy theo nhóm đăng ký
   Cumulative Interactions: Tương tác tích lũy
-  Current Active Enrollments By Mode: Ghi danh hành động hiện tại theo chế độ
-  Current Enrollees: Người ghi danh hiện tại
+  Current Active Enrollments By Mode: Ghi danh hoạt động hiện tại theo chế độ
+  Current Enrollees: Số người ghi danh hiện tại
   Currently Enrolled Users: Người dùng hiện đã ghi danh
   Dashboard ID: ID trang tổng quan
   Dashboard Status: Trạng thái trang tổng quan
@@ -114,10 +114,10 @@ en:
   Emission Day: Ngày phát thải
   Emission Hour: Giờ phát thải
   Emission Time: Thời gian phát thải
-  Engagement: Hôn ước
+  Engagement: Tương tác
   Enrolled At: Đã ghi danh tại
   Enrollees by Enrollment Track: Người ghi danh theo lộ trình ghi danh
-  Enrollees per Enrollment Track: Người ghi danh theo dõi ghi danh
+  Enrollees per Enrollment Track: Số lượng ghi danh theo từng nhóm đăng ký
   Enrollment: Ghi danh
   Enrollment Counts: Số lượng ghi danh
   Enrollment Date: Ngày ghi danh
@@ -125,10 +125,10 @@ en:
   Enrollment End: Kết thúc ghi danh
   Enrollment Mode: Chế độ ghi danh
   Enrollment Start: Bắt đầu ghi danh
-  Enrollment Status: Tình trạng ghi danh
-  Enrollment Track: Theo dõi ghi danh
-  Enrollment status: Tình trạng ghi danh
-  Enrollment track: lộ trình ghi danh
+  Enrollment Status: Trạng thái ghi danh
+  Enrollment Track: Hình thức ghi danh
+  Enrollment status: Trạng thái ghi danh
+  Enrollment track: Hình thức ghi danh
   Enrollments: ghi danh
   Event Activity: Hành động sự kiện
   Event ID: ID sự kiện
@@ -139,8 +139,8 @@ en:
   First Name: Tên đầu tiên
   Full Views: Lượt xem đầy đủ
   Grade Bucket: Xô lớp
-  Grade Range: Phạm vi lớp
-  Grade range: phạm vi lớp
+  Grade Range: Khoảng điểm
+  Grade range: Khoảng điểm
   Graded: Đã chấm điểm
   Graded Learners: Người học được xếp loại
   Help: Trợ giúp
@@ -157,17 +157,17 @@ en:
   Last Name: Họ
   Last Received Event: Sự kiện nhận được lần cuối
   Last Visit Date: Ngày truy cập lần cuối
-  Last Visited: Lần cuối ghé thăm
+  Last Visited: Lần truy cập gần nhất
   Last course syncronized: Khóa học cuối cùng đã được đồng bộ hóa
   Learner Performance: Hiệu suất của người học
   Learner Performance Breakdown: Phân tích hiệu suất của người học
   Learner Status: Trạng thái người học
-  Learner Summary: Tóm tắt người học
-  Learners: Người học
+  Learner Summary: Tổng quan người học
+  Learners: Học viên
   Learners with Passing Grade: Người học đạt điểm
   Login Count: Số lần đăng nhập
   Median Attempts: Số lần thử trung bình
-  Median Course Grade: Điểm khóa học trung bình
+  Median Course Grade: Điểm trung vị của khóa học
   Memory Usage (KB): Mức sử dụng bộ nhớ (KB)
   Memory Usage Mb: Mức sử dụng bộ nhớ Mb
   Modified: Đã sửa đổi
@@ -175,8 +175,8 @@ en:
   Most-used Charts: Biểu đồ được sử dụng nhiều nhất
   Most-used Dashboards: Bảng điều khiển được sử dụng nhiều nhất
   Name: Tên
-  Number of Learners: Số lượng người học
-  Number of Learners who Attempted the Problem: Số lượng người học đã cố gắng giải quyết vấn đề
+  Number of Learners: Số lượng học viên
+  Number of Learners who Attempted the Problem: Số lượng học viên đã cố gắng giải quyết vấn đề
   Number of Videos: Số lượng video
   Number of Views across Video Duration: Số lượt xem trên toàn bộ thời lượng video
   Object ID: ID đối tượng
@@ -196,7 +196,7 @@ en:
   Partial Views: Lượt xem một phần
   Partial and Full Video Views: Lượt xem một phần và toàn bộ video
   Passed: Đi qua
-  Passed/Failed: Đạt/Không đạt
+  Passed/Failed: Đã đạt/Không đạt
   Password: Mật khẩu
   Performance: Hiệu suất
   Problem Attempts: Vấn đề cố gắng

@@ -74,7 +74,7 @@ msgstr ""
 
 #: lti_xblock.py:267
 msgid "LTI Consumer"
-msgstr "Người tiêu dùng LTI"
+msgstr "Hệ thống tiếp nhận LTI"
 
 #: lti_xblock.py:270
 msgid "LTI Application Information"

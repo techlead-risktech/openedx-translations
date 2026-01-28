@@ -73,7 +73,7 @@ msgstr "Nhân viên"
 
 #: assessment/score_type_constants.py:25
 msgid "Unknown"
-msgstr "không xác định"
+msgstr "Không xác định"
 
 #: data.py:584
 #, python-brace-format
@@ -1786,7 +1786,7 @@ msgstr "Các loại tập tin được hỗ trợ: "
 
 #: templates/legacy/response/oa_response.html:285
 msgid "Upload files"
-msgstr "Tải tập tin lên"
+msgstr "Tải tệp lên"
 
 #: templates/legacy/response/oa_response.html:287
 msgid "Upload file"

@@ -108,7 +108,7 @@
 	<string name="profile.profile_full_profile">Hồ sơ đầy đủ</string>
 	<string name="profile.profile_limited_profile">Hồ sơ hạn chế</string>
 	<string name="profile.profile_edit_profile">Chỉnh sửa hồ sơ</string>
-	<string name="profile.profile_edit">Sửa</string>
+	<string name="profile.profile_edit">Chỉnh sửa</string>
 	<string name="profile.profile_save">Lưu</string>
 	<string name="profile.profile_delete_profile">Xóa tài khoản</string>
 	<string name="profile.profile_must_be_over">Bạn phải trên 13 tuổi mới có được hồ sơ đầy đủ thông tin.</string>
@@ -252,8 +252,8 @@
 	<string name="core.core_label_starting">Bắt đầu %1$s</string>
 	<string name="core.core_label_ended">Đã kết thúc vào %1$s</string>
 	<string name="core.core_label_ends">Kết thúc %1$s</string>
-	<string name="core.core_label_expires">Quyền truy cập hết hạn %1$s</string>
-	<string name="core.core_label_access_expired">Quyền truy cập đã hết hạn %1$s</string>
+	<string name="core.core_label_expires">Quyền hạn truy cập hết hạn %1$s</string>
+	<string name="core.core_label_access_expired">Quyền hạn truy cập đã hết hạn %1$s</string>
 	<string name="core.core_label_expired_on">Đã hết hạn vào %1$s</string>
 	<string name="core.core_password">Mật khẩu</string>
 	<string name="core.core_assessment_soon">Sớm</string>

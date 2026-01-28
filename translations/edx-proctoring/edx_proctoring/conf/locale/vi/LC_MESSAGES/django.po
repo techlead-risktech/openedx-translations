@@ -162,7 +162,7 @@ msgstr "Bài kiểm tra thực hành không thành công"
 
 #: api.py:2305
 msgid "Timed Exam"
-msgstr "Kỳ thi có tính giờ"
+msgstr "Bài kiểm tra giới hạn thời gian"
 
 #: api.py:2888
 msgid "Onboarding status question"
@@ -186,11 +186,11 @@ msgstr "Đã tiếp tục"
 
 #: models.py:524
 msgid "Additional Time (minutes)"
-msgstr "Thời gian bù giờ (phút)"
+msgstr "Thời gian bổ sung (phút)"
 
 #: models.py:525
 msgid "Review Policy Exception"
-msgstr "Xem xét ngoại lệ chính sách"
+msgstr "Xem xét chính sách ngoại lệ"
 
 #: templates/common/waiting_banner.html:3
 msgid ""

@@ -68,7 +68,7 @@ msgid ""
 "needed, click Publish, and copy the embed code into this field."
 msgstr ""
 "Google cung cấp mã nhúng cho tài liệu Drive. Trong tài liệu Google Drive, từ"
-" trình đơn Tệp, chọn Xuất bản lên Web. Sửa đổi cài đặt nếu cần, nhấp vào "
+" trình đơn Tệp, chọn Xuất bản lên Web. Chỉnh sửa đổi cài đặt nếu cần, nhấp vào "
 "Xuất bản và sao chép mã nhúng vào trường này."
 
 #: google_docs.py:75

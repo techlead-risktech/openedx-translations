@@ -1735,5 +1735,6 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Không thể áp dụng dung sai cho phạm vi câu trả lời",
   "problemEditor.settings.tolerance.type.percent": "Tỷ lệ phần trăm",
   "problemEditor.settings.tolerance.type.number": "Con số",
-  "problemEditor.settings.tolerance.type.none": "Không có"
+  "problemEditor.settings.tolerance.type.none": "Không có",
+  "course-authoring.studio-home.default-section-1.description": "Người tạo khóa học phải cấp cho bạn quyền truy cập vào khóa học. Liên hệ với người tạo khóa học hoặc quản trị viên của khóa học mà bạn đang hỗ trợ biên soạn."
 }

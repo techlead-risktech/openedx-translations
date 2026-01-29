@@ -30,7 +30,7 @@ msgstr "Trang tổng quan khóa học"
 
 #: settings/common.py:37
 msgid "Individual Learner Dashboard"
-msgstr "Bảng điều khiển dành cho người học cá nhân"
+msgstr "Bảng điều khiển người học riêng lẻ"
 
 #: settings/common.py:43
 msgid "At-Risk Learners Dashboard"

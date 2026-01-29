@@ -549,11 +549,11 @@ msgstr "Cập nhật một phần khóa học"
 
 #: apps/course_metadata/choices.py:65 apps/course_metadata/choices.py:76
 msgid "Verified"
-msgstr "Đã xác minh"
+msgstr "Xác thực"
 
 #: apps/course_metadata/choices.py:74
 msgid "Honor"
-msgstr "Danh dự / chứng chỉ danh dự "
+msgstr "Danh dự"
 
 #: apps/course_metadata/choices.py:75
 msgid "Credit"
@@ -2305,7 +2305,7 @@ msgstr "Bản dịch mô hình Tag Ngôn ngữ"
 
 #: apps/learner_pathway/choices.py:7
 msgid "Inactive"
-msgstr "Không hành động"
+msgstr "Không hoạt động"
 
 #: apps/learner_pathway/models.py:84
 msgid "Title of the learner pathway."

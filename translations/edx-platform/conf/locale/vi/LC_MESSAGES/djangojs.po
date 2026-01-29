@@ -2426,7 +2426,7 @@ msgstr "Không cụ thể cho một khóa học"
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:50
 #: lms/static/js/instructor_dashboard/util.js:200
 msgid "Subject"
-msgstr "Chủ thể"
+msgstr "Tiêu đề"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:52
 msgid "Select a category"
@@ -10032,11 +10032,11 @@ msgstr "Thêm nhóm học viên mới"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:19
 msgid "Enter the name of the cohort"
-msgstr "Bật tính năng Nhóm học"
+msgstr "Nhập tên của nhóm học"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:24
 msgid "Cohort Name"
-msgstr "Tên nhóm"
+msgstr "Tên nhóm học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:44
 msgid "Cohort Assignment Method"
@@ -10139,7 +10139,7 @@ msgstr "%(cohort_name)s ( %(user_count)s )"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:2
 msgid "Enable Cohorts"
-msgstr "Bật nhóm thuần tập"
+msgstr "Bật tính năng Nhóm học"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:11
 msgid "Select a cohort to manage"

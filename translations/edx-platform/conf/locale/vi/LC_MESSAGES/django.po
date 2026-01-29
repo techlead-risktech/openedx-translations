@@ -26583,9 +26583,6 @@ msgstr "Huy hiệu người dùng"
 msgid "User Badges"
 msgstr "Huy hiệu người dùng"
 
-msgid "Introductory"
-msgstr "Cơ bản"
-
 msgid "Intermediate"
 msgstr "Trung cấp"
 
@@ -26770,9 +26767,6 @@ msgstr "Tiếp tục chỉnh sửa"
 
 msgid "Edit component"
 msgstr "Chỉnh sửa thành phần"
-
-msgid "Publish component"
-msgstr "Xuất bản thành phần"
 
 msgid "Publish component"
 msgstr "Xuất bản thành phần"
@@ -27050,9 +27044,6 @@ msgstr "Có người hướng dẫn"
 msgid "3 courses found"
 msgstr "Tìm thấy 3 khóa học"
 
-msgid "Learn more"
-msgstr "Tìm hiểu thêm"
-
 msgid "Starts:"
 msgstr "Ngày bắt đầu:"
 
@@ -27061,12 +27052,6 @@ msgstr "Đã đăng ký"
 
 msgid "Course Summary"
 msgstr "Tổng quan khóa học"
-
-msgid "Course Number"
-msgstr "Mã khóa học"
-
-msgid "Classes Start"
-msgstr "Ngày bắt đầu"
 
 msgid "Reviews"
 msgstr "Đánh giá"
@@ -27077,20 +27062,8 @@ msgstr "Xếp hạng trung bình"
 msgid "Detailed Ratings"
 msgstr "Đánh giá chi tiết"
 
-msgid "Updates"
-msgstr "Cập nhật"
-
 msgid "About Us"
 msgstr "Về chúng tôi"
-
-msgid "Blog"
-msgstr "Bài viết"
-
-msgid "Terms of Service"
-msgstr "Điều khoản dịch vụ"
-
-msgid "Privacy Policy"
-msgstr "Chính sách bảo mật"
 
 msgid "Hello there!"
 msgstr "Xin chào!"
@@ -27113,9 +27086,6 @@ msgstr "Ngôn ngữ chính"
 msgid "Education"
 msgstr "Học vấn"
 
-msgid "Master's or professional degree"
-msgstr "Bằng thạc sĩ hoặc bằng chuyên môn"
-
 msgid "Associate’s degree"
 msgstr "Cao đẳng"
 
@@ -27124,9 +27094,6 @@ msgstr "Trung học cơ sở"
 
 msgid "Elementary / primary school"
 msgstr "Tiểu học"
-
-msgid "No formal education"
-msgstr "Chưa qua đào tạo chính quy"
 
 msgid "My Achievements"
 msgstr "Thành tựu của tôi"
@@ -27221,9 +27188,6 @@ msgstr "Đã bật – Tìm hiểu thêm"
 msgid "Expand all"
 msgstr "Mở rộng tất cả"
 
-msgid "Instructor-paced"
-msgid "Theo tiến độ của người hướng dẫn"
-
 msgid "Move down"
 msgstr "Di chuyển xuống"
 
@@ -27258,7 +27222,7 @@ msgid "Introduction"
 msgstr "Giới thiệu"
 
 msgid "Add a new component"
-msgid "Thêm thành phần mới"
+msgstr "Thêm thành phần mới"
 
 msgid "Enable discussion"
 msgstr "Bật thảo luận"
@@ -27619,7 +27583,7 @@ msgid "Attempts – Allow a learner who has used up all attempts to work on the 
 msgstr "Lượt làm lại – Cho phép học viên đã dùng hết số lượt được phép làm bài có thể làm lại"
 
 msgid "Rescore – Rescore the learner's responses (+ Rescore Only If Score Improves option)"
-msgstr "Chấm lại – Chấm lại câu trả lời của học viên (+ tùy chọn "Chỉ chấm lại nếu điểm tăng")"
+msgstr "Chấm lại – Chấm lại câu trả lời của học viên (+ tùy chọn Chỉ chấm lại nếu điểm tăng)"
 
 msgid "Problem History – permanently delete learner’s answers & scores"
 msgstr "Lịch sử bài tập – Xóa vĩnh viễn câu trả lời và điểm của học viên khỏi hệ thống"
@@ -27631,7 +27595,7 @@ msgid "Attempts – Allows all learners to work on the problem again"
 msgstr "Lượt làm lại – Cho phép tất cả học viên làm lại bài"
 
 msgid "Rescore – Rescore submitted responses (+ Rescore Only If Scores Improve option)"
-msgstr "Chấm lại – Chấm lại bài đã nộp (+ tùy chọn "Chỉ chấm lại nếu điểm tăng")"
+msgstr "Chấm lại – Chấm lại bài đã nộp (+ tùy chọn Chỉ chấm lại nếu điểm tăng)"
 
 msgid "Task Status – Show status of the tasks submitted"
 msgstr "Trạng thái tác vụ – Hiển thị trạng thái của các tác vụ đã gửi cho bài"
@@ -27653,9 +27617,6 @@ msgstr "Nhóm học: Nhóm 1 / Nhóm 2"
 
 msgid "Cohort: Default Group"
 msgstr "Nhóm học: Nhóm mặc định"
-
-msgid "All Learners"
-msgstr "Tất cả học viên"
 
 msgid "Body (Maximum 128 characters)"
 msgstr "Nội dung (tối đa 128 ký tự)"

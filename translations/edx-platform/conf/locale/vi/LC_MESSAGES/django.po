@@ -27272,3 +27272,12 @@ msgstr "Số tiền"
 
 msgid "Receipt"
 msgstr "Hóa đơn"
+
+msgid "No active progress on any badge yet."
+msgstr "Chưa có huy hiệu nào đang được thực hiện"
+
+msgid "Badges in Progress"
+msgstr "Huy hiệu đang mở khóa"
+
+msgid "Welcome Aboard!"
+msgstr "Thành viên mới!"

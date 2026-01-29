@@ -27257,3 +27257,18 @@ msgstr "Đã xem tất cả trang"
 
 msgid "Viewed At Least One Page"
 msgstr "Đã xem ít nhất một trang"
+
+msgid "My Order History"
+msgstr "Lịch sử đơn hàng của tôi"
+
+msgid "Sr No"
+msgstr "Số thứ tự"
+
+msgid "Plan"
+msgstr "Gói dịch vụ"
+
+msgid "Amount"
+msgstr "Số tiền"
+
+msgid "Receipt"
+msgstr "Hóa đơn"

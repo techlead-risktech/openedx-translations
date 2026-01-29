@@ -26624,3 +26624,9 @@ msgstr "Siêu dữ liệu & Bộ lọc khóa học"
 
 msgid "Courses Metadata"
 msgstr "Siêu dữ liệu khóa học"
+
+msgid "Request a Consultation"
+msgstr "Yêu cầu tư vấn"
+
+msgid "Request a Personalized Consultation"
+msgstr "Yêu cầu tư vấn chuyên sâu"

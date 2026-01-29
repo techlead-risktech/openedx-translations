@@ -258,6 +258,9 @@ msgstr "Thẳng đứng"
 msgid "Section"
 msgstr "Phần"
 
+msgid "Section highlights"
+msgstr "Điểm nổi bật của phần"
+
 #: cms/djangoapps/contentstore/helpers.py:209
 #: lms/templates/ccx/schedule.html:90
 msgid "Subsection"
@@ -668,7 +671,7 @@ msgstr "Thảo luận"
 #: cms/djangoapps/contentstore/views/component.py:284
 #: lms/templates/video.html:57
 msgid "Video"
-msgstr "Băng hình"
+msgstr "Video"
 
 #: cms/djangoapps/contentstore/views/component.py:285
 msgid "Open Response"
@@ -676,7 +679,7 @@ msgstr "Phản hồi mở"
 
 #: cms/djangoapps/contentstore/views/component.py:286
 msgid "Legacy Library"
-msgstr "Thư viện di sản"
+msgstr "Thư viện cũ"
 
 #: cms/djangoapps/contentstore/views/component.py:289
 msgid "Drag and Drop"
@@ -14087,7 +14090,7 @@ msgstr "Nội dung"
 
 #: wiki/forms.py:49 wiki/forms.py:212
 msgid "Summary"
-msgstr "Bản tóm tắt"
+msgstr "Tổng quan"
 
 #: wiki/forms.py:49
 msgid ""
@@ -14112,7 +14115,7 @@ msgstr "Không có thay đổi nào được thực hiện. Không có gì để
 
 #: wiki/forms.py:207 wiki/templates/wiki/dir.html:55
 msgid "Slug"
-msgstr "sên"
+msgstr "Link ngắn "
 
 #: wiki/forms.py:207
 msgid ""
@@ -15370,7 +15373,7 @@ msgstr "Chính sách tiếp cận Studio"
 #: cms/templates/asset_index.html:10 cms/templates/asset_index.html:28
 #: cms/templates/widgets/header.html:135 cms/templates/widgets/header.html:140
 msgid "Files"
-msgstr "Các tập tin"
+msgstr "Tệp"
 
 #: cms/templates/asset_index.html:27 cms/templates/course_info.html:39
 #: cms/templates/course_outline.html:204 cms/templates/edit-tabs.html:44
@@ -19936,7 +19939,7 @@ msgstr "Đặt lại câu trả lời của bạn"
 
 #: lms/templates/problem.html:50
 msgid "Show answer"
-msgstr "Hiển thị câu trả lời"
+msgstr "Hiển thị đáp án"
 
 #: lms/templates/problem.html:93
 #, python-brace-format
@@ -20060,7 +20063,7 @@ msgstr "Quan trọng!"
 #: lms/templates/seq_block.html:32 lms/templates/seq_block.html:140
 msgctxt "unit"
 msgid "Previous"
-msgstr "Quay lại"
+msgstr "Trước"
 
 #. Translators: A button for showing the Next Unit
 #: lms/templates/seq_block.html:36 lms/templates/seq_block.html:144
@@ -24044,12 +24047,11 @@ msgstr "Thông tin ghi danh"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:14
 msgid "Number of enrollees (admins, staff, and students) by track"
-msgstr ""
-"Số lượng người đăng ký (quản trị viên, nhân viên và sinh viên) theo theo dõi"
+msgstr "Số lượng người ghi danh (quản trị viên, nhân viên và học viên) theo từng hình thức"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:19
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Dự thính"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:22
 msgid "Honor"
@@ -24296,7 +24298,7 @@ msgstr "Nhấp để tạo báo cáo điểm CSV cho tất cả học sinh hiệ
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:98
 msgid "Generate Grade Report"
-msgstr "Tạo báo cáo điểm"
+msgstr "Tạo báo cáo điểm (CSV)"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:99
 msgid "Generate Problem Grade Report"
@@ -24318,12 +24320,12 @@ msgstr "Nhấp để tạo tệp ZIP chứa tất cả văn bản gửi và tệ
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:106
 msgid "Generate Submission Files Archive"
-msgstr "Tạo lưu trữ tệp gửi"
+msgstr "Xuất lưu trữ tệp bài nộp"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:114
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2.html:48
 msgid "Reports Available for Download"
-msgstr "Báo cáo có sẵn để tải xuống"
+msgstr "Các báo cáo có sẵn để tải xuống"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:116
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2.html:50
@@ -24475,11 +24477,11 @@ msgstr "Lý do gia hạn"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:39
 msgid "Change due date for student"
-msgstr "Thay đổi ngày đến hạn của sinh viên"
+msgstr "Thay đổi hạn nộp bài cho học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:45
 msgid "Viewing granted extensions"
-msgstr "Xem các tiện ích mở rộng đã được cấp"
+msgstr "Xem danh sách gia hạn đã cấp"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:47
 msgid ""
@@ -24884,7 +24886,7 @@ msgstr "Thêm người thử nghiệm Beta"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:227
 msgid "Discussion Admins"
-msgstr "Quản trị viên thảo luận"
+msgstr "Điều phối viên thảo luận"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:229
 msgid ""
@@ -25030,7 +25032,7 @@ msgstr "Gửi đến:"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:27
 msgid "Myself"
-msgstr "Riêng tôi"
+msgstr "Tôi (người gửi)"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:31
 msgid "Staff and Administrators"
@@ -25963,7 +25965,7 @@ msgstr "Được kích hoạt"
 
 #: lms/templates/support/feature_based_enrollments.html:67
 msgid "No results found"
-msgstr "không có kết quả nào được tìm thấy"
+msgstr "Không có kết quả"
 
 #: lms/templates/support/manage_user.html:28
 msgid "Student Support: Manage User"
@@ -26709,6 +26711,8 @@ msgstr "Chào mừng bạn đến với trải nghiệm Thư viện Beta hoàn t
 
 msgid "New"
 msgstr "Tạo mới"
+msgid "All courses"
+msgstr "Tất cả khóa học"
 
 msgid "Newest"
 msgstr "Mới nhất"
@@ -27147,3 +27151,643 @@ msgstr "Người khám phá tri thức"
 
 msgid "Enrolled in your first course—keep going!"
 msgstr "Bạn đã ghi danh khóa học đầu tiên — hãy tiếp tục nhé!"
+
+msgid "New course"
+msgstr "Khóa học mới"
+
+msgid "Course name"
+msgstr "Tên khóa học"
+
+msgid "Course number"
+msgstr "Mã khóa học"
+
+msgid "Course overview"
+msgstr "Tổng quan khóa học"
+
+msgid "Course pacing"
+msgstr "Nhịp độ khóa học"
+
+msgid "Course run"
+msgstr "Mã phiên bản khóa học"
+
+msgid "Course short description"
+msgstr "Mô tả ngắn gọn khóa học"
+
+msgid "Course start date"
+msgstr "Ngày bắt đầu khóa học"
+
+msgid "Course start time"
+msgstr "Thời gian bắt đầu khóa học"
+
+msgid "Course subtitle"
+msgstr "Phụ đề khóa học"
+
+msgid "Course summary page"
+msgstr "Trang tóm tắt khóa học"
+
+msgid "Course team"
+msgstr "Nhóm phụ trách khóa học"
+
+msgid "Course schedule"
+msgstr "Lịch học"
+
+msgid "Create a new course"
+msgstr "Tạo khóa học mới"
+
+msgid "Create new library"
+msgstr "Tạo thư viện mới"
+
+msgid "Library ID"
+msgstr "Mã thư viện"
+
+msgid "Library name"
+msgstr "Tên thư viện"
+
+msgid "Collapse all"
+msgstr "Thu gọn tất cả"
+
+msgid "Configure"
+msgstr "Cấu hình"
+
+msgid "Course highlight emails"
+msgstr "Email nổi bật của khóa học"
+
+msgid "Course outline"
+msgstr "Dàn bài khóa học"
+
+msgid "Enabled Learn more"
+msgstr "Đã bật – Tìm hiểu thêm"
+
+msgid "Expand all"
+msgstr "Mở rộng tất cả"
+
+msgid "Instructor-paced"
+msgid "Theo tiến độ của người hướng dẫn"
+
+msgid "Move down"
+msgstr "Di chuyển xuống"
+
+msgid "Move up"
+msgstr "Di chuyển lên"
+
+msgid "New section"
+msgstr "Phần mới"
+
+msgid "Pacing type"
+msgstr "Loại tiến độ"
+
+msgid "Publish"
+msgstr "Xuất bản"
+
+msgid "Released"
+msgstr "Đã phát hành"
+
+msgid "Start date"
+msgstr "Ngày bắt đầu"
+
+msgid "View live"
+msgstr "Xem trực tiếp"
+
+msgid "Discussions enabled"
+msgstr "Thảo luận được bật"
+
+msgid "Draft"
+msgstr "Bản nháp"
+
+msgid "Introduction"
+msgstr "Giới thiệu"
+
+msgid "Add a new component"
+msgid "Thêm thành phần mới"
+
+msgid "Enable discussion"
+msgstr "Bật thảo luận"
+
+msgid "Hide from learners"
+msgstr "Ẩn khỏi người học"
+
+msgid "Problem Bank"
+msgstr "Ngân hàng câu hỏi"
+
+msgid "Topics for unpublished units will not be created"
+msgstr "Chủ đề cho các mục chưa xuất bản sẽ không được tạo"
+
+msgid "Unit settings"
+msgstr "Cài đặt mục"
+
+msgid "Unit visibility"
+msgstr "Hiển thị mục"
+
+msgid "View live version"
+msgstr "Xem phiên bản trực tiếp"
+
+msgid "Select"
+msgstr "Lựa chọn"
+
+msgid "Search for a library"
+msgstr "Tìm kiếm trong thư viện"
+
+msgid "Select unit"
+msgstr "Lựa chọn mục"
+
+msgid "New Subsection"
+msgstr "Tiểu mục mới"
+
+msgid "Add first update"
+msgstr "Thêm cập nhật đầu tiên"
+
+msgid "Course handouts"
+msgstr "Tài liệu khóa học"
+
+msgid "Course updates"
+msgstr "Cập nhật khóa học"
+
+msgid "Edit handouts"
+msgstr "Chỉnh sửa tài liệu khóa học"
+
+msgid "New update"
+msgstr "Cập nhật mới"
+
+msgid "Access"
+msgstr "Quyền truy cập"
+
+msgid "Add files"
+msgstr "Thêm tệp"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "Audio"
+msgstr "Âm thanh"
+
+msgid "Clear all"
+msgstr "Xóa tất cả"
+
+msgid "Course image"
+msgstr "Ảnh khóa học"
+
+msgid "Documents"
+msgstr "Các tài liệu"
+
+msgid "File name"
+msgstr "Tên tệp"
+
+msgid "File size (High to low)"
+msgstr "Kích thước tệp (Lớn đến nhỏ)"
+
+msgid "File size (Low to high)"
+msgstr "Kích thước tệp (Nhỏ đến lớn)"
+
+msgid "Filter by"
+msgstr "Lọc theo"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Locked"
+msgstr "Đã khóa"
+
+msgid "Name (A–Z)"
+msgstr "Tên (A–Z)"
+
+msgid "Public"
+msgstr "Công khai"
+
+msgid "Search file name"
+msgstr "Tìm kiếm tên tệp"
+
+msgid "Showing 2 of 2"
+msgstr "Hiển thị 2 của 2"
+
+msgid "Sort and Filter"
+msgstr "Sắp xếp và lọc"
+
+msgid "Add learning outcome"
+msgstr "Thêm mục tiêu học tập"
+
+msgid "Advanced settings"
+msgstr "Cài đặt nâng cao"
+
+msgid "Appears on the course catalog page when students roll over the course name"
+msgstr "Hiển thị trên trang danh mục khóa học khi học viên di chuột qua tên khóa"
+
+msgid "Basic information"
+msgstr "Thông tin cơ bản"
+
+msgid "Certificate display behavior"
+msgstr "Cách hiển thị chứng chỉ"
+
+msgid "Course introduction video"
+msgstr "Video giới thiệu khóa học"
+
+msgid "Course language"
+msgstr "Ngôn ngữ khóa học"
+
+msgid "Delete current video"
+msgstr "Xóa video hiện tại"
+
+msgid "Displayed as subtitle on the course details page"
+msgstr "Hiển thị như phụ đề trên trang chi tiết khóa học"
+
+msgid "Displayed as title on the course details page"
+msgstr "Hiển thị là tiêu đề trên trang chi tiết khóa học"
+
+msgid "Displayed on the course details page"
+msgstr "Hiển thị trên trang chi tiết khóa học"
+
+msgid "Enrollment end date"
+msgstr "Ngày kết thúc ghi danh"
+
+msgid "Enrollment end time"
+msgstr "Thời gian kết thúc ghi danh"
+
+msgid "Enrollment start date"
+msgstr "Ngày bắt đầu ghi danh"
+
+msgid "Enrollment start time"
+msgstr "Thời gian bắt đầu ghi danh"
+
+msgid "Enter your YouTube video ID (along with any restriction parameters)"
+msgstr "Nhập ID video YouTube của bạn (kèm tham số hạn chế nếu có)"
+
+msgid "Entrance exam"
+msgstr "Bài kiểm tra đầu vào"
+
+msgid "For student enrollment and access"
+msgstr "Dành cho học viên ghi danh và truy cập"
+
+msgid "Group configurations"
+msgstr "Cấu hình nhóm"
+
+msgid "Hours of effort per week"
+msgstr "Số giờ học mỗi tuần"
+
+msgid "How are these settings used?"
+msgstr "Các cài đặt này được sử dụng như thế nào?"
+
+msgid "Identify the course language here"
+msgstr "Xác định ngôn ngữ của khóa học tại đây"
+
+msgid "Introducing your course"
+msgstr "Giới thiệu khóa học"
+
+msgid "Last day students can enroll"
+msgstr "Ngày cuối cùng học viên có thể ghi danh"
+
+msgid "AutoCAD & SolidWorks: 3D Design for Beginners"
+msgstr "AutoCAD & SolidWorks: Thiết kế 3D cho người mới bắt đầu"
+
+msgid "Confirm Unenrollment"
+msgstr "Xác nhận hủy ghi danh"
+
+msgid "Digital Marketing & Growth"
+msgstr "Digital Marketing & Phát triển tăng trưởng"
+
+msgid "Explore course topics"
+msgstr "Khám phá chủ đề khóa học"
+
+msgid "Hello there! Let's learn something today"
+msgstr "Xin chào! Hôm nay chúng ta hãy cùng học điều gì đó nhé."
+
+msgid "Resume course emails"
+msgstr "Tiếp tục nhận email khóa học"
+
+msgid "Training Course"
+msgstr "Khóa đào tạo"
+
+msgid "Begin your course today"
+msgstr "Bắt đầu khóa học của bạn hôm nay"
+
+
+msgid "Course Tools"
+msgstr "Công cụ khóa học"
+
+msgid "Inittial Training due"
+msgstr "Đến hạn đào tạo ban đầu"
+
+msgid "Launch tour"
+msgstr "Bắt đầu hướng dẫn"
+
+msgid "Pick up where you left off"
+msgstr "Tiếp tục từ nơi bạn đã dừng lại"
+
+msgid "Resume course"
+msgstr "Tiếp tục khóa học"
+
+msgid "Start course"
+msgstr "Bắt đầu khóa học"
+
+msgid "Subsetion"
+msgstr "Tiểu mục"
+
+msgid "Subsection (2 Questions)"
+msgstr "Tiểu mục (2 câu hỏi)"
+
+msgid "Username or email"
+msgstr "Tên người dùng hoặc email"
+
+msgid "View course in Studio"
+msgstr "Xem khóa học trong Studio"
+
+msgid "View this course as"
+msgstr "Xem khóa học với vai trò"
+
+msgid "Welcome notes"
+msgstr "Lời chào mừng"
+
+msgid "Introduction Notes will be here"
+msgstr "Ghi chú giới thiệu sẽ hiển thị tại đây"
+
+msgid "Staff debug info"
+msgstr "Thông tin gỡ lỗi dành cho nhân viên"
+
+msgid "...point possible (graded)"
+msgstr "...điểm có thể đạt được (tính điểm)"
+
+msgid "Multi - select"
+msgstr "Nhiều lựa chọn"
+
+msgid "No playable video source found"
+msgstr "Không tìm thấy nguồn video"
+
+msgid "Points (graded)"
+msgstr "Điểm (tính điểm)"
+
+msgid "Submission hisstory"
+msgstr "Lịch sử nộp bài"
+
+msgid "Your question text will be here?"    
+msgstr "Nội dung câu hỏi sẽ hiển thị tại đây?"
+
+msgid "Course Ends"
+msgstr "Khóa học kết thúc"
+
+msgid "Course Starts"
+msgstr "Khóa học bắt đầu"
+
+msgid "Today"
+msgstr "Hôm nay"
+
+msgid "Add a post"
+msgstr "Thêm bài đăng"
+
+msgid "All learners sorted by most activity"
+msgstr "Tất cả người học được sắp xếp theo mức độ hoạt động nhiều nhất"
+
+msgid "All posts"
+msgstr "Tất cả bài đăng"
+
+msgid "Learners"
+msgstr "Học viên"
+
+msgid "Most activity"
+msgstr "Hoạt động nhiều nhất"
+
+msgid "My posts"
+msgstr "Bài đăng của tôi"
+
+msgid "Recent activity"
+msgstr "Hoạt động gần đây"
+
+msgid "NOTES"
+msgstr "Ghi chú"
+
+msgid "View notes by"
+msgstr "Xem ghi chú theo"
+
+msgid "Cheatsheet"
+msgstr "Ghi chú nhanh"
+
+msgid "Delete Article"
+msgstr "Xóa bài viết"
+
+msgid "Deny all users access to edit"
+msgstr "Từ chối quyền chỉnh sửa với tất cả người dùng"
+
+msgid "Group read access"
+msgstr "Quyền đọc theo nhóm"
+
+msgid "Group write access"
+msgstr "Quyền ghi theo nhóm"
+
+msgid "Others read access"
+msgstr "Quyền đọc của người khác"
+
+msgid "Others write access"
+msgstr "Quyền ghi của người khác"
+
+msgid "Enroll Information"
+msgstr "Thông tin ghi danh"
+
+msgid "Grade Cutoffs"
+msgstr "Ngưỡng điểm"
+
+msgid "Has the course started/ended?"
+msgstr "Khóa học đã bắt đầu/kết thúc?"
+
+msgid "Number of sections"
+msgstr "Số lượng phần"
+
+msgid "Add limited staff"
+msgstr "Thêm nhân sự giới hạn"
+
+msgid "Limited staff"
+msgstr "Nhân sự giới hạn"
+
+msgid "Select a course team role"
+msgstr "Chọn vai trò trong nhóm khóa học"
+
+msgid "Select a Content Group (Not selected)"
+msgstr "Chọn một nhóm nội dung (Chưa chọn)"
+
+msgid "Specify the Starlent email address or username of a student here:"
+msgstr "Nhập email hoặc tên đăng nhập Starlent của học viên tại đây:"
+
+msgid "Specify the extension due date and time (in UTC)"
+msgstr "Chỉ định ngày và giờ gia hạn hạn nộp (theo UTC)"
+
+msgid "Choose a graded subsection"
+msgstr "Chọn một tiểu mục được chấm điểm"
+
+msgid "Specify a student to see all of that student's extensions:"
+msgstr "Chỉ định một học viên để xem tất cả các gia hạn của học viên đó:"
+
+msgid "Learner's Starlent email address or username"
+msgstr "Email hoặc tên đăng nhập Starlent của học viên"
+
+msgid "Attempts – Allow a learner who has used up all attempts to work on the problem again."
+msgstr "Lượt làm lại – Cho phép học viên đã dùng hết số lượt được phép làm bài có thể làm lại"
+
+msgid "Rescore – Rescore the learner's responses (+ Rescore Only If Score Improves option)"
+msgstr "Chấm lại – Chấm lại câu trả lời của học viên (+ tùy chọn "Chỉ chấm lại nếu điểm tăng")"
+
+msgid "Problem History – permanently delete learner’s answers & scores"
+msgstr "Lịch sử bài tập – Xóa vĩnh viễn câu trả lời và điểm của học viên khỏi hệ thống"
+
+msgid "Task Status – Show the status of rescoring tasks submitted"
+msgstr "Trạng thái tác vụ – Hiển thị trạng thái của các tác vụ chấm lại đã gửi cho học viên"
+
+msgid "Attempts – Allows all learners to work on the problem again"
+msgstr "Lượt làm lại – Cho phép tất cả học viên làm lại bài"
+
+msgid "Rescore – Rescore submitted responses (+ Rescore Only If Scores Improve option)"
+msgstr "Chấm lại – Chấm lại bài đã nộp (+ tùy chọn "Chỉ chấm lại nếu điểm tăng")"
+
+msgid "Task Status – Show status of the tasks submitted"
+msgstr "Trạng thái tác vụ – Hiển thị trạng thái của các tác vụ đã gửi cho bài"
+
+msgid "List enrolled students’ profile information"
+msgstr "Xem thông tin hồ sơ học viên đã ghi danh trên trang"
+
+msgid "Send an email"
+msgstr "Gửi email"
+
+msgid "Send to"
+msgstr "Gửi đến"
+
+msgid "Staff/Administrators"
+msgstr "Nhân sự / Quản trị viên"
+
+msgid "Cohort: Group 1/ Group 2 Cohort"
+msgstr "Nhóm học: Nhóm 1 / Nhóm 2"
+
+msgid "Cohort: Default Group"
+msgstr "Nhóm học: Nhóm mặc định"
+
+msgid "All Learners"
+msgstr "Tất cả học viên"
+
+msgid "Body (Maximum 128 characters)"
+msgstr "Nội dung (tối đa 128 ký tự)"
+
+msgid "Schedule this email for a future date"
+msgstr "Lên lịch gửi email vào ngày khác"
+
+msgid "Scheduled emails"
+msgstr "Email đã lên lịch"
+
+msgid "Send date"
+msgstr "Ngày gửi"
+
+msgid "View the content of previously sent emails"
+msgstr "Xem nội dung của các email đã gửi trước đó"
+
+msgid "View the status for all email tasks created for this course"
+msgstr "Xem trạng thái tất cả tác vụ email đã tạo cho khóa học này"
+
+msgid "Pending tasks has moved"
+msgstr "Tác vụ đang chờ xử lý đã được chuyển"
+
+msgid "Add Allowance"
+msgstr "Thêm ưu tiên mới"
+
+msgid "Add Usernames or Emails separated by commas"
+msgstr "Thêm tên người dùng hoặc email, phân tách bằng dấu phẩy"
+
+msgid "Select Exam Type"
+msgstr "Chọn loại bài thi"
+
+msgid "Select Exams"
+msgstr "Chọn bài thi"
+
+msgid "Allowance Type"
+msgstr "Loại miễn trừ"
+
+msgid "Create Allowance"
+msgstr "Thêm miễn trừ mới"
+
+msgid "View dashboards in Superset"
+msgstr "Xem bảng điều khiển trong Superset"
+
+msgid "Active Within Last 7 Days"
+msgstr "Hoạt động trong 7 ngày gần nhất"
+
+msgid "Avg Course Grade %"
+msgstr "Điểm trung bình khóa học (%)"
+
+msgid "Course Dashboard"
+msgstr "Bảng điều khiển khóa học"
+
+msgid "Course Information"
+msgstr "Thông tin khóa học"
+
+msgid "Cumulative Enrollments by Track"
+msgstr "Tổng lượt ghi danh tích lũy theo nhóm đăng ký"
+
+msgid "Current Enrollees"
+msgstr "Số người ghi danh hiện tại"
+
+msgid "Enrollees per Enrollment Track"
+msgstr "Số lượng ghi danh theo từng nhóm đăng ký"
+
+msgid "Engagement"
+msgstr "Tương tác"
+
+msgid "Median Course Grade %"
+msgstr "Điểm trung vị của khóa học (%)"
+
+msgid "Number of Learners"
+msgstr "Số lượng học viên"
+
+msgid "Last Visit Date"
+msgstr "Ngày truy cập gần nhất"
+
+msgid "Course Grade %"
+msgstr "Điểm khóa học (%)"
+
+msgid "Enrollment Status"
+msgstr "Trạng thái ghi danh"
+
+msgid "Enrollment Track"
+msgstr "Hình thức ghi danh"
+
+msgid "Grade Range"
+msgstr "Khoảng điểm"
+
+msgid "Last Visited"
+msgstr "Lần truy cập gần nhất"
+
+msgid "Learner Summary"
+msgstr "Tổng quan người học"
+
+msgid "Page Engagement per Section/Subsection"
+msgstr "Mức độ tương tác trang theo Phần/Chương"
+
+msgid "Passed/Failed"
+msgstr "Đã đạt / Không đạt"
+
+msgid "Problems"
+msgstr "Câu hỏi"
+
+msgid "Show All entries"
+msgstr "Hiển thị tất cả mục"
+
+msgid "Viewed All Pages"
+msgstr "Đã xem tất cả trang"
+
+msgid "Viewed At Least One Page"
+msgstr "Đã xem ít nhất một trang"
+
+msgid "My Order History"
+msgstr "Lịch sử đơn hàng của tôi"
+
+msgid "Sr No"
+msgstr "Số thứ tự"
+
+msgid "Plan"
+msgstr "Gói dịch vụ"
+
+msgid "Amount"
+msgstr "Số tiền"
+
+msgid "Receipt"
+msgstr "Hóa đơn"
+
+msgid "No active progress on any badge yet."
+msgstr "Chưa có huy hiệu nào đang được thực hiện"
+
+msgid "Badges in Progress"
+msgstr "Huy hiệu đang mở khóa"
+
+msgid "Welcome Aboard!"
+msgstr "Thành viên mới!"

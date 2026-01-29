@@ -274,7 +274,7 @@ msgstr "Mục"
 #: cms/djangoapps/contentstore/helpers.py:218
 #: cms/djangoapps/contentstore/views/component.py:283
 msgid "Problem"
-msgstr "Vấn đề"
+msgstr "Câu hỏi"
 
 #: cms/djangoapps/contentstore/helpers.py:220
 #: cms/djangoapps/contentstore/views/component.py:287
@@ -426,7 +426,7 @@ msgstr "{previous_groups} , {current_group}"
 #: cms/djangoapps/contentstore/views/block.py:277
 #: cms/djangoapps/contentstore/views/component.py:282 xmodule/html_block.py:61
 msgid "Text"
-msgstr "Chữ"
+msgstr "Văn bản"
 
 #: cms/djangoapps/contentstore/utils.py:1283
 #, python-brace-format
@@ -698,7 +698,7 @@ msgstr "Vấn đề trống"
 #: cms/djangoapps/contentstore/views/component.py:462
 #: xmodule/video_block/video_block.py:154
 msgid "Advanced"
-msgstr "Trình độ cao"
+msgstr "Gói nâng cao"
 
 #: cms/djangoapps/contentstore/views/course.py:355
 msgid "Course has been successfully reindexed."
@@ -709,7 +709,7 @@ msgid ""
 "Special characters not allowed in organization, course number, and course "
 "run."
 msgstr ""
-"Các ký tự đặc biệt không được phép trong tổ chức, số khóa học và thời gian "
+"Các ký tự đặc biệt không được phép trong tổ chức, mã khóa học và thời gian "
 "chạy khóa học."
 
 #: cms/djangoapps/contentstore/views/course.py:920
@@ -718,13 +718,13 @@ msgid ""
 "number. Please change either organization or course number to be unique."
 msgstr ""
 "Đã có một khóa học được xác định với cùng tổ chức và Mã khóa học. Vui "
-"lòng thay đổi tổ chức hoặc số khóa học thành duy nhất."
+"lòng thay đổi tổ chức hoặc mã khóa học thành duy nhất."
 
 #: cms/djangoapps/contentstore/views/course.py:925
 #: cms/djangoapps/contentstore/views/course.py:928
 msgid ""
 "Please change either the organization or course number so that it is unique."
-msgstr "Vui lòng thay đổi tổ chức hoặc số khóa học để nó là duy nhất."
+msgstr "Vui lòng thay đổi tổ chức hoặc mã khóa học để nó là duy nhất."
 
 #: cms/djangoapps/contentstore/views/course.py:933
 #, python-brace-format
@@ -4367,7 +4367,7 @@ msgid ""
 "3. Check your email, please allow 4 weeks for your application to be processed."
 msgstr ""
 "Chúng tôi dự định sử dụng thông tin này để đánh giá đơn xin hỗ trợ tài chính của bạn và phát triển thêm chương trình hỗ trợ tài chính của chúng tôi.\n"
-" Xin lưu ý rằng mặc dù hỗ trợ có sẵn trong hầu hết các khóa học cung cấp chứng chỉ đã xác minh, một số khóa học và chương trình không đủ điều kiện. Bạn phải hoàn thành một đơn đăng ký riêng cho mỗi khóa học bạn tham gia. Bạn có thể được chấp thuận hỗ trợ tài chính năm (5) lần mỗi năm (dựa trên khoảng thời gian 12 tháng kể từ lần chấp thuận đầu tiên của bạn).\n"
+" Xin lưu ý rằng mặc dù hỗ trợ có sẵn trong hầu hết các khóa học cung cấp chứng chỉ đã xác minh, một mã khóa học và chương trình không đủ điều kiện. Bạn phải hoàn thành một đơn đăng ký riêng cho mỗi khóa học bạn tham gia. Bạn có thể được chấp thuận hỗ trợ tài chính năm (5) lần mỗi năm (dựa trên khoảng thời gian 12 tháng kể từ lần chấp thuận đầu tiên của bạn).\n"
 " Để nộp đơn xin hỗ trợ tài chính:\n"
 " 1. Đăng ký vào chương trình kiểm toán cho một khóa học đủ điều kiện cung cấp Chứng chỉ đã xác minh.\n"
 " 2. Hoàn tất đơn đăng ký này.\n"
@@ -5872,7 +5872,7 @@ msgid ""
 msgstr ""
 "Khi được chọn, nội dung LTI sẽ chỉ tải đối với những người học có tài khoản "
 "trong trường hợp này. Điều này chỉ được yêu cầu để liên kết tài khoản người "
-"học với người tiêu dùng LTI. Xem tài liệu Open edX LTI Provider để biết thêm"
+"học với Hệ thống tiếp nhận LTI. Xem tài liệu Open edX LTI Provider để biết thêm"
 " chi tiết."
 
 #: lms/djangoapps/program_enrollments/models.py:57
@@ -10854,7 +10854,7 @@ msgstr "Thả xuống"
 #: cms/templates/widgets/problem-edit.html:54
 #: cms/templates/widgets/problem-edit.html:131
 msgid "Numerical Input"
-msgstr "Đầu vào số"
+msgstr "Nhập số"
 
 #: xmodule/capa/responsetypes.py:1536 xmodule/capa/responsetypes.py:1568
 msgid "There was a problem with the staff answer to this problem."
@@ -12162,7 +12162,7 @@ msgstr ""
 
 #: xmodule/course_block.py:719
 msgid "Course Number Display String"
-msgstr "Chuỗi hiển thị số khóa học"
+msgstr "Chuỗi hiển thị mã khóa học"
 
 #: xmodule/course_block.py:721
 msgid ""
@@ -12171,8 +12171,8 @@ msgid ""
 " use the course number that you entered when you created the course, enter "
 "null."
 msgstr ""
-"Nhập số khóa học mà bạn muốn xuất hiện trong khóa học. Cài đặt này sẽ ghi đè"
-" số khóa học mà bạn đã nhập khi tạo khóa học. Để sử dụng Mã khóa học bạn "
+"Nhập mã khóa học mà bạn muốn xuất hiện trong khóa học. Cài đặt này sẽ ghi đè"
+" mã khóa học mà bạn đã nhập khi tạo khóa học. Để sử dụng Mã khóa học bạn "
 "đã nhập khi tạo khóa học, hãy nhập null."
 
 #: xmodule/course_block.py:730
@@ -15430,8 +15430,8 @@ msgid ""
 "To view a sample certificate, choose a course mode and select "
 "{em_start}Preview Certificate{em_end}."
 msgstr ""
-"Để xem chứng chỉ mẫu, hãy chọn chế độ khóa học và chọn {em_start} Chứng chỉ "
-"xem trước {em_end} ."
+"Để xem chứng chỉ mẫu, hãy chọn chế độ khóa học và chọn {em_start} Xem trước "
+"Chứng chỉ {em_end} ."
 
 #: cms/templates/certificates.html:97
 msgid "Issuing Certificates to Learners"
@@ -18659,9 +18659,7 @@ msgstr "Quy tắc & chính sách chấm điểm"
 
 #: cms/templates/settings_graders.html:116
 msgid "Deadlines, requirements, and logistics around grading student work"
-msgstr ""
-"Thời hạn, yêu cầu và hậu cần liên quan đến việc chấm điểm bài tập của học "
-"sinh"
+msgstr "Thời hạn, yêu cầu và quy định liên quan đến việc chấm điểm"
 
 #: cms/templates/settings_graders.html:121
 msgid "Grace Period on Deadline:"
@@ -18757,7 +18755,7 @@ msgstr "Quản lý thẻ"
 
 #: cms/templates/studio_xblock_wrapper.html:191
 msgid "Copy to Clipboard"
-msgstr "Sao chép vào clipboard"
+msgstr "Sao chép vào bộ nhớ lưu trữ tạm thời"
 
 #: cms/templates/studio_xblock_wrapper.html:217
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:169
@@ -19478,7 +19476,7 @@ msgstr "Xem tất cả khóa học"
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr "bảng điều khiển"
+msgstr "Bảng điều khiển"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -20076,11 +20074,11 @@ msgstr "Sự liên tiếp"
 
 #: lms/templates/seq_block.html:91
 msgid "New Unit"
-msgstr "Mục mới"
+msgstr "Đơn vị mới"
 
 #: lms/templates/seq_block.html:97
 msgid "Paste as new unit"
-msgstr "Dán làm mục mới"
+msgstr "Dán làm đơn vị mới"
 
 #: lms/templates/signup_modal.html:27
 #, python-brace-format
@@ -24055,7 +24053,7 @@ msgstr "Kiểm toán"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:22
 msgid "Honor"
-msgstr "Danh dự"
+msgstr "Danh dự / chứng chỉ danh dự"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:25
 msgid "Professional"
@@ -26630,3 +26628,522 @@ msgstr "Yêu cầu tư vấn"
 
 msgid "Request a Personalized Consultation"
 msgstr "Yêu cầu tư vấn chuyên sâu"
+
+msgid "Abbreviation"
+msgstr "Tên viết tắt"
+
+msgid "Assignment type name"
+msgstr "Tên loại bài tập"
+
+msgid "Final Exam"
+msgstr "Bài thi cuối kỳ"
+
+msgid "Number of droppable"
+msgstr "Số lượng bài có thể bỏ"
+
+msgid "The number of Final Exam assignments in the course matches the number defined here"
+msgstr "Số lượng bài thi cuối kỳ trong khóa học khớp với số lượng đã được thiết lập"
+
+msgid "Total Number"
+msgstr "Tổng số"
+
+msgid "Weight of total grade"
+msgstr "Trọng số trong tổng điểm"
+
+msgid "Add a user"
+msgstr "Thêm người dùng"
+
+msgid "Promote another member to Admin to remove your admin rights"
+msgstr "Chỉ định thành viên khác làm quản trị viên để xóa quyền admin của bạn"
+
+msgid "User’s email address"
+msgstr "Địa chỉ email của người dùng"
+
+msgid "New content group"
+msgstr "Nhóm nội dung mới"
+
+msgid "Not in use"
+msgstr "Chưa sử dụng"
+
+msgid "Certificate details"
+msgstr "Chi tiết chứng chỉ"
+
+msgid "Certificate signatories"
+msgstr "Người ký chứng chỉ"
+
+msgid "Deactivate"
+msgstr "Hủy kích hoạt"
+
+msgid "Director"
+msgstr "Giám đốc"
+
+msgid "Print View"
+msgstr "Chế độ xem in"
+
+msgid "Signatory..."
+msgstr "Người ký số..."
+
+msgid "Click to upload"
+msgstr "Nhấn để tải tệp lên"
+
+msgid "Drag and drop your file here"
+msgstr "Kéo và thả tệp của bạn vào đây"
+
+msgid "Import operation has completed"
+msgstr "Thao tác nhập đã hoàn tất"
+
+msgid "Upload files"
+msgstr "Tải tệp lên"
+
+msgid "Data exported with your course"
+msgstr "Dữ liệu được xuất kèm khóa học"
+
+msgid "Data not exported with your course"
+msgstr "Dữ liệu không được xuất kèm khóa học"
+
+msgid "Launch checklist"
+msgstr "Danh sách kiểm tra khởi chạy"
+
+msgid "Welcome to the new Beta Libraries experience! Libraries have been redesigned from the ground up, making it much easier to reuse and remix course content. The new Libraries space lets you create, organize and manage new content; reuse your content in as many courses as you'd like; sync updates centrally; and create and randomize problem sets. See Libraries v2 tutorial for details."
+msgstr "Chào mừng bạn đến với trải nghiệm Thư viện Beta hoàn toàn mới! Thư viện đã được thiết kế lại từ đầu, giúp việc tái sử dụng và điều chỉnh lại nội dung khóa học trở nên dễ dàng hơn nhiều. Không gian Thư viện mới cho phép bạn tạo, sắp xếp và quản lý nội dung mới; sử dụng lại nội dung của bạn trong nhiều khóa học tùy thích; đồng bộ hóa các bản cập nhật tập trung; và tạo cũng như sắp xếp ngẫu nhiên các bộ bài tập. Xem hướng dẫn Thư viện v2 để biết thêm chi tiết."
+
+msgid "New"
+msgstr "Tạo mới"
+
+msgid "Newest"
+msgstr "Mới nhất"
+
+msgid "Oldest"
+msgstr "Cũ nhất"
+
+msgid "All content"
+msgstr "Tất cả nội dung"
+
+msgid "Collections"
+msgstr "Bộ sưu tập"
+
+msgid "Components"
+msgstr "Thành phần"
+
+msgid "Units"
+msgstr "Đơn vị"
+
+msgid "Publish Status"
+msgstr "Trạng thái xuất bản"
+
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
+msgid "Recently Modified"
+msgstr "Chỉnh sửa gần đây"
+
+msgid "Recently Published"
+msgstr "Xuất bản gần đây"
+
+msgid "Title, A–Z"
+msgstr "Tiêu đề, A–Z"
+
+msgid "Title, Z–A"
+msgstr "Tiêu đề, Z–A"
+
+msgid "Add to collection"
+msgstr "Thêm vào bộ sưu tập"
+
+msgid "Unpublished changes"
+msgstr "Những thay đổi chưa được xuất bản"
+
+msgid "Exit the editor?"
+msgstr "Thoát khỏi trình chỉnh sửa?"
+
+msgid "Are you sure you want to exit the editor? Any unsaved changes will be lost."
+msgstr "Bạn có chắc chắn muốn thoát khỏi trình chỉnh sửa? Mọi thay đổi chưa được lưu sẽ bị mất."
+
+msgid "Discard changes and exits"
+msgstr "Xóa các chỉnh sửa và thoát"
+
+msgid "Keep editing"
+msgstr "Tiếp tục chỉnh sửa"
+
+msgid "Edit component"
+msgstr "Chỉnh sửa thành phần"
+
+msgid "Publish component"
+msgstr "Xuất bản thành phần"
+
+msgid "Publish component"
+msgstr "Xuất bản thành phần"
+
+msgid "Expand"
+msgstr "Mở rộng"
+
+msgid "Drag drop"
+msgstr "Kéo thả"
+
+msgid "Advanced/other"
+msgstr "Nâng cao/ Khác"
+
+msgid "New collection"
+msgstr "Bộ sưu tập mới"
+
+msgid "Name your collection"
+msgstr "Tên bộ sưu tập"
+
+msgid "Give a descriptive title"
+msgstr "Đặt tên"
+
+msgid "Collection name is required"
+msgstr "Tên bộ sưu tập là bắt buộc"
+
+msgid "Add a description (optional)"
+msgstr "Thêm mô tả (Tùy chọn)"
+
+msgid "Add description"
+msgstr "Thêm mô tả"
+
+msgid "Descriptions can help you and your team better organize and find what you are looking for"
+msgstr "Mô tả chi tiết có thể giúp bạn và nhóm của bạn tổ chức và tìm kiếm những gì mình cần tốt hơn."
+
+msgid "Name your unit"
+msgstr "Tên đơn vị"
+
+msgid "Single Select"
+msgstr "Một đáp án"
+
+msgid "Single select problem"
+msgstr "Câu hỏi chọn một đáp án"
+
+msgid "Learners must select the correct answer from a list of possible options."
+msgstr "Người học phải chọn đáp án đúng từ các lựa chọn"
+
+msgid "Multi-select"
+msgstr "Nhiều đáp án"
+
+msgid "Multi-select problem"
+msgstr "Câu hỏi chọn nhiều đáp án"
+
+msgid "Dropdown problem"
+msgstr "Câu hỏi thả xuống"
+
+msgid "Numerical input problem"
+msgstr "Câu hỏi nhập số"
+
+msgid "Specify one or more correct numeric answers, submitted in a response field."
+msgstr "Hãy nhập số chính xác vào ô trả lời"
+
+msgid "Text input problem"
+msgstr "Nhập văn bản câu hỏi"
+
+msgid "Specify one or more correct text answers, including numbers and special characters, submitted in a response field."
+msgstr "Nhập câu trả lời đúng gồm cả số và ký tự đặc biệt vào ô trả lời"
+
+msgid "Advanced problems type"
+msgstr "Các loại câu hỏi nâng cao"
+
+msgid "Add content"
+msgstr "Thêm nội dung"
+
+msgid "Back to List"
+msgstr "Quay lại danh sách"
+
+msgid "Completion"
+msgstr "Điền vào chỗ trống"
+
+msgid "Google Calendar"
+msgstr "Lịch Google"
+
+msgid "Google Document"
+msgstr "Tài liệu Google"
+
+msgid "LTI (Learning Tools Interoperability)"
+msgstr "Tích hợp công cụ học tập"
+
+msgid "LTI Consumer"
+msgstr "Hệ thống tiếp nhận LTI"
+
+msgid "Poll"
+msgstr "Thăm dò ý kiến"
+
+msgid "Staff Graded Assignment"
+msgstr "Bài tập chấm điểm bởi nhân viên"
+
+msgid "Word Cloud"
+msgstr "Đám mây từ khóa"
+
+msgid "Choose Your Subscription Plan"
+msgstr "Chọn gói đăng ký của bạn"
+
+msgid "My Current Subscription"
+msgstr "Gói đăng ký của tôi"
+
+msgid "Team Subscription1"
+msgstr "Gói nhóm"
+
+msgid "days"
+msgstr "ngày"
+
+msgid "Access to premium courses"
+msgstr "Quyền truy cập vào các khóa học cao cấp"
+
+msgid "Earn certificates of completion (watermarked or without verifiable ID)"
+msgstr "Nhận chứng chỉ hoàn thành khóa học (có watermark hoặc không xác minh danh tính)"
+
+msgid "Access to discussion forums"
+msgstr "Quyền truy cập vào diễn đàn thảo luận"
+
+msgid "Progress tracking and bookmarks"
+msgstr "Theo dõi tiến độ và đánh dấu trang"
+
+msgid "Mobile app access"
+msgstr "Truy cập ứng dụng di động"
+
+msgid "Community support"
+msgstr "Hỗ trợ cộng đồng"
+
+msgid "Unlimited access to the entire course catalog (including premium & new courses)"
+msgstr "Truy cập không giới hạn vào toàn bộ danh mục khóa học (bao gồm cả các khóa học cao cấp và khóa học mới)"
+
+msgid "Chứng chỉ xác minh danh tính (với ID & QR code riêng)"
+msgstr "Hỗ trợ ưu tiên (phản hồi qua email trong vòng 24 giờ)"
+
+msgid "Downloadable course videos & materials"
+msgstr "Được tải Video & tài liệu khóa học"
+
+msgid "Ad-free learning experience"
+msgstr "Trải nghiệm học tập không có quảng cáo"
+
+msgid "Monthly live Q&A sessions with instructors"
+msgstr "Các buổi hỏi đáp trực tiếp hàng tháng với người hướng dẫn"
+
+msgid "Access to exclusive Pro-only content & pathways"
+msgstr "Truy cập vào nội dung và lộ trình độc quyền chỉ dành cho thành viên trả phí"
+
+msgid "My Subsription"
+msgstr "Gói đăng ký của tôi"
+
+msgid "ACTIVE PLAN"
+msgstr "Gói đã đăng ký"
+
+msgid "Expires"
+msgstr "Ngày hết hạn"
+
+msgid "50 days remaining"
+msgstr "còn lại 50 ngày"
+
+msgid "Your Benefits"
+msgstr "Lợi ích của bạn"
+
+msgid "View All Plans"
+msgstr "Xem tất cả gói dịch vụ"
+
+msgid "Share your details and our LMS experts will get in touch to understand your needs and guide you further."
+msgstr "Hãy để lại thông tin, các chuyên gia LMS của chúng tôi sẽ liên hệ để tìm hiểu nhu cầu và tư vấn giải pháp phù hợp nhất cho bạn."
+
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+msgid "Preferred Date"
+msgstr "Ngày liên hệ"
+
+msgid "Preferred Time"
+msgstr "Thời gian liên hệ"
+
+msgid "Message (Optional)"
+msgstr "Nội dung trao đổi (Không bắt buộc)"
+
+msgid "Book Consultation"
+msgstr "Đặt lịch tư vấn"
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Khai phá tiềm năng của bạn: Khám phá khóa học mới hôm nay!"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Khám phá thế giới tri thức và nâng cao kỹ năng của bạn với các khóa học đa dạng"
+
+msgid "Search courses"
+msgstr "Tìm kiếm khóa học"
+
+msgid "Filters"
+msgstr "Bộ lọc"
+
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "Vietnamese "
+msgstr "Tiếng Việt"
+
+msgid "Industry"
+msgstr "Ngành nghề"
+
+msgid "IT"
+msgstr "Công nghệ thông tin"
+
+msgid "Digital Marketing"
+msgstr "Digital Marketing"
+
+msgid "Business & Entrepreneurship "
+msgstr "Kinh doanh và khởi nghiệp"
+
+msgid "Topic"
+msgstr "Chủ đề"
+
+msgid "Web Development"
+msgstr "Phát triển web"
+
+msgid "Mobile App Development"
+msgstr "Phát triển App điện thoại"
+
+msgid "Cybersecurity"
+msgstr "An ninh mạng"
+
+msgid "Content Marketing"
+msgstr "Content Marketing"
+
+msgid "Product Management "
+msgstr "Quản lý sản phẩm"
+
+msgid "Skill"
+msgstr "Kỹ năng"
+
+msgid "AWS"
+msgstr "Dịch vụ Web Amazon"
+
+msgid "Figma"
+msgstr "Figma"
+
+msgid "Google Analytics "
+msgstr "Công cụ phân tích của Google"
+
+msgid "Financial Modeling"
+msgstr "Mô hình tài chính"
+
+msgid "Communicate"
+msgstr "Giao tiếp"
+
+msgid "TensorFlow "
+msgstr "TensorFlow "
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "Level"
+msgstr "Cấp độ"
+
+msgid "Introductory"
+msgstr "Giới thiệu"
+
+msgid "Types"
+msgstr "Thể loại"
+
+msgid "Self-paced"
+msgstr "Tự học"
+
+msgid "Instructor-paced"
+msgstr "Có người hướng dẫn"
+
+msgid "3 courses found"
+msgstr "Tìm thấy 3 khóa học"
+
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+msgid "Starts:"
+msgstr "Ngày bắt đầu:"
+
+msgid "Already Enrolled"
+msgstr "Đã đăng ký"
+
+msgid "Course Summary"
+msgstr "Tổng quan khóa học"
+
+msgid "Course Number"
+msgstr "Mã khóa học"
+
+msgid "Classes Start"
+msgstr "Ngày bắt đầu"
+
+msgid "Reviews"
+msgstr "Đánh giá"
+
+msgid "Average Rating"
+msgstr "Xếp hạng trung bình"
+
+msgid "Detailed Ratings"
+msgstr "Đánh giá chi tiết"
+
+msgid "Updates"
+msgstr "Cập nhật"
+
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+msgid "Blog"
+msgstr "Bài viết"
+
+msgid "Terms of Service"
+msgstr "Điều khoản dịch vụ"
+
+msgid "Privacy Policy"
+msgstr "Chính sách bảo mật"
+
+msgid "Hello there!"
+msgstr "Xin chào!"
+
+msgid "Let's learn something today"
+msgstr "Hãy cùng khám phá kiến thức mới hôm nay nhé!"
+
+msgid "Primary Language Spoken"
+msgstr "Ngôn ngữ chính được sử dụng"
+
+msgid "About Me"
+msgstr "Về tôi"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Spoken language"
+msgstr "Ngôn ngữ chính"
+
+msgid "Education"
+msgstr "Học vấn"
+
+msgid "Master's or professional degree"
+msgstr "Bằng thạc sĩ hoặc bằng chuyên môn"
+
+msgid "Associate’s degree"
+msgstr "Cao đẳng"
+
+msgid "Junior secondary / junior high / middle school"
+msgstr "Trung học cơ sở"
+
+msgid "Elementary / primary school"
+msgstr "Tiểu học"
+
+msgid "No formal education"
+msgstr "Chưa qua đào tạo chính quy"
+
+msgid "My Achievements"
+msgstr "Thành tựu của tôi"
+
+msgid "My Learning Achievements & Badges"
+msgstr "Thành tựu học tập & huy hiệu của tôi"
+
+msgid "Track your progress and celebrate every milestone you achieve"
+msgstr "Theo dõi tiến độ học tập và ghi nhận mọi cột mốc bạn đạt được"
+
+msgid "Badges Earned"
+msgstr "Huy hiệu đạt được"
+
+msgid "Certificates Earned"
+msgstr "Chứng chỉ đạt được"
+
+msgid "Courses Completed"
+msgstr "Khóa học đã hoàn thành"
+
+msgid "Learning Explorer"
+msgstr "Người khám phá tri thức"
+
+msgid "Enrolled in your first course—keep going!"
+msgstr "Bạn đã ghi danh khóa học đầu tiên — hãy tiếp tục nhé!"

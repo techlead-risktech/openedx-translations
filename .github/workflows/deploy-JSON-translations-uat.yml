@@ -60,10 +60,7 @@ jobs:
               tutor local stop
 
               echo "🔹 Building Open edX image with updated translations"
-              tutor images build openedx \
-                --build-arg EDX_PLATFORM_REPOSITORY=https://github.com/techlead-risktech/edx-platform.git \
-                --build-arg EDX_PLATFORM_VERSION=starlent-lms \
-                --no-cache
+              tutor images build mfe --no-cache
 
               echo "🔹 Starting Open edX"
               tutor local start -d

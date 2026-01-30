@@ -1,4 +1,4 @@
-name: Deploy PO Translations to UAT
+name: Deploy JSON Translations to UAT
 
 on:
   workflow_dispatch:

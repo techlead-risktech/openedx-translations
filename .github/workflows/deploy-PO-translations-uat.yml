@@ -46,14 +46,13 @@ jobs:
               ${{ secrets.UAT_SSH_USER }}@${{ secrets.UAT_SSH_HOST }} << 'EOF'
             set -e
 
-            echo "🔹 Switching to Tutor user"
-            sudo -u ${{ secrets.UAT_TUTOR_USER }} bash << 'INNER_EOF'
+            echo "🔹 Moving to Tutor directory"
+            cd ${{ secrets.UAT_TUTOR_PATH }}
+
+            echo "🔹 Running deployment as Tutor user"
+            sudo -u ${{ secrets.UAT_TUTOR_USER }} bash -c '
               set -e
 
-              echo "🔹 Moving to Tutor directory"
-              cd ${{ secrets.UAT_TUTOR_PATH }}
-
-              echo "🔹 Activating Tutor virtualenv"
               source tutor-env/bin/activate
 
               echo "🔹 Stopping Open edX"
@@ -68,6 +67,6 @@ jobs:
               echo "🔹 Starting Open edX"
               tutor local start -d
 
-              echo "✅ Deployment completed successfully"
-            INNER_EOF
+              echo "Deployment completed successfully"
+            '
           EOF

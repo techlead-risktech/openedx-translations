@@ -1,0 +1,49 @@
+name: Deploy Open edX Translations to UAT
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: "Deployment Environment"
+        required: true
+        default: "uat"
+
+jobs:
+  deploy:
+    name: Deploy Translations
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.UAT_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H ${{ secrets.UAT_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Deploy translations on UAT server
+        run: |
+          ssh ${{ secrets.UAT_USER }}@${{ secrets.UAT_HOST }} << 'EOF'
+            set -e
+            sudo su ${{ secrets.UAT_TUTOR_USER }}
+            echo "🔹 Activating Tutor environment"
+            cd ${{ secrets.UAT_TUTOR_PATH }}
+            source tutor-env/bin/activate
+
+            echo "🔹 Stopping Open edX"
+            tutor local stop
+
+            echo "🔹 Building Open edX image with updated translations"
+            tutor images build openedx \
+              --build-arg EDX_PLATFORM_REPOSITORY=https://github.com/techlead-risktech/edx-platform.git \
+              --build-arg EDX_PLATFORM_VERSION=starlent-lms \
+              --no-cache
+
+            echo "🔹 Starting Open edX"
+            tutor local start -d
+
+            echo "✅ Deployment completed successfully"
+          EOF

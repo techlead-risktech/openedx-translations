@@ -2897,7 +2897,7 @@ msgid ""
 "If you set this email address, click \"confirm email.\"  If you didn't "
 "request this change, you can disregard this email."
 msgstr ""
-"Nếu bạn đặt địa chỉ email này, hãy nhấp vào &quot;xác nhận email&quot;. Nếu "
+"Nếu bạn đặt địa chỉ email này, hãy nhấp vào xác nhận email. Nếu "
 "bạn không yêu cầu thay đổi này, bạn có thể bỏ qua email này."
 
 #. Translators: This label appears above a field on the registration form
@@ -19790,7 +19790,7 @@ msgstr "Xem tài nguyên trong cửa sổ mới"
 msgid ""
 "Please provide launch_url. Click \"Edit\", and fill in the required fields."
 msgstr ""
-"Vui lòng cung cấp launch_url. Nhấp vào &quot;Chỉnh sửa&quot; và điền vào các"
+"Vui lòng cung cấp launch_url. Nhấp vào Chỉnh sửa và điền vào các"
 " trường bắt buộc."
 
 #: lms/templates/lti.html:62

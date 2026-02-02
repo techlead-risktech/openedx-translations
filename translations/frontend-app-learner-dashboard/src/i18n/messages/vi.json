@@ -142,5 +142,6 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} đã không chấp thuận yêu cầu tín chỉ khóa học của bạn. Để biết thêm thông tin chi tiết vui lòng liên hệ trực tiếp {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Yêu cầu tín dụng",
   "learner-dash.courseCard.banners.credit.viewCredit": "Xem tín dụng",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết",
+  "ProductRecommendations.courseHeading": "Khóa học"
 }

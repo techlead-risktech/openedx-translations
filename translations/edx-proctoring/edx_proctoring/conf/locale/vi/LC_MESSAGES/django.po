@@ -898,7 +898,7 @@ msgid ""
 "Once you click \"Yes, end my proctored exam\", the exam will be closed, and "
 "your proctoring session will be submitted for review."
 msgstr ""
-"Sau khi bạn nhấp vào &quot;Có, kết thúc bài kiểm tra giám sát của tôi&quot;,"
+"Sau khi bạn nhấp vào Có, kết thúc bài kiểm tra giám sát của tôi,"
 " bài kiểm tra sẽ kết thúc và phiên giám sát của bạn sẽ được gửi để xem xét."
 
 #: templates/proctored_exam/ready_to_submit.html:15

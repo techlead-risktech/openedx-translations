@@ -1737,5 +1737,15 @@
   "problemEditor.settings.tolerance.type.number": "Con số",
   "problemEditor.settings.tolerance.type.none": "Không có",
   "course-authoring.studio-home.default-section-1.description": "Người tạo khóa học phải cấp cho bạn quyền truy cập vào khóa học. Liên hệ với người tạo khóa học hoặc quản trị viên của khóa học mà bạn đang hỗ trợ biên soạn.",
-  "course-authoring.studio-home.courses.tab.title": "Khóa học"
+  "course-authoring.studio-home.courses.tab.title": "Khóa học",
+  "dashboard.mycourses": "Khóa học của tôi",
+  "learning.outline.tools": "Công cụ",
+  "learning.outline.dates": "Ngày quan trọng",
+  "learning.outline.dates.all": "Xem tất cả các ngày quan trọng của khóa học",
+  "learning.outline.handouts": "Tài liệu phát tay",
+  "learning.outline.startBlurb": "Bắt đầu khóa học của bạn hôm nay",
+  "tours.button.launchTour" : "Bắt đầu hướng dẫn",
+  "discussions.posts.actionBar.searchAllPosts": "Tìm kiếm tất cả các bài đăng",
+  "discussions.topics.find.label": "Tìm chủ đề",
+  "course-authoring.content-tags-drawer.content-tags-collapsible.custom-menu.inline-save-staged-tags":"Thêm"
 }

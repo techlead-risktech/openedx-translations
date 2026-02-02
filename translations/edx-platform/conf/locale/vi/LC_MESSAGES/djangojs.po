@@ -9620,6 +9620,9 @@ msgstr "Các khóa học trong danh mục này:"
 msgid "Expand All"
 msgstr "Mở rộng"
 
+msgid "Expand all"
+msgstr "Mở rộng"
+
 #: lms/templates/ccx/schedule.underscore:6
 msgid "Collapse All"
 msgstr "Thu gọn tất cả"
@@ -9663,7 +9666,7 @@ msgstr "chuyển đổi tiểu mục %(displayName)s"
 
 #: lms/templates/ccx/schedule.underscore:60
 msgid "Subsection"
-msgstr "tiểu mục"
+msgstr "Tiểu mục"
 
 #: lms/templates/ccx/schedule.underscore:75
 #, python-format

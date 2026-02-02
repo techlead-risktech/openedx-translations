@@ -264,7 +264,7 @@ msgstr "Điểm nổi bật của phần"
 #: cms/djangoapps/contentstore/helpers.py:209
 #: lms/templates/ccx/schedule.html:90
 msgid "Subsection"
-msgstr "tiểu mục"
+msgstr "Tiểu mục"
 
 #: cms/djangoapps/contentstore/helpers.py:211
 #: lms/djangoapps/instructor/views/tools.py:241
@@ -4185,7 +4185,7 @@ msgstr "giáo trình"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "ngày"
+msgstr "Ngày"
 
 #: lms/djangoapps/courseware/views/index.py:233
 #, python-brace-format
@@ -23845,7 +23845,7 @@ msgstr "Hồ sơ"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
-msgstr "lịch sử đơn hàng"
+msgstr "Lịch sử đơn hàng"
 
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:7
 #: lms/templates/instructor/instructor_dashboard_2/add_coupon_modal.html:19
@@ -26877,7 +26877,7 @@ msgid "Team Subscription1"
 msgstr "Gói nhóm"
 
 msgid "days"
-msgstr "ngày"
+msgstr "Ngày"
 
 msgid "Access to premium courses"
 msgstr "Quyền truy cập vào các khóa học cao cấp"
@@ -27752,3 +27752,26 @@ msgstr "Huy hiệu đang mở khóa"
 
 msgid "Welcome Aboard!"
 msgstr "Thành viên mới!"
+
+msgid "My Subcription"
+msgstr "Gói đã đăng ký"
+
+msgid "Plans"
+msgstr "Gói"
+
+msgid "days remaining"
+msgstr "ngày còn lại"
+
+msgid "Discover"
+msgstr "Khám phá"
+
+msgid "Module"
+msgstr "Học phần"
+
+msgid "Search topics"
+msgstr "Tìm chủ đề"
+
+msgid "All posts sorted by recent activity"
+msgstr "Tất cả bài viết được sắp xếp theo hoạt động gần đây"
+
+msgid "

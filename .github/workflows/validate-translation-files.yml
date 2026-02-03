@@ -9,10 +9,6 @@ on:
   pull_request:
     branches:
       - starlent/teak.2
-  workflow_dispatch:
-    branches:
-      - starlent/teak.2
-
 
 jobs:
   validate-po-files:

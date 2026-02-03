@@ -977,7 +977,7 @@
   "course-authoring.group-configurations.sidebar.about-3.description-1": "Các nhóm theo dõi ghi danh cho phép bạn cung cấp nội dung khóa học khác nhau cho người học trong mỗi kênh ghi danh. Những người học đã ghi danh vào từng lộ trình ghi danh trong khóa học của bạn sẽ tự động được đưa vào nhóm lộ trình ghi danh tương ứng.",
   "course-authoring.group-configurations.sidebar.about-3.description-2": "Trên các trang mục trong đề cương khóa học, bạn có thể hạn chế quyền truy cập vào các thành phần của người học dựa trên quá trình ghi danh của họ.",
   "course-authoring.group-configurations.sidebar.about-3.description-3": "Bạn không thể chỉnh sửa nhóm theo dõi ghi danh nhưng bạn có thể mở rộng từng nhóm để xem chi tiết về nội dung khóa học được chỉ định cho người học trong nhóm.",
-  "course-authoring.group-configurations.sidebar.about.description.strong-edit": "biên tập",
+  "course-authoring.group-configurations.sidebar.about.description.strong-edit": "Chỉnh sửa",
   "course-authoring.group-configurations.sidebar.learnmore.button": "Tìm hiểu thêm",
   "course-authoring.import.file-section.title": "Chọn tệp .tar.gz để thay thế nội dung khóa học của bạn",
   "course-authoring.import.file-section.chosen-file": "Tệp đã chọn: {fileName}",

@@ -9,7 +9,7 @@
   "profile.loading": "Đang tải hồ sơ...",
   "profile.username.description": "Thông tin hồ sơ của bạn chỉ hiển thị với bạn. Chỉ tên người dùng của bạn mới hiển thị với những người khác trên {siteName}.",
   "profile.bio.empty": "Thêm tiểu sử ngắn",
-  "profile.bio.about.me": "",
+  "profile.bio.about.me": "Về tôi",
   "profile.certificate.organization.label": "Từ",
   "profile.certificate.completion.date.label": "Đã hoàn thành vào {date}",
   "profile.no.certificates": "Bạn chưa có bất kỳ chứng chỉ nào.",

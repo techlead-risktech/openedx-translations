@@ -27789,7 +27789,7 @@ msgstr "Công cụ LTI sử dụng dữ liệu cá nhân"
 msgid "Proctoring pii signatures"
 msgstr "Thỏa thuận dữ liệu cá nhân cho giám sát thi"
 
-Legacy Libraries"
+msgid "Legacy Libraries"
 msgstr "Thư viện cũ"
 
 msgid "Maintenance"

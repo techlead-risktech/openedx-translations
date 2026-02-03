@@ -27774,7 +27774,22 @@ msgstr "Tìm chủ đề"
 msgid "All posts sorted by recent activity"
 msgstr "Tất cả bài viết được sắp xếp theo hoạt động gần đây"
 
-msgid "Legacy Libraries"
+msgid "Agreements"
+msgstr "Thỏa thuận"
+
+msgid "Integrity signatures"
+msgstr "Cam kết liêm chính"
+
+msgid "Ltipii signatures"
+msgstr "Thỏa thuận dữ liệu cá nhân (LTI)"
+
+msgid "Ltipii tools"
+msgstr "Công cụ LTI sử dụng dữ liệu cá nhân"
+
+msgid "Proctoring pii signatures"
+msgstr "Thỏa thuận dữ liệu cá nhân cho giám sát thi"
+
+Legacy Libraries"
 msgstr "Thư viện cũ"
 
 msgid "Maintenance"

@@ -27753,7 +27753,7 @@ msgstr "Huy hiệu đang mở khóa"
 msgid "Welcome Aboard!"
 msgstr "Thành viên mới!"
 
-msgid "My Subcription"
+msgid "My Subscription"
 msgstr "Gói đã đăng ký"
 
 msgid "Plans"
@@ -27773,5 +27773,3 @@ msgstr "Tìm chủ đề"
 
 msgid "All posts sorted by recent activity"
 msgstr "Tất cả bài viết được sắp xếp theo hoạt động gần đây"
-
-msgid "

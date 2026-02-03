@@ -1747,5 +1747,8 @@
   "tours.button.launchTour" : "Bắt đầu hướng dẫn",
   "discussions.posts.actionBar.searchAllPosts": "Tìm kiếm tất cả các bài đăng",
   "discussions.topics.find.label": "Tìm chủ đề",
-  "course-authoring.content-tags-drawer.content-tags-collapsible.custom-menu.inline-save-staged-tags":"Thêm"
+  "course-authoring.content-tags-drawer.content-tags-collapsible.custom-menu.inline-save-staged-tags":"Thêm",
+  "course-authoring.studio-home.libraries.tab.title": "Thư viện",
+  "course-authoring.taxonomy-list.header.title": "Phân loại",
+  "header.user.menu.maintenance": "Bảo trì"
 }

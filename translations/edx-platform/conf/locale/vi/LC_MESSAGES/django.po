@@ -27773,3 +27773,9 @@ msgstr "Tìm chủ đề"
 
 msgid "All posts sorted by recent activity"
 msgstr "Tất cả bài viết được sắp xếp theo hoạt động gần đây"
+
+msgid "Legacy Libraries"
+msgstr "Thư viện cũ"
+
+msgid "Maintenance"
+msgstr "Bảo trì"

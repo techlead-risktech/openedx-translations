@@ -1752,5 +1752,9 @@
   "course-authoring.taxonomy-list.header.title": "Phân loại",
   "header.user.menu.maintenance": "Bảo trì",
   "course-authoring.studio-home.add-new-course.btn.text": "Khóa học mới",
-  "course-authoring.studio-home.add-new-library.btn.text": "Thư viện mới"
+  "course-authoring.studio-home.add-new-library.btn.text": "Thư viện mới",
+  "course-authoring.studio-home.legacy.libraries.tab.title": "Thư viện di sản",
+  "course-authoring.studio-home.libraries.tab.title": "Thư viện",
+  "course-authoring.studio-home.taxonomies.tab.title": "Phân loại",
+  "course-authoring.studio-home.archived.tab.title": "Khóa học đã lưu",
 }

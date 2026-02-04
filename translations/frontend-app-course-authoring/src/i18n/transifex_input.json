@@ -1735,5 +1735,16 @@
   "problemEditor.settings.tolerance.answerrangewarning": "Tolerance cannot be applied to an answer range",
   "problemEditor.settings.tolerance.type.percent": "Percentage",
   "problemEditor.settings.tolerance.type.number": "Number",
-  "problemEditor.settings.tolerance.type.none": "None"
+  "problemEditor.settings.tolerance.type.none": "None",
+  "course-authoring.studio-home.legacy.libraries.tab.title": "Legacy Libraries",
+  "course-authoring.studio-home.libraries.tab.title": "Libraries",
+  "course-authoring.studio-home.taxonomies.tab.title": "Taxonomies",
+  "course-authoring.studio-home.archived.tab.title": "Archived courses",
+  "course-authoring.studio-home.courses.tab.course.not.found.alert.title": "We could not find any result",
+  "course-authoring.studio-home.courses.tab.course.not.found.alert.message": "There are no courses with the current filters.",
+  "course-authoring.studio-home.courses.tab.course.not.found.alert.clean.filters.button": "Clear filters",
+  "course-authoring.studio-home.libraries.tab.library.not.found.alert.title": "We could not find any result",
+  "course-authoring.studio-home.libraries.tab.library.not.found.alert.message": "There are no libraries with the current filters.",
+  "course-authoring.studio-home.libraries.tab.library.not.found.alert.clean.filters.button": "Clear filters",
+  "course-authoring.studio-home.taxonomies.tab.taxonomy.not.found.alert.title": "We could not find any result",
 }

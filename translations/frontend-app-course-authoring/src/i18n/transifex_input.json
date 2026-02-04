@@ -1746,5 +1746,5 @@
   "course-authoring.studio-home.libraries.tab.library.not.found.alert.title": "We could not find any result",
   "course-authoring.studio-home.libraries.tab.library.not.found.alert.message": "There are no libraries with the current filters.",
   "course-authoring.studio-home.libraries.tab.library.not.found.alert.clean.filters.button": "Clear filters",
-  "course-authoring.studio-home.taxonomies.tab.taxonomy.not.found.alert.title": "We could not find any result",
+  "course-authoring.studio-home.taxonomies.tab.taxonomy.not.found.alert.title": "We could not find any result"
 }

@@ -1750,5 +1750,7 @@
   "course-authoring.content-tags-drawer.content-tags-collapsible.custom-menu.inline-save-staged-tags":"Thêm",
   "course-authoring.studio-home.libraries.tab.title": "Thư viện",
   "course-authoring.taxonomy-list.header.title": "Phân loại",
-  "header.user.menu.maintenance": "Bảo trì"
+  "header.user.menu.maintenance": "Bảo trì",
+  "course-authoring.studio-home.add-new-course.btn.text": "Khóa học mới",
+  "course-authoring.studio-home.add-new-library.btn.text": "Thư viện mới"
 }

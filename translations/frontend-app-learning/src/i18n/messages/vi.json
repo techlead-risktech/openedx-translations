@@ -124,5 +124,6 @@
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} và số mũ",
   "learn.honorCode.content": "Sự trung thực và liêm chính trong học tập rất quan trọng đối với {siteName} cũng như các tổ chức cung cấp các khóa học và chương trình trên trang web {siteName} . Bằng cách nhấp vào “Tôi đồng ý” bên dưới, tôi xác nhận rằng tôi đã đọc, hiểu và sẽ tuân theo {link} cho Trang web {siteName} .",
   "learn.course.sequence.navigation.mobile.menu": "{current} của {total}",
-  "learn.coursewareSearch.submitLabel": "Tìm kiếm"
+  "learn.coursewareSearch.submitLabel": "Tìm kiếm",
+  "learn.coursewareSearch.searchBarPlaceholderText": "Tìm kiếm"
 }

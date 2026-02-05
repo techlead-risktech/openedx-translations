@@ -27441,9 +27441,6 @@ msgstr "Tiếp tục khóa học"
 msgid "Start course"
 msgstr "Bắt đầu khóa học"
 
-msgid "Subsection"
-msgstr "Tiểu mục"
-
 msgid "Subsection (2 Questions)"
 msgstr "Tiểu mục (2 câu hỏi)"
 

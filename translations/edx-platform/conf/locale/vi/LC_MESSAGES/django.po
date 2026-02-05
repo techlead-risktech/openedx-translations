@@ -27426,7 +27426,7 @@ msgstr "Bắt đầu khóa học của bạn hôm nay"
 msgid "Course Tools"
 msgstr "Công cụ khóa học"
 
-msgid "Inittial Training due"
+msgid "Initial Training due"
 msgstr "Đến hạn đào tạo ban đầu"
 
 msgid "Launch tour"
@@ -27441,7 +27441,7 @@ msgstr "Tiếp tục khóa học"
 msgid "Start course"
 msgstr "Bắt đầu khóa học"
 
-msgid "Subsetion"
+msgid "Subsection"
 msgstr "Tiểu mục"
 
 msgid "Subsection (2 Questions)"

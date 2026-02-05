@@ -27794,3 +27794,6 @@ msgstr "Thư viện cũ"
 
 msgid "Maintenance"
 msgstr "Bảo trì"
+
+msgid "Earned Badges"
+msgstr "Huy hiệu đã đạt được"

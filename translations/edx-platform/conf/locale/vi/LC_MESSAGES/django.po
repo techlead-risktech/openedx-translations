@@ -27797,3 +27797,33 @@ msgstr "Bảo trì"
 
 msgid "Earned Badges"
 msgstr "Huy hiệu đã đạt được"
+
+msgid "Your progress"
+msgstr "Tiến trình của bạn"
+
+msgid "Course completion"
+msgstr "Hoàn thành khóa học"
+
+msgid "Homework"
+msgstr "Bài tập về nhà"
+
+msgid "Lab"
+msgstr "Thực hành"
+
+msgid "Midterm Exam"
+msgstr "Bài thi giữa kỳ"
+
+msgid "Final Exam"
+msgstr "Bài thi cuối kỳ"
+
+msgid "The lowest 2 Homework scores are dropped."
+msgstr "Hai điểm bài tập thấp nhất sẽ không được tính."
+
+msgid "The lowest 2 Lab scores are dropped."
+msgstr "Hai điểm bài thực hành thấp nhất sẽ không được tính."
+
+msgid "after"
+msgstr "sau"
+
+msgid "Please enter a valid email address."
+msgstr "Vui lòng nhập địa chỉ email hợp lệ."

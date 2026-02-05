@@ -27794,3 +27794,18 @@ msgstr "Thư viện cũ"
 
 msgid "Maintenance"
 msgstr "Bảo trì"
+
+msgid "The name for your library"
+msgstr "Tên cho thư viện của bạn"
+
+msgid "Required field."
+msgstr "Phần bắt buộc."
+
+msgid "The public organization name for your library. This cannot be changed."
+msgstr "Tên tổ chức công cộng cho thư viện của bạn. Điều này không thể thay đổi được."
+
+msgid "The unique code that identifies this library. Note: This is part of your library URL, so no spaces or special characters are allowed. This cannot be changed."
+msgstr "Mã duy nhất xác định thư viện này. Lưu ý: Đây là một phần URL thư viện của bạn, vì vậy không được phép có dấu cách hoặc ký tự đặc biệt. Điều này không thể thay đổi được."
+
+msgid "e.g. CSPROB"
+msgstr "ví dụ: CSPROB"

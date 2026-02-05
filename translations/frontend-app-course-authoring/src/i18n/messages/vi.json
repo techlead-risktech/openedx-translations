@@ -855,7 +855,7 @@
   "course-authoring.course-outline.delete-modal.description": "",
   "course-authoring.course-outline.delete-modal.button.delete": "",
   "course-authoring.course-outline.delete-modal.button.pending-delete": "",
-  "course-authoring.course-outline.delete-modal.button.cancel": "",
+  "course-authoring.course-outline.delete-modal.button.cancel": "Hủy",
   "course-authoring.help-sidebar.other.title": "Cài đặt khóa học khác",
   "course-authoring.help-sidebar.links.schedule-and-details": "Lịch trình &amp; chi tiết",
   "course-authoring.help-sidebar.links.grading": "Chấm điểm",

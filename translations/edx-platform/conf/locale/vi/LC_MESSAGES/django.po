@@ -27813,9 +27813,6 @@ msgstr "Thực hành"
 msgid "Midterm Exam"
 msgstr "Bài thi giữa kỳ"
 
-msgid "Final Exam"
-msgstr "Bài thi cuối kỳ"
-
 msgid "The lowest 2 Homework scores are dropped."
 msgstr "Hai điểm bài tập thấp nhất sẽ không được tính."
 

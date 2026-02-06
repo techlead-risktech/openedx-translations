@@ -498,7 +498,7 @@
   "adminPortal.LPR.moduleActivityReport.search.placeholder": "Tìm kiếm email hoặc tiêu đề khóa học",
   "adminPortal.LPR.moduleActivityReport.table.header.username": "Email",
   "adminPortal.LPR.moduleActivityReport.table.header.course": "Tên khóa học",
-  "adminPortal.LPR.moduleActivityReport.table.header.module": "Mô-đun",
+  "adminPortal.LPR.moduleActivityReport.table.header.module": "Học phần",
   "adminPortal.LPR.moduleActivityReport.table.header.moduleGrade": "Điểm",
   "adminPortal.LPR.moduleActivityReport.table.header.percentageCompletedActivities": "% Hành động đã hoàn thành",
   "adminPortal.LPR.moduleActivityReport.table.header.extensionsRequested": "Yêu cầu gia hạn",
@@ -975,5 +975,8 @@
   "admin.portal.license.management.filter.choice.active": "Đang hoạt động",
   "admin.portal.license.management.filter.choice.pending": "Chưa giải quyết",
   "admin.portal.license.management.filter.choice.revoked": "Đã thu hồi",
-  "admin.portal.license.management.table.column.recent.action": "Thao tác gần đây"
+  "admin.portal.license.management.table.column.recent.action": "Thao tác gần đây",
+  "learning.dates.title": "Ngày quan trọng",
+  "learning.outline.dates": "Ngày quan trọng",
+  "enterprise.course.about.page.important-dates.title": "Ngày quan trọng"
 }

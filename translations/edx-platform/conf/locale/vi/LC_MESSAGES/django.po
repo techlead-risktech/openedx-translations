@@ -27827,3 +27827,15 @@ msgstr "sau"
 
 msgid "Please enter a valid email address."
 msgstr "Vui lòng nhập địa chỉ email hợp lệ."
+
+msgid "The place for all your online learning"
+msgstr "Nơi hội tụ cho mọi hoạt động học tập trực tuyến của bạn"
+
+msgid "Internal Control"
+msgstr "Kiểm soát nội bộ"
+
+msgid "Search learners"
+msgstr "Tìm kiếm học viên"
+
+msgid "Conclusion"
+msgstr "Tổng kết"

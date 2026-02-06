@@ -27833,3 +27833,15 @@ msgstr "Tên tổ chức công cộng cho thư viện của bạn. Điều này 
 
 msgid "The unique code that identifies this library. Note: This is part of your library URL, so no spaces or special characters are allowed. This cannot be changed."
 msgstr "Mã duy nhất xác định thư viện này. Lưu ý: Đây là một phần URL thư viện của bạn, vì vậy không được phép có dấu cách hoặc ký tự đặc biệt. Điều này không thể thay đổi được."
+
+msgid "The place for all your online learning"
+msgstr "Nơi hội tụ cho mọi hoạt động học tập trực tuyến của bạn"
+
+msgid "Internal Control"
+msgstr "Kiểm soát nội bộ"
+
+msgid "Search learners"
+msgstr "Tìm kiếm học viên"
+
+msgid "Conclusion"
+msgstr "Tổng kết"

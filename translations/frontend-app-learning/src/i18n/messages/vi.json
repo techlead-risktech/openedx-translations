@@ -155,5 +155,16 @@
   "progress.relatedLinks.datesCard.link": "Ngày",
   "progress.relatedLinks.datesCard.description": "Chế độ xem lịch các hạn nộp và bài tập sắp tới của khóa học.",
   "progress.courseOutline": "Dàn bài khóa học",
-   "progress.relatedLinks.outlineCard.description": "Cái nhìn tổng quan về nội dung khóa học."
+  "progress.relatedLinks.outlineCard.description": "Cái nhìn tổng quan về nội dung khóa học.",
+  "learning.outline.startBlurb": "Bắt đầu học ngay hôm nay",
+  "learning.outline.start": "Bắt đầu khóa học",
+  "frontend-app-ora.xblock-studio-view.expandAllButton": "Mở rộng tất cả",
+  "learning.outline.dates.all": "Xem toàn bộ lịch học",
+  "learning.outline.handouts": "Tài liệu phát tay",
+  "learn.sequence.navigation.previous.button": "Trước",
+  "course-authoring.import-tags.wizard.button.previous":"Trước",
+  "course-authoring.import-tags.wizard.button.next":"Tiếp",
+  "progress.relatedLinks.outlineCard.link": "Dàn bài khóa học",
+  "courseOutline.tray.title": "Dàn bài khóa học",
+  "learning.dates.badge.today": "Hôm nay"
 }

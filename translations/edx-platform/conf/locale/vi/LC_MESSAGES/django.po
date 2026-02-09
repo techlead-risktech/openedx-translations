@@ -27842,3 +27842,18 @@ msgstr "Tổng kết"
 
 msgid "Email Address"
 msgstr "Địa chỉ email"
+
+msgid "Please enter your full name."
+msgstr "Vui lòng nhập họ và tên của bạn."
+
+msgid "Please enter a valid international phone number."
+msgstr "Vui lòng nhập số điện thoại quốc tế hợp lệ."
+
+msgid "Please select a preferred date."
+msgstr "Vui lòng chọn ngày bạn mong muốn."
+
+msgid "Please select a preferred time."
+msgstr "Vui lòng chọn thời gian bạn mong muốn."
+
+msgid "Please complete the reCAPTCHA verification."
+msgstr "Vui lòng hoàn tất xác minh reCAPTCHA."

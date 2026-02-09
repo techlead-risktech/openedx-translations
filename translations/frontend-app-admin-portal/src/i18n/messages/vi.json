@@ -327,7 +327,7 @@
   "admin.portal.reporting.config.add": "Thêm cấu hình báo cáo",
   "admin.portal.request.codes.error.heading": "",
   "admin.portal.request.codes.error.retry": "",
-  "admin.portal.request.codes.form.label.email": "",
+  "admin.portal.request.codes.form.label.email": "Địa chỉ email",
   "admin.portal.request.codes.form.label.company": "Email",
   "admin.portal.request.codes.form.label.numberOfCodes": "",
   "admin.portal.request.codes.form.label.notes": "",

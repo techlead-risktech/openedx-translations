@@ -26945,7 +26945,7 @@ msgstr "Ngày liên hệ"
 msgid "Preferred Time"
 msgstr "Thời gian liên hệ"
 
-msgid "Message (Optional)"
+msgid "Message (optional)"
 msgstr "Nội dung trao đổi (Không bắt buộc)"
 
 msgid "Book Consultation"
@@ -27839,3 +27839,6 @@ msgstr "Tìm kiếm học viên"
 
 msgid "Conclusion"
 msgstr "Tổng kết"
+
+msgid "Email Address"
+msgstr "Địa chỉ email"
